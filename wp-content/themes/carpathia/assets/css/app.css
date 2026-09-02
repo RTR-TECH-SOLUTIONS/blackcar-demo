@@ -57,17 +57,54 @@ body { overflow-x: clip; }
 	background: var(--ink);
 	border-bottom: 1px solid rgba(255, 255, 255, .09);
 }
-/* Logo-ul clientului, inline: preia culoarea contextului. */
-.site-logo {
+/* Semnul de brand: numele în serif-ul titlurilor, cu un rând de descriere
+   dedesubt, despărțit de o linie subțire aurie. Fără imagine. */
+.brand {
 	display: inline-flex;
-	align-items: center;
-	color: #fff;
+	flex-direction: column;
+	gap: .18rem;
+	text-decoration: none;
+	line-height: 1;
 	transition: opacity var(--t);
 }
-.site-logo:hover { opacity: .72; }
-.site-logo__mark { display: block; width: auto; height: 24px; }
-@media (min-width: 900px) { .site-logo__mark { height: 30px; } }
-.site-logo--footer .site-logo__mark { height: 28px; }
+.brand:hover { opacity: .82; }
+.brand__name {
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: 1.3rem;
+	font-weight: 500;
+	letter-spacing: .01em;
+	color: #fff;
+}
+.brand__tag {
+	position: relative;
+	padding-top: .32rem;
+	font-size: 0.5rem;
+	font-weight: 600;
+	letter-spacing: .2em;
+	text-transform: uppercase;
+	color: var(--gold-soft);
+	white-space: nowrap;
+}
+.brand__tag::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 1.6rem;
+	height: 1px;
+	background: var(--gold);
+}
+@media (min-width: 900px) {
+	.brand__name { font-size: 1.45rem; }
+	.brand__tag { font-size: 0.5625rem; }
+}
+/* Sub 700px rândul de descriere lățește semnul cât să strivească butonul de
+   ofertă din antet, așa că îl arătăm doar de la tabletă în sus. */
+@media (max-width: 699px) {
+	.site-header .brand__tag { display: none; }
+	.site-header .brand__name { font-size: 1.25rem; }
+}
+.brand--footer .brand__name { font-size: 1.45rem; }
 
 /* Navigația */
 .site-header .wp-block-navigation {
@@ -87,12 +124,14 @@ body { overflow-x: clip; }
 .site-header .wp-block-navigation .current-menu-item > a { color: var(--gold-soft); }
 
 /* Butonul din antet */
+.header-cta { flex: 0 0 auto; }
 .header-cta .wp-block-button__link {
 	background: var(--gold);
 	border-color: var(--gold);
 	color: var(--ink);
 	padding: 0.7rem 1.15rem;
 	font-size: 0.875rem;
+	white-space: nowrap;
 }
 .header-cta .wp-block-button__link:hover {
 	background: var(--gold-soft);
