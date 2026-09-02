@@ -71,7 +71,7 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 .skip-link.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute!important;width:1px;word-wrap:normal!important;word-break:normal!important}.skip-link.screen-reader-text:focus{background-color:#eee;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}
 </style>
 <link rel='stylesheet' id='carpathia-style-css' href="./wp-content/themes/carpathia/style.css?ver=1788312800" media='all' />
-<link rel='stylesheet' id='carpathia-app-css' href="./wp-content/themes/carpathia/assets/css/app.css?ver=1788389771" media='all' />
+<link rel='stylesheet' id='carpathia-app-css' href="./wp-content/themes/carpathia/assets/css/app.css?ver=1788390320" media='all' />
 <script data-wp-strategy="defer" defer id="carpathia-app-js" src="./wp-content/themes/carpathia/assets/js/app.js?ver=1788312800"></script>
 <script id="wp-importmap" type="importmap">
 {"imports":{"@wordpress/interactivity":"./wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=efaa5193bbad9c60ffd1"}}
@@ -175,74 +175,60 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 
 <main id="wp--skip-link--target" class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
 	
-<div class="wp-block-group alignfull hero has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--50)">
+<div class="wp-block-group alignfull hero is-layout-flow wp-block-group-is-layout-flow">
 
 	
-	<div class="wp-block-group alignwide hero__content is-layout-flow wp-block-group-is-layout-flow">
+	<div class="wp-block-group hero__text is-layout-flow wp-block-group-is-layout-flow">
 
 		
-		<h1 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--40)">Vă așteptăm la terminal, cu numele pe plăcuță</h1>
+		<h1 class="wp-block-heading" style="margin-bottom:1.4rem">Vă așteptăm la terminal, cu numele pe plăcuță</h1>
 		
 
 		
-		<div class="wp-block-group hero__row is-layout-flow wp-block-group-is-layout-flow">
+		<p class="hero__lead wp-block-paragraph">Urmărim numărul zborului și mutăm ora preluării dacă aterizați mai târziu. Prețul se confirmă înainte de cursă și rămâne același, indiferent de trafic sau de ora din noapte.</p>
+		
 
+		
+		<ul class="hero__points">
+			<li>Șaizeci de minute de așteptare incluse la sosiri</li>
+			<li>Preț fix, confirmat în scris pe WhatsApp</li>
+			<li>Șoferi proprii, vorbitori de engleză</li>
+		</ul>
+		
+
+		
+		<div class="wp-block-buttons hero__actions is-layout-flex wp-container-core-buttons-is-layout-b36695fa wp-block-buttons-is-layout-flex" style="margin-top:2rem">
 			
-			<figure class="placard">
-				<figcaption class="placard__head">
-					<span>Sosiri</span>
-					<span>Terminal 1</span>
-				</figcaption>
-				<p class="placard__name">Someșan Grup</p>
-				<p class="placard__meta">
-					<span>OTP</span>
-					<span>RO 392</span>
-					<span>21:40</span>
-				</p>
-			</figure>
-			
-
-			
-			<div class="wp-block-group hero__aside is-layout-flow wp-block-group-is-layout-flow">
-
-				
-				<p class="hero__lead wp-block-paragraph">Urmărim numărul zborului și mutăm ora preluării dacă aterizați mai târziu. Prețul se confirmă înainte de cursă și rămâne același, indiferent de trafic sau de ora din noapte.</p>
-				
-
-				
-				<ul class="hero__points">
-					<li>Șaizeci de minute de așteptare incluse la sosiri</li>
-					<li>Preț fix, confirmat în scris pe WhatsApp</li>
-					<li>Șoferi proprii, vorbitori de engleză</li>
-				</ul>
-				
-
-				
-				<div class="wp-block-buttons hero__actions is-layout-flex wp-container-core-buttons-is-layout-b36695fa wp-block-buttons-is-layout-flex" style="margin-top:2rem">
-					
-					<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="#cerere">Cere un preț</a></div>
-					
-
-					
-					<div class="wp-block-button is-style-outline is-style-outline--2"><a class="wp-block-button__link wp-element-button" href="tel:+40740305050">Sună 0740 305 050</a></div>
-					
-				</div>
-				
-
-			</div>
+			<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="#cerere">Cere un preț</a></div>
 			
 
 			
-			<figure class="hero__photo is-mono">
-				<img src="./wp-content/themes/carpathia/assets/images/masina-otopeni.jpg" width="960" height="1200" alt="Mercedes-Benz V-Class al Blackcar, în parcarea Aeroportului Otopeni, cu un avion pe pistă în fundal" fetchpriority="high" decoding="async">
-			</figure>
+			<div class="wp-block-button is-style-outline is-style-outline--2"><a class="wp-block-button__link wp-element-button" href="tel:+40740305050">Sună 0740 305 050</a></div>
 			
-
 		</div>
 		
 
 	</div>
 	
+
+	
+	<figure class="hero__photo">
+		<img class="is-mono" src="./wp-content/themes/carpathia/assets/images/masina-otopeni.jpg" width="960" height="1200" alt="Mercedes-Benz V-Class al Blackcar, în parcarea Aeroportului Otopeni, cu un avion pe pistă în fundal" fetchpriority="high" decoding="async">
+		<div class="placard">
+			<p class="placard__head">
+				<span>Sosiri</span>
+				<span>Terminal 1</span>
+			</p>
+			<p class="placard__name">Someșan Grup</p>
+			<p class="placard__meta">
+				<span>OTP</span>
+				<span>RO 392</span>
+				<span>21:40</span>
+			</p>
+		</div>
+	</figure>
+	
+
 </div>
 
 
