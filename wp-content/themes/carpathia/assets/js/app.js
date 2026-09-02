@@ -46,9 +46,46 @@
 			'Persoane: ' + (people || '1')
 		];
 
+		var mesaj = lines.join('\n');
 		var phone = form.getAttribute('data-whatsapp') || '';
-		var url = 'https://wa.me/' + phone + '?text=' + encodeURIComponent(lines.join('\n'));
+		var url = 'https://wa.me/' + phone + '?text=' + encodeURIComponent(mesaj);
 
 		window.open(url, '_blank', 'noopener');
+
+		// Pe desktop, WhatsApp Web poate să nu fie pornit, iar cererea s-ar pierde
+		// fără ca cineva să știe. Arătăm aceleași date și ca e-mail.
+		var fallback = document.querySelector('[data-quote-fallback]');
+		var mailto = document.querySelector('[data-quote-mailto]');
+		if (fallback && mailto) {
+			var email = form.getAttribute('data-email') || '';
+			mailto.href =
+				'mailto:' + email +
+				'?subject=' + encodeURIComponent('Cerere transfer') +
+				'&body=' + encodeURIComponent(mesaj);
+			fallback.hidden = false;
+		}
 	});
+
+	/**
+	 * Estimare de preț pe rutele din tabel. Nu înlocuiește oferta, dar răspunde
+	 * la „cât costă" fără ca omul să trebuiască să scrie cuiva.
+	 */
+	var estimator = document.querySelector('[data-estimator]');
+	if (estimator) {
+		var ruta = estimator.querySelector('[data-estimator-ruta]');
+		var masina = estimator.querySelector('[data-estimator-masina]');
+		var rezultat = estimator.querySelector('[data-estimator-rezultat]');
+
+		var arata = function () {
+			var optiune = ruta.options[ruta.selectedIndex];
+			var pret = optiune.getAttribute(
+				masina.value === 'van' ? 'data-van' : 'data-sedan'
+			);
+			rezultat.textContent = pret ? pret : '';
+		};
+
+		ruta.addEventListener('change', arata);
+		masina.addEventListener('change', arata);
+		arata();
+	}
 })();
