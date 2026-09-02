@@ -6,10 +6,12 @@
 	--ink: var(--wp--preset--color--ink, #0A0B0C);
 	--ink-2: var(--wp--preset--color--ink-2, #141618);
 	--ink-3: var(--wp--preset--color--ink-3, #2A2E33);
-	/* Brandul e monocrom: accentul e contrastul, nu o culoare. Pe fundal
-	   deschis accentul e negrul, pe fundal închis e albul. */
-	--chalk: var(--wp--preset--color--chalk, #C7C7C7);
-	--paper: var(--wp--preset--color--paper, #F2F2F2);
+	--gold: var(--wp--preset--color--gold, #B8924E);
+	--gold-soft: var(--wp--preset--color--gold-soft, #D9BC81);
+	/* Alama de brand cade sub 4.5:1 pe alb, deci textul mic pe fundal deschis
+	   folosește varianta închisă (5.0:1). */
+	--gold-ink: #8A6A2C;
+	--cream: var(--wp--preset--color--cream, #F5F3EF);
 	--line: var(--wp--preset--color--line, #E3E0D9);
 	--muted: var(--wp--preset--color--muted, #6B6E72);
 	--radius: 10px;
@@ -26,24 +28,22 @@ body { overflow-x: clip; }
 
 /* Focus vizibil, peste tot, fără excepții. */
 :where(a, button, input, select, textarea, summary, [tabindex]):focus-visible {
-	outline: 2px solid currentColor;
+	outline: 2px solid var(--gold);
 	outline-offset: 3px;
 	border-radius: 4px;
 }
 
 /* ---------- Antet ---------- */
 
-/* Site-ul e pe fond deschis: negrul rămâne în literă, în banda de CTA și în
-   subsol, nu în fundalul paginii. */
 .site-topbar {
-	background: #fff;
-	color: var(--muted);
+	background: var(--ink);
+	color: #C9C7C2;
 	font-size: 0.8125rem;
-	border-bottom: 1px solid var(--line);
+	border-bottom: 1px solid rgba(255, 255, 255, .07);
 }
 .site-topbar .wp-block-group { min-height: var(--topbar-h); }
-.site-topbar a { color: var(--muted); text-decoration: none; }
-.site-topbar a:hover { color: var(--ink); }
+.site-topbar a { color: #E2E0DA; text-decoration: none; }
+.site-topbar a:hover { color: var(--gold-soft); }
 
 @media (max-width: 640px) {
 	.topbar-email { display: none; }
@@ -54,21 +54,11 @@ body { overflow-x: clip; }
 	position: sticky;
 	top: 0;
 	z-index: 100;
-	background: #fff;
-	border-bottom: 1px solid var(--line);
+	background: var(--ink);
+	border-bottom: 1px solid rgba(255, 255, 255, .09);
 }
-/* Logo-ul clientului, inline: preia culoarea contextului. */
-.site-logo {
-	display: inline-flex;
-	align-items: center;
-	color: var(--ink);
-	transition: opacity var(--t);
-}
-.site-logo:hover { opacity: .6; }
-.site-logo__mark { display: block; width: auto; height: 22px; }
-@media (min-width: 900px) { .site-logo__mark { height: 30px; } }
-.site-logo--footer { color: #fff; }
-.site-logo--footer .site-logo__mark { height: 28px; }
+.site-header .wp-block-site-title a { color: #fff; text-decoration: none; }
+.site-header .wp-block-site-title a:hover { color: var(--gold-soft); }
 
 /* Navigația */
 .site-header .wp-block-navigation {
@@ -78,61 +68,41 @@ body { overflow-x: clip; }
 .site-header .wp-block-navigation a,
 .site-header .wp-block-navigation a:any-link,
 .site-header .wp-block-navigation .wp-block-navigation-item__content {
-	color: var(--ink);
+	color: #E9E7E2;
 	text-decoration: none;
 	padding-block: 0.4rem;
 	transition: color var(--t);
 }
 .site-header .wp-block-navigation a:hover,
-.site-header .wp-block-navigation .wp-block-navigation-item__content:hover { color: var(--muted); }
-.site-header .wp-block-navigation .current-menu-item > a {
-	color: var(--ink);
-	box-shadow: inset 0 -1px 0 0 var(--ink);
-}
+.site-header .wp-block-navigation .wp-block-navigation-item__content:hover { color: var(--gold-soft); }
+.site-header .wp-block-navigation .current-menu-item > a { color: var(--gold-soft); }
 
 /* Butonul din antet */
 .header-cta .wp-block-button__link {
-	background: var(--ink);
-	border-color: var(--ink);
-	color: #fff;
+	background: var(--gold);
+	border-color: var(--gold);
+	color: var(--ink);
 	padding: 0.7rem 1.15rem;
 	font-size: 0.875rem;
 }
 .header-cta .wp-block-button__link:hover {
-	background: var(--ink-3);
-	border-color: var(--ink-3);
-	color: #fff;
+	background: var(--gold-soft);
+	border-color: var(--gold-soft);
+	color: var(--ink);
 }
 
-/* Butonul de meniu mobil e desenat de WP cu currentColor */
-.site-header .wp-block-navigation__responsive-container-open { color: var(--ink); }
-
-/* Meniul mobil deschis rămâne negru: e singurul moment în care pagina se inversează */
+/* Meniul mobil deschis */
 .wp-block-navigation__responsive-container.is-menu-open {
 	background: var(--ink) !important;
 	color: #fff;
 	padding-top: calc(var(--header-h) + 1rem);
 }
 .wp-block-navigation__responsive-container.is-menu-open a { color: #fff; font-size: 1.25rem; }
-.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-close { color: #fff; }
 
 /* ---------- Butoane ---------- */
 
 .wp-block-button__link { transition: background var(--t), color var(--t), border-color var(--t); }
 
-/* Varianta conturată pe fond deschis */
-.is-style-outline .wp-block-button__link,
-.wp-block-button.is-style-outline > .wp-block-button__link {
-	background: transparent;
-	border: 1px solid var(--ink);
-	color: var(--ink);
-}
-.is-style-outline .wp-block-button__link:hover {
-	background: var(--ink);
-	color: #fff;
-}
-
-/* Varianta pentru benzile negre (CTA, subsol) */
 .is-style-outline-light .wp-block-button__link,
 .wp-block-button.is-style-outline-light > .wp-block-button__link {
 	background: transparent;
@@ -145,62 +115,105 @@ body { overflow-x: clip; }
 	color: #fff;
 }
 
-.is-style-light .wp-block-button__link {
-	background: #fff;
-	border-color: #fff;
+.is-style-gold .wp-block-button__link {
+	background: var(--gold);
+	border-color: var(--gold);
 	color: var(--ink);
 }
-.is-style-light .wp-block-button__link:hover {
-	background: var(--chalk);
-	border-color: var(--chalk);
+.is-style-gold .wp-block-button__link:hover {
+	background: var(--gold-soft);
+	border-color: var(--gold-soft);
 	color: var(--ink);
 }
 
 /* ---------- Hero ---------- */
 
-/* Landing-ul e condus de mașină: textul pe stânga, fotografia pe dreapta,
-   ruptă până în marginea ecranului. */
 .hero {
-	display: grid;
-	background: #fff;
-	/* marginea din stânga se aliniază cu coloana lată a restului paginii */
-	--hero-gutter: max(clamp(1.25rem, 5vw, 3rem), calc((100vw - 1220px) / 2));
+	position: relative;
+	background: var(--ink);
+	color: #fff;
+	isolation: isolate;
 }
-@media (min-width: 900px) {
-	.hero {
-		grid-template-columns: minmax(0, 1fr) minmax(0, 44%);
-		align-items: center;
-		min-height: clamp(32rem, 72vh, 46rem);
+.hero .hero__media {
+	position: absolute;
+	inset: 0;
+	z-index: -2;
+	overflow: hidden;
+	/* layout-ul constrained din WP pune max-width pe copii, inclusiv pe cei absoluti */
+	max-width: none;
+	margin-inline: 0;
+}
+.hero__media img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	object-position: 60% 62%;
+}
+.hero::after {
+	content: "";
+	position: absolute;
+	inset: 0;
+	z-index: -1;
+	background:
+		linear-gradient(to right, rgba(6, 7, 8, .82) 0%, rgba(6, 7, 8, .62) 38%, rgba(6, 7, 8, .18) 72%, rgba(6, 7, 8, .26) 100%),
+		linear-gradient(to bottom, rgba(6, 7, 8, .40) 0%, rgba(6, 7, 8, .04) 42%, rgba(6, 7, 8, .52) 100%);
+}
+/* pe mobil imaginea umple tot cadrul, deci textul are nevoie de mai mult voal */
+@media (max-width: 780px) {
+	.hero::after {
+		background:
+			linear-gradient(to bottom, rgba(6, 7, 8, .74) 0%, rgba(6, 7, 8, .60) 45%, rgba(6, 7, 8, .82) 100%);
 	}
 }
-.hero__text {
-	padding: clamp(3rem, 7vw, 5.5rem) var(--hero-gutter);
-	max-width: 42rem;
-	margin-left: 0;
+.hero :where(h1, h2, h3, p) { color: #fff; }
+.hero .hero__content > :where(p, h1, ul, .wp-block-buttons) { max-width: 36rem; }
+.hero__actions { margin-top: 2rem; }
+.hero .wp-block-button.is-style-outline .wp-block-button__link {
+	background: transparent;
+	color: #fff;
+	border: 1px solid rgba(255, 255, 255, .45);
 }
-@media (min-width: 900px) {
-	.hero__text { padding-right: clamp(2rem, 5vw, 4rem); }
+.hero .wp-block-button.is-style-outline .wp-block-button__link:hover {
+	background: rgba(255, 255, 255, .08);
+	border-color: #fff;
+	color: #fff;
 }
-.hero__text > * { margin-block: 0; }
+
 .hero h1 {
 	text-wrap: balance;
-	font-size: clamp(2.4rem, 4.4vw, 3.9rem);
+	font-size: clamp(2.5rem, 5.4vw, 4.25rem);
 }
 .hero__lead {
-	color: var(--muted);
+	color: #CBC8C1;
 	max-width: 46ch;
 	font-size: 1.0625rem;
+}
+
+.hero__eyebrow {
+	display: inline-flex;
+	align-items: center;
+	gap: .55rem;
+	font-size: 0.8125rem;
+	letter-spacing: .04em;
+	color: var(--gold-soft);
+	margin: 0 0 1.1rem;
+}
+.hero__eyebrow::before {
+	content: "";
+	width: 26px;
+	height: 1px;
+	background: var(--gold);
 }
 
 /* Lista de argumente din hero */
 .hero__points {
 	list-style: none;
 	padding: 0;
-	margin: 1.5rem 0 0;
+	margin: 1.6rem 0 0;
 	display: grid;
 	gap: .55rem;
 	font-size: 0.9375rem;
-	color: var(--ink);
+	color: #D6D3CC;
 }
 .hero__points li {
 	display: flex;
@@ -210,111 +223,12 @@ body { overflow-x: clip; }
 .hero__points li::before {
 	content: "";
 	flex: 0 0 auto;
-	width: 5px;
-	height: 5px;
-	margin-top: .62rem;
-	background: var(--ink);
+	width: 7px;
+	height: 7px;
+	margin-top: .5rem;
+	background: var(--gold);
+	transform: rotate(45deg);
 }
-
-.hero__photo {
-	position: relative;
-	margin: 0;
-	min-height: 22rem;
-}
-.hero__photo img {
-	display: block;
-	width: 100%;
-	height: 100%;
-	min-height: 22rem;
-	object-fit: cover;
-	object-position: 52% 60%;
-}
-@media (max-width: 899px) {
-	.hero__photo img { height: 62vw; max-height: 30rem; }
-}
-
-/* Plăcuța de la sosiri: obiectul real al meseriei, nu un badge decorativ.
-   Stă peste fotografie, unde o ține șoferul. */
-.placard {
-	position: absolute;
-	left: clamp(1rem, 3vw, 1.75rem);
-	bottom: clamp(1rem, 3vw, 1.75rem);
-	box-sizing: border-box;
-	background: #fff;
-	color: var(--ink);
-	border-radius: 10px;
-	padding: .9rem 1.15rem 1.05rem;
-	margin: 0;
-	width: calc(100% - 2 * clamp(1rem, 3vw, 1.75rem));
-	max-width: 19rem;
-	box-shadow: 0 2px 6px rgba(0, 0, 0, .12), 0 18px 40px rgba(0, 0, 0, .18);
-}
-.placard__head {
-	display: flex;
-	gap: 1.2rem;
-	justify-content: space-between;
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 0.625rem;
-	letter-spacing: .14em;
-	text-transform: uppercase;
-	color: var(--muted);
-	padding-bottom: .6rem;
-	border-bottom: 1px solid var(--line);
-	margin: 0;
-}
-.placard__name {
-	color: var(--ink);
-	font-size: 1.5rem;
-	font-weight: 600;
-	letter-spacing: -.02em;
-	line-height: 1.1;
-	margin: .75rem 0 .5rem;
-}
-.placard__meta {
-	display: flex;
-	gap: .9rem;
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 0.75rem;
-	font-variant-numeric: tabular-nums;
-	color: var(--muted);
-	margin: 0;
-}
-.placard__meta span + span { position: relative; padding-left: .9rem; }
-.placard__meta span + span::before {
-	content: "";
-	position: absolute;
-	left: 0;
-	top: 50%;
-	width: 3px;
-	height: 3px;
-	border-radius: 50%;
-	background: #B0B0B0;
-	transform: translateY(-50%);
-}
-
-/* ---------- Benzi de fotografie pe toată lățimea ---------- */
-
-/* Fotografia de brand (mașini, aeroport, flotă) e alb-negru; culoarea rămâne
-   doar la destinații, adică la ce vede clientul la capătul drumului. */
-.band {
-	margin: 0;
-	display: block;
-	overflow: hidden;
-	background: var(--paper);
-	/* banda merge din margine în margine, peste padding-ul rădăcinii */
-	padding-left: 0;
-	padding-right: 0;
-}
-.band img {
-	display: block;
-	width: 100%;
-	height: clamp(15rem, 42vw, 30rem);
-	object-fit: cover;
-	object-position: 60% 62%;
-}
-.band--mono img { filter: grayscale(1) contrast(1.04); }
-/* aceeași regulă pentru fotografiile de brand care nu stau într-o bandă */
-.is-mono, .is-mono img { filter: grayscale(1) contrast(1.04); }
 
 /* ---------- Formular cerere ofertă ---------- */
 
@@ -362,10 +276,10 @@ body { overflow-x: clip; }
 	width: 100%;
 	transition: border-color var(--t), box-shadow var(--t);
 }
-.quote-field :where(input, select):hover { border-color: #BFBFBF; }
+.quote-field :where(input, select):hover { border-color: #CFC6B7; }
 .quote-field :where(input, select):focus {
-	border-color: var(--ink);
-	box-shadow: 0 0 0 3px rgba(21, 21, 21, .14);
+	border-color: var(--gold);
+	box-shadow: 0 0 0 3px rgba(184, 146, 78, .2);
 	outline: none;
 }
 .quote-form__submit {
@@ -373,7 +287,7 @@ body { overflow-x: clip; }
 	font-size: 0.9375rem;
 	font-weight: 600;
 	background: var(--ink);
-	color: #fff;
+	color: var(--cream);
 	border: 1px solid var(--ink);
 	border-radius: var(--radius);
 	padding: .95rem 1.2rem;
@@ -430,7 +344,7 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 }
 .quote-band__note {
 	font-size: 0.875rem;
-	color: #9A9A9A;
+	color: #9C9A94;
 	margin: 0;
 }
 .quote-form--band {
@@ -444,29 +358,30 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 @media (min-width: 1040px) {
 	.quote-form--band { grid-template-columns: 1.5fr 1.5fr .85fr .7fr .8fr auto; }
 }
-.quote-form--band .quote-field label { color: #A6A6A6; }
+.quote-form--band .quote-field label { color: #A8A6A0; }
 .quote-form--band .quote-form__submit {
 	margin-top: 0;
 	align-self: end;
 	height: 46px;
 	padding-block: 0;
-	background: #fff;
-	border-color: #fff;
+	background: var(--gold);
+	border-color: var(--gold);
 	color: var(--ink);
-	font-size: 0.875rem;
-	letter-spacing: 0;
+	font-size: 0.8125rem;
+	letter-spacing: .07em;
+	text-transform: uppercase;
 	white-space: nowrap;
 	padding-inline: 1.4rem;
 }
 .quote-form--band .quote-form__submit:hover {
-	background: var(--chalk);
-	border-color: var(--chalk);
+	background: var(--gold-soft);
+	border-color: var(--gold-soft);
 }
 
 /* ---------- Bandă de încredere ---------- */
 
 .trust-strip {
-	background: var(--paper);
+	background: var(--cream);
 	border-bottom: 1px solid var(--line);
 }
 .trust-strip__grid {
@@ -492,121 +407,75 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
    dedesubt. Fara `!important` regula de mai jos nu prinde. Masura de citire o
    punem direct pe text, nu pe container (containerul e alignwide, 1220px). */
 .wp-block-group.section-head > * { margin-inline: 0 !important; }
-/* Fiecare secțiune e numerotată, ca rândurile unui panou. */
-.section-nr {
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 0.6875rem;
-	letter-spacing: .12em;
-	text-transform: uppercase;
-	color: var(--muted) !important;
-	margin: 0 0 1.1rem !important;
-	padding-bottom: .9rem;
-	border-bottom: 1px solid var(--line);
-	max-width: none !important;
-}
 .wp-block-group.section-head h2 { margin: 0 0 .7rem; max-width: 24ch; text-wrap: balance; }
 .wp-block-group.section-head p { color: var(--muted); margin: 0; max-width: 56ch; }
 
-/* ---------- Rânduri de panou (servicii, tururi, ghid) ---------- */
+/* ---------- Carduri servicii ---------- */
 
-/* În locul grilelor de carduri: rânduri dense, aliniate, despărțite de linii
-   subțiri. E felul în care se citește un panou de plecări. */
-.board {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-	border-top: 1px solid var(--line);
-}
-.board > li,
-.board > .wp-block-post {
-	margin: 0;
-	padding: 1.6rem 0;
-	border-bottom: 1px solid var(--line);
-	display: grid;
-	gap: .35rem 2rem;
-	align-items: baseline;
-	transition: background var(--t);
-}
-.board > li:hover,
-.board > .wp-block-post:hover { background: #FAFAFA; }
+.cards { display: grid; gap: 1.5rem; }
+@media (min-width: 760px) { .cards--3 { grid-template-columns: repeat(3, 1fr); } }
+@media (min-width: 760px) { .cards--2 { grid-template-columns: repeat(2, 1fr); } }
 
-@media (min-width: 820px) {
-	.board > li,
-	.board > .wp-block-post {
-		grid-template-columns: 4rem minmax(0, 1fr) minmax(0, 11rem);
-		padding: 1.8rem 0;
-	}
+.card {
+	background: #fff;
+	border: 1px solid var(--line);
+	border-radius: 12px;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	transition: box-shadow var(--t), transform var(--t), border-color var(--t);
 }
-
-.board__nr {
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 0.6875rem;
-	letter-spacing: .08em;
-	text-transform: uppercase;
-	color: var(--muted);
-	margin: 0;
-	font-variant-numeric: tabular-nums;
+.card:hover {
+	box-shadow: 0 2px 4px rgba(10, 11, 12, .05), 0 18px 40px rgba(10, 11, 12, .10);
+	border-color: #D8D0C3;
 }
-.board__title {
-	font-size: clamp(1.25rem, 2vw, 1.5rem);
+.card__media { aspect-ratio: 4 / 3; overflow: hidden; background: var(--cream); }
+.card__media img {
+	width: 100%; height: 100%;
+	object-fit: cover;
+	transition: transform 400ms cubic-bezier(.2, .6, .3, 1);
+}
+.card:hover .card__media img { transform: scale(1.035); }
+.card__body { padding: 1.4rem 1.4rem 1.5rem; display: flex; flex-direction: column; gap: .6rem; flex: 1; }
+.card__title {
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: 1.375rem;
 	line-height: 1.2;
 	margin: 0;
-	text-wrap: pretty;
+	color: var(--ink);
 }
-.board__title a { color: var(--ink); text-decoration: none; }
-.board__title a:hover { text-decoration: underline; text-underline-offset: 4px; }
-.board__text {
+.card__title a { color: inherit; text-decoration: none; }
+.card__title a:hover { color: var(--gold); }
+.card__text { color: var(--muted); font-size: 0.9375rem; margin: 0; line-height: 1.6; }
+.card__meta {
+	display: flex;
+	flex-wrap: wrap;
+	gap: .4rem 1rem;
+	font-size: 0.8125rem;
 	color: var(--muted);
-	font-size: 0.9375rem;
-	line-height: 1.6;
-	margin: .4rem 0 0;
-	max-width: 62ch;
+	margin-top: auto;
+	padding-top: .9rem;
+	border-top: 1px solid var(--line);
 }
-.board__meta {
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 0.6875rem;
-	letter-spacing: .08em;
-	text-transform: uppercase;
-	color: var(--muted);
-	margin: 0;
-	gap: .9rem;
+.card__meta strong { color: var(--ink); font-weight: 600; }
+.card__link {
+	font-size: 0.875rem;
+	font-weight: 600;
+	color: var(--ink);
+	text-decoration: none;
+	border-bottom: 1px solid var(--gold);
+	padding-bottom: 2px;
+	align-self: flex-start;
+	transition: color var(--t);
 }
-.board__meta p { margin: 0; }
-@media (min-width: 820px) {
-	.board__meta { justify-self: end; text-align: right; }
-}
-
-/* Servicii: numărul stă în prima coloană, textul în a doua, prețul în a treia. */
-.board > li > .board__main { grid-column: 2; }
-@media (max-width: 819px) {
-	.board > li > .board__main { grid-column: auto; }
-}
-
-/* Tururi: titlul ocupă coloana de mijloc, datele coloana din dreapta. */
-.board--tours > .wp-block-post { grid-template-areas: none; }
-@media (min-width: 820px) {
-	.board--tours > .wp-block-post { grid-template-columns: minmax(0, 1fr) minmax(0, 13rem); }
-	.board--tours .board__title { grid-column: 1; grid-row: 1; }
-	.board--tours .board__text { grid-column: 1; grid-row: 2; }
-	/* datele ocupă ambele rânduri, altfel înălțimea lor depărtează titlul de text */
-	.board--tours .board__meta { grid-column: 2; grid-row: 1 / span 2; flex-direction: column; gap: .25rem; }
-}
-.board--tours .board__text { color: var(--muted); font-size: 0.9375rem; margin: .35rem 0 0; }
-
-/* Ghid: data în prima coloană, titlul în a doua, rubrica în a treia. */
-@media (min-width: 820px) {
-	.board--guide > .wp-block-post { grid-template-columns: 8rem minmax(0, 1fr) minmax(0, 11rem); }
-}
-.board--guide .board__nr { white-space: nowrap; }
-.board--guide .board__meta a { color: inherit; text-decoration: none; }
-.board--guide .board__meta a:hover { text-decoration: underline; }
+.card__link:hover { color: var(--gold); }
 
 /* ---------- Flotă ---------- */
 
 .fleet { display: grid; gap: 1.5rem; }
 @media (min-width: 800px) { .fleet { grid-template-columns: repeat(3, 1fr); } }
 .fleet__item {
-	background: var(--paper);
+	background: var(--cream);
 	border: 1px solid var(--line);
 	border-radius: 12px;
 	padding: 1.5rem;
@@ -630,35 +499,10 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 .fleet__specs li:last-child { border-bottom: 0; padding-bottom: 0; }
 .fleet__specs span:last-child { color: var(--ink); font-weight: 600; }
 
-/* Eticheta de pe cardul de tur: durata și prețul, în aceleași cifre mono ca
-   tabelul de tarife, ca să se citească drept date, nu drept copy. */
-.tour-meta {
-	gap: .9rem;
-	margin-top: .55rem;
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 0.6875rem;
-	letter-spacing: .06em;
-	text-transform: uppercase;
-	color: var(--muted);
-}
-.tour-meta p { margin: 0; }
-.tour-meta p + p { position: relative; padding-left: .9rem; }
-.tour-meta p + p::before {
-	content: "";
-	position: absolute;
-	left: 0;
-	top: 50%;
-	width: 3px;
-	height: 3px;
-	border-radius: 50%;
-	background: #B0B0B0;
-	transform: translateY(-50%);
-}
-
 /* ---------- Datele practice ale unui tur ---------- */
 
 .tour-specs-band {
-	background: var(--paper);
+	background: var(--cream);
 	border-bottom: 1px solid var(--line);
 }
 .tour-specs {
@@ -669,7 +513,7 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 @media (min-width: 780px) {
 	.tour-specs { grid-template-columns: repeat(4, 1fr); }
 }
-.tour-spec { border-left: 1px solid var(--line); padding-left: 1rem; }
+.tour-spec { border-left: 2px solid var(--gold); padding-left: 1rem; }
 .tour-spec__label {
 	font-size: 0.75rem;
 	letter-spacing: .03em;
@@ -686,38 +530,21 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 
 /* ---------- Tabel prețuri ---------- */
 
-.rates { border: 1px solid var(--ink); border-radius: 12px; overflow: hidden; background: #fff; }
+.rates { border: 1px solid var(--line); border-radius: 12px; overflow: hidden; background: #fff; }
 .rates table { width: 100%; border-collapse: collapse; font-size: 0.9375rem; }
-.rates caption {
-	text-align: left;
-	padding: 1.1rem 1.3rem;
-	font-size: 0.875rem;
-	color: var(--muted);
-	border-bottom: 1px solid var(--line);
-}
-.rates th, .rates td { padding: .9rem 1.3rem; text-align: left; border-bottom: 1px solid var(--line); }
+.rates caption { text-align: left; padding: 1.1rem 1.3rem; font-size: 0.875rem; color: var(--muted); border-bottom: 1px solid var(--line); }
+.rates th, .rates td { padding: .95rem 1.3rem; text-align: left; border-bottom: 1px solid var(--line); }
 .rates thead th {
-	background: var(--ink);
-	color: #fff;
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 0.6875rem;
-	letter-spacing: .1em;
-	text-transform: uppercase;
-	font-weight: 400;
-	border-bottom: 0;
-	white-space: nowrap;
+	background: var(--cream);
+	font-size: 0.75rem;
+	letter-spacing: .04em;
+	color: var(--muted);
+	font-weight: 600;
 }
 .rates tbody tr:last-child :where(th, td) { border-bottom: 0; }
-.rates tbody th { font-weight: 500; color: var(--ink); }
-.rates td.num {
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 0.8125rem;
-	font-variant-numeric: tabular-nums;
-	color: var(--muted);
-	white-space: nowrap;
-}
-.rates td.price { color: var(--ink); font-weight: 600; }
-.rates tbody tr:hover { background: #FBFBFB; }
+.rates tbody th { font-weight: 600; color: var(--ink); }
+.rates td.price { font-variant-numeric: tabular-nums; color: var(--ink); font-weight: 600; white-space: nowrap; }
+.rates tbody tr:hover { background: #FAF8F4; }
 .rates__scroll { overflow-x: auto; }
 
 /* ---------- Pași ---------- */
@@ -727,11 +554,9 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 .step { counter-increment: step; }
 .step::before {
 	content: counter(step, decimal-leading-zero);
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 1.75rem;
-	font-weight: 600;
-	letter-spacing: -.02em;
-	color: var(--ink);
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: 2.25rem;
+	color: var(--gold);
 	display: block;
 	line-height: 1;
 	margin-bottom: .7rem;
@@ -739,52 +564,52 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 .step h3 { font-size: 1.25rem; margin: 0 0 .4rem; }
 .step p { color: var(--muted); font-size: 0.9375rem; margin: 0; }
 
-/* ---------- Secțiuni ---------- */
+/* ---------- Secțiuni întunecate ---------- */
 
-.section-plain { background: #fff; }
-
-/* Benzile negre rămân doar acolo unde trebuie să oprească pagina:
-   formularul de sub hero, chemarea finală și subsolul. */
-.section-dark { background: var(--ink); color: #CFCFCF; }
+.section-dark { background: var(--ink); color: #D6D3CC; }
 .section-dark :where(h2, h3, h4) { color: #fff; }
-.section-dark .section-head p { color: #9A9A9A; }
-.section-dark .section-nr { color: #9A9A9A !important; border-bottom-color: rgba(255, 255, 255, .18); }
+.section-dark .section-head p { color: #9C9A94; }
 
-.section-dark a:where(:not(.wp-element-button)) {
-	color: #fff;
-	text-decoration-color: rgba(255, 255, 255, .45);
+/* Pe fundal închis, linkurile de text nu pot rămâne pe culoarea implicită. */
+.section-dark a:where(:not(.wp-element-button)),
+.page-hero a:where(:not(.wp-element-button)) {
+	color: var(--gold-soft);
+	text-decoration-color: rgba(217, 188, 129, .55);
 }
-.section-dark a:where(:not(.wp-element-button)):hover { color: var(--chalk); }
+.section-dark a:where(:not(.wp-element-button)):hover,
+.page-hero a:where(:not(.wp-element-button)):hover {
+	color: #fff;
+}
+/* Eticheta de categorie preia culoarea blocului, nu pe cea a linkurilor. */
+.page-hero .wp-block-post-terms a,
+.page-hero .wp-block-post-terms a:hover {
+	color: inherit;
+	text-decoration: none;
+}
+.page-hero .wp-block-post-terms a:hover { text-decoration: underline; }
 
-/* ---------- Recenzii ---------- */
-
-.reviews { display: grid; gap: 2.5rem; border-top: 1px solid var(--line); }
-@media (min-width: 820px) { .reviews { grid-template-columns: repeat(3, 1fr); gap: 3rem; } }
+/* Recenzii */
+.reviews { display: grid; gap: 1.5rem; }
+@media (min-width: 820px) { .reviews { grid-template-columns: repeat(3, 1fr); } }
 .review {
-	margin: 0;
-	padding-top: 1.6rem;
+	background: var(--ink-2);
+	border: 1px solid rgba(255, 255, 255, .08);
+	border-radius: 12px;
+	padding: 1.6rem;
 	display: flex;
 	flex-direction: column;
 	gap: .9rem;
 }
-.review__stars { color: var(--ink); font-size: .8rem; letter-spacing: .12em; margin: 0; }
+.review__stars { color: var(--gold); font-size: .9rem; letter-spacing: .12em; }
 .review__text {
-	font-size: 1.0625rem;
-	line-height: 1.6;
-	color: var(--ink);
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: 1.1875rem;
+	line-height: 1.55;
+	color: #ECEAE5;
 	margin: 0;
 }
-.review__who {
-	margin-top: auto;
-	padding-top: .6rem;
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 0.6875rem;
-	letter-spacing: .06em;
-	text-transform: uppercase;
-	color: var(--muted);
-	line-height: 1.6;
-}
-.review__who strong { display: block; color: var(--ink); font-weight: 600; }
+.review__who { font-size: 0.8125rem; color: #8E8C87; margin: auto 0 0; }
+.review__who strong { color: #fff; display: block; font-weight: 600; margin-bottom: .1rem; }
 
 /* ---------- Ghid de destinații: capul de pagină ---------- */
 
@@ -797,23 +622,16 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 .guide-hero__lead,
 .page-hero__lead { max-width: 56ch; margin: 1.1rem 0 0; font-size: 1.0625rem; line-height: 1.6; }
 .guide-hero__eyebrow { font-size: 0.9375rem; margin: 0 0 1rem; }
-.guide-hero__eyebrow,
-.article-hero__eyebrow {
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 0.6875rem;
-	letter-spacing: .12em;
-	text-transform: uppercase;
-}
 .page-hero .guide-hero__eyebrow a,
 .page-hero .article-hero__eyebrow a {
-	color: var(--muted);
+	color: var(--gold-soft);
 	text-decoration: none;
-	border-bottom: 1px solid var(--line);
+	border-bottom: 1px solid rgba(217, 188, 129, .4);
 	padding-bottom: 2px;
 	transition: color var(--t), border-color var(--t);
 }
 .page-hero .guide-hero__eyebrow a:hover,
-.page-hero .article-hero__eyebrow a:hover { color: var(--ink); border-color: var(--ink); }
+.page-hero .article-hero__eyebrow a:hover { color: #fff; border-color: #fff; }
 
 /* Filtrele pe regiuni: linkuri simple pe un rând, nu butoane colorate. */
 .guide-filters {
@@ -823,38 +641,35 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 	gap: .55rem 1.75rem;
 	margin: 2.4rem 0 0;
 	padding: 1.3rem 0 0;
-	border-top: 1px solid var(--line);
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 0.75rem;
-	letter-spacing: .06em;
-	text-transform: uppercase;
+	border-top: 1px solid rgba(255, 255, 255, .13);
+	font-size: 0.9375rem;
 }
 .guide-filters li { margin: 0; }
 .page-hero .guide-filters a {
-	color: var(--muted);
+	color: #A8A6A0;
 	text-decoration: none;
 	transition: color var(--t);
 }
-.page-hero .guide-filters a:hover { color: var(--ink); }
-.page-hero .guide-filters .is-active a { color: var(--ink); box-shadow: inset 0 -1px 0 0 var(--ink); }
+.page-hero .guide-filters a:hover { color: #fff; }
+.page-hero .guide-filters .is-active a { color: var(--gold-soft); }
 
 .guide-search { margin: 2rem 0 0; max-width: 30rem; }
 .guide-search .wp-block-search__input {
 	box-sizing: border-box;
-	background: #fff;
-	border: 1px solid var(--line);
+	background: rgba(255, 255, 255, .06);
+	border: 1px solid rgba(255, 255, 255, .2);
 	border-radius: 8px;
-	color: var(--ink);
+	color: #fff;
 	font: inherit;
 	font-size: 0.9375rem;
 	padding: .75rem .9rem;
 }
-.guide-search .wp-block-search__input::placeholder { color: #9A9A9A; }
+.guide-search .wp-block-search__input::placeholder { color: #8E8C87; }
 .guide-search .wp-block-search__button {
-	background: var(--ink);
-	border: 1px solid var(--ink);
+	background: var(--gold);
+	border: 1px solid var(--gold);
 	border-radius: 8px;
-	color: #fff;
+	color: var(--ink);
 	font-size: 0.875rem;
 	font-weight: 600;
 	padding: .75rem 1.2rem;
@@ -862,7 +677,7 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 	cursor: pointer;
 	transition: background var(--t), border-color var(--t);
 }
-.guide-search .wp-block-search__button:hover { background: var(--ink-3); border-color: var(--ink-3); }
+.guide-search .wp-block-search__button:hover { background: var(--gold-soft); border-color: var(--gold-soft); }
 
 /* ---------- Ghid de destinații: lista ---------- */
 
@@ -903,7 +718,7 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 	margin: 0 0 1.15rem;
 	border-radius: 10px;
 	overflow: hidden;
-	background: var(--paper);
+	background: var(--cream);
 }
 .guide-list .wp-block-post-featured-image img,
 .guide-grid .wp-block-post-featured-image img,
@@ -921,12 +736,9 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 .related-grid > li:hover .guide-thumb img { transform: scale(1.04); }
 
 .guide-cat {
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 0.6875rem;
-	letter-spacing: .08em;
-	text-transform: uppercase;
-	color: var(--muted);
-	margin: 0 0 .5rem;
+	font-size: 0.8125rem;
+	color: var(--gold-ink);
+	margin: 0 0 .45rem;
 }
 .guide-cat a { color: inherit; text-decoration: none; }
 .guide-cat a:hover { text-decoration: underline; }
@@ -943,7 +755,7 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 .related-grid > li:hover .guide-title a,
 .guide-title a:focus-visible {
 	text-decoration: underline;
-	text-decoration-color: var(--ink);
+	text-decoration-color: var(--gold);
 	text-underline-offset: 4px;
 }
 
@@ -955,14 +767,14 @@ a.guide-more {
 	width: fit-content;
 	margin-top: 1.5rem;
 	padding-bottom: 3px;
-	border-bottom: 1px solid var(--ink);
+	border-bottom: 1px solid var(--gold);
 	color: var(--ink);
 	font-size: 0.875rem;
 	font-weight: 600;
 	text-decoration: none;
 	transition: color var(--t), border-color var(--t);
 }
-a.guide-more:hover { color: var(--muted); border-color: var(--muted); }
+a.guide-more:hover { color: var(--gold-ink); border-color: var(--gold-ink); }
 
 /* Cel mai recent ghid ține rândul întâi singur, cu imaginea lângă text.
    Rupe grila de carduri identice și dă listei un cap limpede. */
@@ -1001,7 +813,7 @@ a.guide-more:hover { color: var(--muted); border-color: var(--muted); }
 .guide-pagination { margin-top: 3.4rem; font-size: 0.9375rem; }
 .guide-pagination .wp-block-query-pagination-numbers { display: flex; gap: .9rem; }
 .guide-pagination a { color: var(--ink); text-decoration: none; }
-.guide-pagination a:hover { color: var(--ink); text-decoration: underline; }
+.guide-pagination a:hover { color: var(--gold-ink); text-decoration: underline; }
 .guide-pagination .current { font-weight: 600; }
 
 /* ---------- FAQ ---------- */
@@ -1019,7 +831,7 @@ a.guide-more:hover { color: var(--muted); border-color: var(--muted); }
 	transition: color var(--t);
 }
 .faq__item summary::-webkit-details-marker { display: none; }
-.faq__item summary:hover { color: var(--muted); }
+.faq__item summary:hover { color: var(--gold); }
 .faq__item summary::after {
 	content: "";
 	position: absolute;
@@ -1027,8 +839,8 @@ a.guide-more:hover { color: var(--muted); border-color: var(--muted); }
 	top: 50%;
 	width: 10px;
 	height: 10px;
-	border-right: 1.5px solid var(--ink);
-	border-bottom: 1.5px solid var(--ink);
+	border-right: 1.5px solid var(--gold);
+	border-bottom: 1.5px solid var(--gold);
 	transform: translateY(-70%) rotate(45deg);
 	transition: transform var(--t);
 }
@@ -1037,23 +849,23 @@ a.guide-more:hover { color: var(--muted); border-color: var(--muted); }
 
 /* ---------- Bandă CTA ---------- */
 
-.cta-band { background: var(--paper); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.cta-band { background: var(--cream); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 
 /* ---------- Subsol ---------- */
 
 /* Banda CTA și subsolul au același negru: fără o linie între ele, spațiul
    dintre butoane și prima coloană se citește ca o gaură. */
-.site-footer { background: var(--ink); color: #9A9A9A; font-size: 0.9375rem; border-top: 1px solid rgba(255, 255, 255, .09); }
+.site-footer { background: var(--ink); color: #9C9A94; font-size: 0.9375rem; border-top: 1px solid rgba(255, 255, 255, .09); }
 .site-footer :where(h2, h3, h4) { color: #fff; font-size: 0.9375rem; font-family: var(--wp--preset--font-family--body); font-weight: 600; letter-spacing: .02em; }
-.site-footer a { color: #C2C2C2; text-decoration: none; }
-.site-footer a:hover { color: #fff; text-decoration: underline; }
+.site-footer a { color: #C6C3BC; text-decoration: none; }
+.site-footer a:hover { color: var(--gold-soft); text-decoration: underline; }
 .site-footer .wp-block-list {
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
 
-.site-footer .footer-bottom { border-top: 1px solid rgba(255, 255, 255, .09); font-size: 0.8125rem; color: #818181; }
+.site-footer .footer-bottom { border-top: 1px solid rgba(255, 255, 255, .09); font-size: 0.8125rem; color: #82807B; }
 .footer-legal img { height: 42px; width: auto; border-radius: 4px; }
 
 /* ---------- WhatsApp flotant ---------- */
@@ -1123,7 +935,7 @@ a.guide-more:hover { color: var(--muted); border-color: var(--muted); }
 	width: 4px;
 	height: 4px;
 	border-radius: 50%;
-	background: #6E6E6E;
+	background: #55585C;
 }
 
 .article-back {
@@ -1132,36 +944,25 @@ a.guide-more:hover { color: var(--muted); border-color: var(--muted); }
 	border-top: 1px solid var(--line);
 	font-size: 0.9375rem;
 }
-.article-back a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--ink); padding-bottom: 2px; }
-.article-back a:hover { color: var(--muted); border-color: var(--muted); }
+.article-back a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--gold); padding-bottom: 2px; }
+.article-back a:hover { color: var(--gold-ink); border-color: var(--gold-ink); }
 
 /* ---------- Articole înrudite ---------- */
 
-.related { background: var(--paper); border-top: 1px solid var(--line); }
+.related { background: var(--cream); border-top: 1px solid var(--line); }
 .related__title { font-size: 1.5rem; margin: 0 0 2.2rem; }
 /* Fără articole înrudite nu rămâne un titlu singur pe pagină. */
 .related:not(:has(.related-grid li)) { display: none; }
 
 
-/* Capul paginilor interioare: aceeași hârtie ca restul site-ului, despărțit de
-   conținut printr-o linie, nu printr-o bandă neagră. */
-.page-hero {
-	background: #fff;
-	color: var(--ink);
-	border-bottom: 1px solid var(--line);
-}
-.page-hero :where(h1, h2) { color: var(--ink); }
-.page-hero p { color: var(--muted); }
-.page-hero p.has-chalk-color,
+.page-hero { background: var(--ink); color: #fff; }
+.page-hero :where(h1, h2, p) { color: #fff; }
+.page-hero p { color: #ABA8A2; }
+/* Eticheta de deasupra titlului și categoria articolului rămân pe alamă. */
+.page-hero p.has-gold-soft-color,
 .page-hero .wp-block-post-terms,
-.page-hero .wp-block-post-terms a,
-.page-hero .wp-block-post-date {
-	font-family: var(--wp--preset--font-family--mono);
-	font-size: 0.6875rem;
-	letter-spacing: .1em;
-	text-transform: uppercase;
-	color: var(--muted);
-}
+.page-hero .wp-block-post-terms a { color: var(--gold-soft); }
+.page-hero .wp-block-post-date { color: #8E8C87; }
 
 /* ---------- Mișcare redusă ---------- */
 
