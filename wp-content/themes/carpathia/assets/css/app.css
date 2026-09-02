@@ -57,8 +57,17 @@ body { overflow-x: clip; }
 	background: var(--ink);
 	border-bottom: 1px solid rgba(255, 255, 255, .09);
 }
-.site-header .wp-block-site-title a { color: #fff; text-decoration: none; }
-.site-header .wp-block-site-title a:hover { color: var(--gold-soft); }
+/* Logo-ul clientului, inline: preia culoarea contextului. */
+.site-logo {
+	display: inline-flex;
+	align-items: center;
+	color: #fff;
+	transition: opacity var(--t);
+}
+.site-logo:hover { opacity: .72; }
+.site-logo__mark { display: block; width: auto; height: 24px; }
+@media (min-width: 900px) { .site-logo__mark { height: 30px; } }
+.site-logo--footer .site-logo__mark { height: 28px; }
 
 /* Navigația */
 .site-header .wp-block-navigation {
@@ -147,7 +156,7 @@ body { overflow-x: clip; }
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
-	object-position: 60% 62%;
+	object-position: 62% 66%;
 }
 .hero::after {
 	content: "";
@@ -546,6 +555,88 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 .rates td.price { font-variant-numeric: tabular-nums; color: var(--ink); font-weight: 600; white-space: nowrap; }
 .rates tbody tr:hover { background: #FAF8F4; }
 .rates__scroll { overflow-x: auto; }
+
+/* ---------- Estimare de preț ---------- */
+
+/* Răspunde la „cât costă" fără să fie nevoie ca omul să scrie cuiva.
+   Folosește exact cifrele din tabelul de deasupra. */
+.estimator {
+	margin-top: 1.6rem;
+	padding: 1.4rem 1.5rem 1.2rem;
+	background: #fff;
+	border: 1px solid var(--line);
+	border-radius: 12px;
+}
+.estimator__title {
+	margin: 0 0 1rem;
+	font-size: 0.8125rem;
+	font-weight: 600;
+	letter-spacing: .06em;
+	text-transform: uppercase;
+	color: var(--muted);
+}
+.estimator__row {
+	display: grid;
+	gap: 1rem 1.5rem;
+	align-items: end;
+}
+@media (min-width: 760px) {
+	.estimator__row { grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr) auto; }
+}
+.estimator__field { display: grid; gap: .4rem; }
+.estimator__field > span {
+	font-size: 0.8125rem;
+	color: var(--muted);
+}
+.estimator select {
+	font: inherit;
+	font-size: 0.9375rem;
+	color: var(--ink);
+	background: #fff;
+	border: 1px solid var(--line);
+	border-radius: var(--radius);
+	padding: .7rem .8rem;
+	width: 100%;
+}
+.estimator select:hover { border-color: #CFC6B7; }
+.estimator select:focus {
+	border-color: var(--gold);
+	box-shadow: 0 0 0 3px rgba(184, 146, 78, .2);
+	outline: none;
+}
+.estimator__out {
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	gap: .25rem;
+	white-space: nowrap;
+}
+.estimator__out span {
+	font-size: 0.8125rem;
+	color: var(--muted);
+}
+.estimator__out strong {
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: 1.75rem;
+	font-weight: 500;
+	line-height: 1.1;
+	font-variant-numeric: tabular-nums;
+}
+.estimator__note {
+	margin: 1.1rem 0 0;
+	padding-top: .9rem;
+	border-top: 1px solid var(--line);
+	font-size: 0.8125rem;
+	color: var(--muted);
+}
+
+/* Alternativa pe e-mail, după ce s-a deschis WhatsApp */
+.quote-form__fallback {
+	margin: 1rem 0 0;
+	font-size: 0.875rem;
+	color: #C9C7C2;
+}
+.quote-form__fallback a { color: #fff; }
 
 /* ---------- Pași ---------- */
 
