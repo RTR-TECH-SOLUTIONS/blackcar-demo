@@ -48,11 +48,15 @@ Setări → Citire:
 - Pagina principală: **Acasă**
 - Pagina articolelor: **Blog**
 
+Site-ul are două pagini: prezentarea (o singură pagină lungă, cu ancore în
+meniu) și blogul cu pozele din tururi. Tururile sunt un tip de conținut
+separat, cu pagină proprie fiecare.
+
 **5. Verifică**
 
 - Setări → General: titlu `Cursa Ta`, descriere
   `Transferuri aeroport și tururi private în România`, fus orar `Europe/București`
-- deschide `/`, `/tururi/`, `/flota/`, `/firme/`, `/ghid/` și un tur
+- deschide `/` (prezentarea), `/blog/`, `/tururi/`, un tur și un articol
 
 ## Unde se schimbă datele de contact
 
@@ -65,26 +69,28 @@ De acolo se propagă în bara de sus, în butoanele „Sună", în linkul de Wha
 'telefon_link' => '+40726260471',
 'whatsapp'     => '40726260471',
 'email'        => 'contact@cursata.ro',
-'program'      => 'Non-stop, 7 zile din 7',
+'program'      => 'Zilnic, de la 06:00 până la 23:00',
 'adresa'       => 'București',
 ```
 
 ## Ce poate edita clientul singur din panou
 
-- textele paginilor și articolele din ghid, ca orice pagină WordPress
-- tururile: Tururi → un tur are câmpuri proprii pentru durată, plecare, preț
-  și număr de persoane, afișate automat în pagină
+- textele paginilor și articolele de blog, ca orice pagină WordPress
+- tururile: Tururi → un tur are câmpuri proprii pentru durată, plecare și
+  număr de persoane, afișate automat în pagină
 - imaginile reprezentative ale tururilor și articolelor
-- tabelul de tarife și calculatorul de preț sunt în temă, nu în panou:
-  se schimbă în `patterns/home-rates.php`
 
 ## De completat înainte de lansare
 
 Lucrurile de mai jos sunt de demo și trebuie înlocuite cu datele reale:
 
-- prețurile din tabelul de tarife și din calculator
-- lista de tururi (Bucovina și Delta Dunării sunt exemple, nu rute confirmate)
+- numele firmei, care acum e provizoriu („Cursa Ta"), plus adresa de e-mail
+  care vine din el
+- programul de lucru, acum pus de noi ca exemplu
 - cele trei recenzii, care acum sunt scrise de noi, nu preluate de pe Google
-- cifrele „15+ ani" și capacitățile din pagina Flota
+- articolele de blog și pozele lor, de înlocuit cu pozele lui din tururi
+- patru poze de tururi (Cantacuzino, Salina Slănic, Paltinu, Bran) sunt de pe
+  Wikimedia, cu licență care cere credit: fie se pune creditul, fie se
+  înlocuiesc cu poze proprii
 - banner de cookie-uri și verificarea juridică a paginilor Termeni,
   Confidențialitate și Politica de cookies
