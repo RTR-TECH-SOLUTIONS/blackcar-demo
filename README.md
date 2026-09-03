@@ -1,6 +1,6 @@
-# Blackcar — demo de prezentare
+# Cursa Ta — demo de prezentare
 
-Export static al site-ului de prezentare Blackcar (transferuri aeroport, tururi
+Export static al site-ului de prezentare (transferuri aeroport, tururi
 private și ghid de destinații), construit de RTR Tech Solutions.
 
 - **Preview live:** https://rtr-tech-solutions.github.io/blackcar-demo/

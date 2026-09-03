@@ -1,5 +1,5 @@
 /**
- * Blackcar – interacțiuni minime.
+ * Cursa Ta – interacțiuni minime.
  * Formularul de ofertă nu trimite date nicăieri: compune un mesaj WhatsApp,
  * pentru că așa lucrează efectiv firmele de transfer.
  */
