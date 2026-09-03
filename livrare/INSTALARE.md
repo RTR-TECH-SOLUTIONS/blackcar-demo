@@ -1,4 +1,4 @@
-# Blackcar — instalare pe găzduirea clientului
+# Cursa Ta — instalare pe găzduirea clientului
 
 Site-ul e o temă WordPress bloc, scrisă la comandă. Nu are nevoie de niciun
 plugin și nu folosește page builder. Merge pe orice găzduire cu WordPress.
@@ -10,7 +10,7 @@ plugin și nu folosește page builder. Merge pe orice găzduire cu WordPress.
 | Fișier | Ce e |
 |---|---|
 | `carpathia.zip` | tema, se instalează din panou |
-| `blackcar-continut.xml` | paginile, tururile, articolele, categoriile și imaginile |
+| `continut.xml` | paginile, tururile, articolele, categoriile și imaginile |
 
 ## Pași
 
@@ -32,7 +32,7 @@ dau eroare 404.
 **3. Importă conținutul**
 
 Unelte → Import → WordPress → Instalează acum → Rulează importatorul →
-alege `blackcar-continut.xml`.
+alege `continut.xml`.
 
 Pe ecranul următor:
 - atribuie autorul la contul de administrator existent
@@ -50,7 +50,7 @@ Setări → Citire:
 
 **5. Verifică**
 
-- Setări → General: titlu `Blackcar`, descriere
+- Setări → General: titlu `Cursa Ta`, descriere
   `Transferuri aeroport și tururi private în România`, fus orar `Europe/București`
 - deschide `/`, `/tururi/`, `/flota/`, `/firme/`, `/ghid/` și un tur
 
@@ -64,7 +64,7 @@ De acolo se propagă în bara de sus, în butoanele „Sună", în linkul de Wha
 'telefon'      => '0726 260 471',
 'telefon_link' => '+40726260471',
 'whatsapp'     => '40726260471',
-'email'        => 'contact@blackcar.ro',
+'email'        => 'contact@cursata.ro',
 'program'      => 'Non-stop, 7 zile din 7',
 'adresa'       => 'București',
 ```

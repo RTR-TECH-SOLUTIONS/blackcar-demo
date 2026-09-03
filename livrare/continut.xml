@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress/7.1" created="2026-09-03 10:18" -->
+<!-- generator="WordPress/7.1" created="2026-09-03 10:48" -->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
-<title>Blackcar</title>
+<title>Cursa Ta</title>
 <link>https://rtr-tech-solutions.github.io/blackcar-demo</link>
 <description>Transferuri aeroport și tururi private în România</description>
-<pubDate>Thu, 03 Sep 2026 10:18:56 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 10:48:53 +0000</pubDate>
 <language>ro-RO</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>https://rtr-tech-solutions.github.io/blackcar-demo</wp:base_site_url>
@@ -699,7 +699,6 @@
   <content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Toate mașinile sunt ale firmei, nu lucrăm cu subcontractori. Merg în service la fiecare 10.000 de kilometri și sunt spălate între curse. Vă spunem la rezervare exact ce model vine și cu ce număr de înmatriculare.</p>
 <!-- /wp:paragraph -->
-
 <!-- wp:html -->
 <div class="rates">
 	<div class="rates__scroll">
@@ -722,15 +721,12 @@
 	</div>
 </div>
 <!-- /wp:html -->
-
 <!-- wp:image {"id":42,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/interior-banchete.jpg" alt="Bancheta din spate a vanului Blackcar, tapițerie din piele" class="wp-image-42"/></figure>
+<figure class="wp-block-image size-large"><img src="https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/interior-banchete.jpg" alt="Bancheta din spate a vanului Cursa Ta, tapițerie din piele" class="wp-image-42"/></figure>
 <!-- /wp:image -->
-
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Ce găsiți în fiecare mașină</h2>
 <!-- /wp:heading -->
-
 <!-- wp:list -->
 <ul class="wp-block-list">
 <!-- wp:list-item --><li>Aer condiționat, pornit înainte să ajungem la dumneavoastră</li><!-- /wp:list-item -->
@@ -739,23 +735,18 @@
 <!-- wp:list-item --><li>Scaune și înălțătoare pentru copii, fără cost suplimentar</li><!-- /wp:list-item -->
 </ul>
 <!-- /wp:list -->
-
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Bagaje voluminoase</h2>
 <!-- /wp:heading -->
-
 <!-- wp:paragraph -->
 <p>Vanul merge cu banchetele din spate rabatate, așa că intră și schiuri, și cărucioare, și cutii de mutare. Spuneți-ne ce aveți de transportat înainte de cursă și vă confirmăm dacă încape sau dacă e nevoie de a doua mașină.</p>
 <!-- /wp:paragraph -->
-
 <!-- wp:image {"id":43,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/interior-bagaje.jpg" alt="Spațiul de bagaje al vanului, cu banchetele din spate rabatate" class="wp-image-43"/></figure>
 <!-- /wp:image -->
-
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Scaune pentru copii</h2>
 <!-- /wp:heading -->
-
 <!-- wp:paragraph -->
 <p>Avem scaune și înălțătoare, fără cost suplimentar. Spuneți-ne vârsta și greutatea copilului la rezervare, ca să montăm scaunul potrivit înainte să venim.</p>
 <!-- /wp:paragraph -->
@@ -764,8 +755,8 @@
   <wp:post_id>31</wp:post_id>
   <wp:post_date>2026-09-01 20:49:59</wp:post_date>
   <wp:post_date_gmt>2026-09-01 17:49:59</wp:post_date_gmt>
-  <wp:post_modified>2026-09-03 12:35:33</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-03 09:35:33</wp:post_modified_gmt>
+  <wp:post_modified>2026-09-03 13:47:50</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 10:47:50</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>flota</wp:post_name>
@@ -784,23 +775,21 @@
   <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/contact/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:paragraph --><p>Cel mai rapid ne găsiți pe WhatsApp. Răspundem non-stop, inclusiv pentru curse rezervate în aceeași zi. Dacă scrieți pe e-mail, revenim în maximum două ore în intervalul 8-20.</p><!-- /wp:paragraph -->
-
 <!-- wp:heading --><h2 class="wp-block-heading">Date de contact</h2><!-- /wp:heading -->
-<!-- wp:paragraph --><p>Telefon: <a href="tel:+40725118640">0740 305 050</a><br>WhatsApp: <a href="https://wa.me/40725118640">0740 305 050</a><br>E-mail: <a href="mailto:rezervari@blackcar.ro">rezervari@blackcar.ro</a></p><!-- /wp:paragraph -->
+<!-- wp:paragraph --><p>Telefon: <a href="tel:+40725118640">0740 305 050</a><br>WhatsApp: <a href="https://wa.me/40725118640">0740 305 050</a><br>E-mail: <a href="mailto:rezervari@cursata.ro">rezervari@cursata.ro</a></p><!-- /wp:paragraph -->
 <!-- wp:paragraph --><p>Str. Nicolae Caramfil 24, București<br>Program: non-stop, 7 zile din 7</p><!-- /wp:paragraph -->
-
 <!-- wp:heading --><h2 class="wp-block-heading">Ce să ne scrieți când cereți un preț</h2><!-- /wp:heading -->
 <!-- wp:list --><ul class="wp-block-list"><li>De unde vă luăm și unde mergeți</li><li>Data și ora, iar dacă veniți cu avionul, numărul zborului</li><li>Câte persoane și câte bagaje mari</li><li>Dacă aveți nevoie de scaun pentru copil sau de factură pe firmă</li></ul><!-- /wp:list -->
 <!-- wp:paragraph --><p>Cu datele acestea vă răspundem direct cu prețul final, fără alte întrebări.</p><!-- /wp:paragraph -->
-
 <!-- wp:heading --><h2 class="wp-block-heading">Pentru firme</h2><!-- /wp:heading -->
-<!-- wp:paragraph --><p>Dacă aveți curse dese, facem contract cu tarife fixe pe rute și o singură factură la sfârșitul lunii. Scrieți-ne pe e-mail și vă trimitem oferta în aceeași zi.</p><!-- /wp:paragraph -->]]></content:encoded>
+<!-- wp:paragraph --><p>Dacă aveți curse dese, facem contract cu tarife fixe pe rute și o singură factură la sfârșitul lunii. Scrieți-ne pe e-mail și vă trimitem oferta în aceeași zi.</p><!-- /wp:paragraph -->
+]]></content:encoded>
   <excerpt:encoded><![CDATA[Telefon, WhatsApp și e-mail. Răspundem non-stop, inclusiv pentru rezervări făcute în aceeași zi.]]></excerpt:encoded>
   <wp:post_id>32</wp:post_id>
   <wp:post_date>2026-09-01 20:49:59</wp:post_date>
   <wp:post_date_gmt>2026-09-01 17:49:59</wp:post_date_gmt>
-  <wp:post_modified>2026-09-03 12:35:34</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-03 09:35:34</wp:post_modified_gmt>
+  <wp:post_modified>2026-09-03 13:47:51</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 10:47:51</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>contact</wp:post_name>
