@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress/7.1" created="2026-09-02 23:46" -->
+<!-- generator="WordPress/7.1" created="2026-09-03 09:37" -->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Blackcar</title>
 <link>https://rtr-tech-solutions.github.io/blackcar-demo</link>
 <description>Transferuri aeroport și tururi private în România</description>
-<pubDate>Wed, 02 Sep 2026 23:46:35 +0000</pubDate>
+<pubDate>Thu, 03 Sep 2026 09:37:32 +0000</pubDate>
 <language>ro-RO</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>https://rtr-tech-solutions.github.io/blackcar-demo</wp:base_site_url>
@@ -205,66 +205,6 @@
   </wp:postmeta>
 </item>
 <item>
-  <title><![CDATA[Transfăgărășan și Bâlea Lac]]></title>
-  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/transfagarasan/</link>
-  <pubDate>Tue, 01 Sep 2026 17:48:40 +0000</pubDate>
-  <dc:creator/>
-  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/transfagarasan/</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:paragraph --><p>Drumul se deschide de obicei la sfârșitul lui iunie și se închide la începutul lui noiembrie, în funcție de zăpadă. În afara acestei perioade urcăm doar până la barajul Vidraru.</p><!-- /wp:paragraph -->
-<!-- wp:heading {"level":2} --><h2 class="wp-block-heading">Ce vizităm</h2><!-- /wp:heading -->
-<!-- wp:list --><ul class="wp-block-list"><li>Cetatea Poenari, dacă aveți chef de cele 1480 de trepte</li><li>Barajul și lacul Vidraru</li><li>Bâlea Cascadă și, cu telecabina sau cu mașina, Bâlea Lac</li><li>Oprire la o stână pentru brânză, pe drumul de întoarcere</li></ul><!-- /wp:list -->
-<!-- wp:heading {"level":2} --><h2 class="wp-block-heading">De știut</h2><!-- /wp:heading -->
-<!-- wp:paragraph --><p>Sus sunt cu zece grade mai puțin decât în București, chiar și în august. Luați o jachetă. Sâmbăta și duminica se circulă greu pe serpentine, așa că plecăm la șase dimineața dacă mergem în weekend.</p><!-- /wp:paragraph -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[Drumul de munte deschis doar vara, până la Bâlea Lac și cascadă, cu opriri pentru fotografii.]]></excerpt:encoded>
-  <wp:post_id>5</wp:post_id>
-  <wp:post_date>2026-09-01 20:48:40</wp:post_date>
-  <wp:post_date_gmt>2026-09-01 17:48:40</wp:post_date_gmt>
-  <wp:post_modified>2026-09-01 20:48:41</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-01 17:48:41</wp:post_modified_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>transfagarasan</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>20</wp:menu_order>
-  <wp:post_type>tur</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/tur-transfagarasan.jpg]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:30:"2026/09/tur-transfagarasan.jpg";s:8:"filesize";i:484185;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:30:"tur-transfagarasan-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17446;}s:5:"large";a:5:{s:4:"file";s:31:"tur-transfagarasan-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:235490;}s:9:"thumbnail";a:5:{s:4:"file";s:30:"tur-transfagarasan-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6982;}s:12:"medium_large";a:5:{s:4:"file";s:30:"tur-transfagarasan-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:128945;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Serpentinele Transfăgărășanului văzute de sus]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_durata</wp:meta_key>
-    <wp:meta_value><![CDATA[12-14 ore]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_plecare</wp:meta_key>
-    <wp:meta_value><![CDATA[București]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_pret</wp:meta_key>
-    <wp:meta_value><![CDATA[de la 890 lei / mașină]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_persoane</wp:meta_key>
-    <wp:meta_value><![CDATA[1-7]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_thumbnail_id</wp:meta_key>
-    <wp:meta_value><![CDATA[38]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title><![CDATA[Piața Mare din Sibiu]]></title>
   <link>https://rtr-tech-solutions.github.io/blackcar-demo/piata-mare-din-sibiu/</link>
   <pubDate>Tue, 01 Sep 2026 17:48:40 +0000</pubDate>
@@ -373,64 +313,6 @@
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Mănăstirea Sucevița între dealuri împădurite]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title><![CDATA[Delta Dunării și litoralul]]></title>
-  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/delta-dunarii/</link>
-  <pubDate>Tue, 01 Sep 2026 17:48:40 +0000</pubDate>
-  <dc:creator/>
-  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/delta-dunarii/</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:paragraph --><p>Noi vă ducem până la Tulcea și vă așteptăm acolo cât sunteți pe apă. Plimbarea cu barca se rezervă separat, dar v-o putem aranja cu oamenii cu care lucrăm de ani buni.</p><!-- /wp:paragraph -->
-<!-- wp:heading {"level":2} --><h2 class="wp-block-heading">Ce vizităm</h2><!-- /wp:heading -->
-<!-- wp:list --><ul class="wp-block-list"><li>Canalele din jurul Crișanului și Mila 23</li><li>Cetatea Histria, pe drumul de întoarcere</li><li>Portul și faleza din Constanța</li></ul><!-- /wp:list -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[Drumul până la Tulcea, o zi cu barca pe canale și, la întoarcere, cetățile de pe litoral.]]></excerpt:encoded>
-  <wp:post_id>9</wp:post_id>
-  <wp:post_date>2026-09-01 20:48:40</wp:post_date>
-  <wp:post_date_gmt>2026-09-01 17:48:40</wp:post_date_gmt>
-  <wp:post_modified>2026-09-01 20:48:41</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-01 17:48:41</wp:post_modified_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>delta-dunarii</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>60</wp:menu_order>
-  <wp:post_type>tur</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/tur-delta-dunarii.jpg]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:29:"2026/09/tur-delta-dunarii.jpg";s:8:"filesize";i:318112;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:29:"tur-delta-dunarii-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16700;}s:5:"large";a:5:{s:4:"file";s:30:"tur-delta-dunarii-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:170175;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"tur-delta-dunarii-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7191;}s:12:"medium_large";a:5:{s:4:"file";s:29:"tur-delta-dunarii-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:100017;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Barcă pe un braț al Dunării în Deltă]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_durata</wp:meta_key>
-    <wp:meta_value><![CDATA[2 zile]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_plecare</wp:meta_key>
-    <wp:meta_value><![CDATA[București]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_pret</wp:meta_key>
-    <wp:meta_value><![CDATA[de la 1.950 lei / mașină]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_persoane</wp:meta_key>
-    <wp:meta_value><![CDATA[1-7]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_thumbnail_id</wp:meta_key>
-    <wp:meta_value><![CDATA[40]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -616,193 +498,6 @@
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Palatul Parlamentului din București]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title><![CDATA[Bran, Peleș și Brașov într-o zi]]></title>
-  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/bran-peles-brasov/</link>
-  <pubDate>Tue, 01 Sep 2026 17:48:41 +0000</pubDate>
-  <dc:creator/>
-  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/tururi/bran-peles-brasov/</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:paragraph --><p>Plecăm pe la opt dimineața, ca să prindem Peleșul înainte să se adune cozile. Drumul până la Sinaia durează în jur de două ore, pe Valea Prahovei, cu o oprire de cafea unde cereți.</p><!-- /wp:paragraph -->
-<!-- wp:heading {"level":2} --><h2 class="wp-block-heading">Ce vizităm</h2><!-- /wp:heading -->
-<!-- wp:list --><ul class="wp-block-list"><li>Castelul Peleș din Sinaia, cu intrarea la etajul întâi</li><li>Castelul Bran, cu cetatea și curtea interioară</li><li>Centrul vechi al Brașovului: Piața Sfatului și Biserica Neagră</li><li>Opțional, dacă rămâne timp: telecabina pe Tâmpa</li></ul><!-- /wp:list -->
-<!-- wp:heading {"level":2} --><h2 class="wp-block-heading">Ce include</h2><!-- /wp:heading -->
-<!-- wp:paragraph --><p>Mașina și șoferul pentru toată ziua, combustibilul, parcările și taxele de drum. Biletele de intrare la castele se plătesc separat, la fața locului, pentru că se schimbă de la an la an.</p><!-- /wp:paragraph -->
-<!-- wp:paragraph --><p>Șoferul vorbește engleză și cunoaște locurile, dar nu este ghid autorizat. Dacă doriți ghid cu atestat pentru interiorul castelelor, îl aranjăm contra cost, spuneți-ne cu câteva zile înainte.</p><!-- /wp:paragraph -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[Cele două castele și centrul vechi al Brașovului, într-o singură zi, cu plecare de la hotelul dumneavoastră.]]></excerpt:encoded>
-  <wp:post_id>16</wp:post_id>
-  <wp:post_date>2026-09-01 20:48:41</wp:post_date>
-  <wp:post_date_gmt>2026-09-01 17:48:41</wp:post_date_gmt>
-  <wp:post_modified>2026-09-01 20:48:41</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-01 17:48:41</wp:post_modified_gmt>
-  <wp:comment_status>closed</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>bran-peles-brasov</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>10</wp:menu_order>
-  <wp:post_type>tur</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_thumbnail_id</wp:meta_key>
-    <wp:meta_value><![CDATA[39]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_durata</wp:meta_key>
-    <wp:meta_value><![CDATA[10-12 ore]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_plecare</wp:meta_key>
-    <wp:meta_value><![CDATA[București]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_pret</wp:meta_key>
-    <wp:meta_value><![CDATA[de la 690 lei / mașină]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_persoane</wp:meta_key>
-    <wp:meta_value><![CDATA[1-7]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title><![CDATA[Sibiu și Sighișoara, două zile]]></title>
-  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/sibiu-sighisoara/</link>
-  <pubDate>Tue, 01 Sep 2026 17:48:41 +0000</pubDate>
-  <dc:creator/>
-  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/tururi/sibiu-sighisoara/</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:paragraph --><p>Prima zi o petrecem în Sibiu, a doua în Sighișoara, cu opriri prin satele cu biserici fortificate de pe drum. Cazarea o rezervați dumneavoastră sau v-o găsim noi, cum preferați.</p><!-- /wp:paragraph -->
-<!-- wp:heading {"level":2} --><h2 class="wp-block-heading">Ce vizităm</h2><!-- /wp:heading -->
-<!-- wp:list --><ul class="wp-block-list"><li>Piața Mare, Piața Mică și Podul Minciunilor din Sibiu</li><li>Biserica fortificată de la Biertan, în patrimoniul UNESCO</li><li>Cetatea Sighișoarei și Turnul cu Ceas</li><li>Opțional: Viscri, dacă vă interesează satele restaurate</li></ul><!-- /wp:list -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[Două orașe săsești și satele dintre ele, cu o noapte de cazare la mijloc.]]></excerpt:encoded>
-  <wp:post_id>18</wp:post_id>
-  <wp:post_date>2026-09-01 20:48:41</wp:post_date>
-  <wp:post_date_gmt>2026-09-01 17:48:41</wp:post_date_gmt>
-  <wp:post_modified>2026-09-01 20:48:41</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-01 17:48:41</wp:post_modified_gmt>
-  <wp:comment_status>closed</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>sibiu-sighisoara</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>30</wp:menu_order>
-  <wp:post_type>tur</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_thumbnail_id</wp:meta_key>
-    <wp:meta_value><![CDATA[6]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_durata</wp:meta_key>
-    <wp:meta_value><![CDATA[2 zile]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_plecare</wp:meta_key>
-    <wp:meta_value><![CDATA[București sau Brașov]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_pret</wp:meta_key>
-    <wp:meta_value><![CDATA[de la 1.850 lei / mașină]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_persoane</wp:meta_key>
-    <wp:meta_value><![CDATA[1-7]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title><![CDATA[Bucovina și mănăstirile pictate]]></title>
-  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/bucovina-manastiri/</link>
-  <pubDate>Tue, 01 Sep 2026 17:48:41 +0000</pubDate>
-  <dc:creator/>
-  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/tururi/bucovina-manastiri/</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:paragraph --><p>Este cel mai lung drum dintre tururile noastre, aproape 450 de kilometri până sus. De aceea plecăm devreme și facem prima oprire abia la Piatra Neamț.</p><!-- /wp:paragraph -->
-<!-- wp:heading {"level":2} --><h2 class="wp-block-heading">Ce vizităm</h2><!-- /wp:heading -->
-<!-- wp:list --><ul class="wp-block-list"><li>Mănăstirea Voroneț și albastrul ei</li><li>Sucevița și Moldovița, cu frescele exterioare</li><li>Atelierul de ouă încondeiate de la Ciocănești</li><li>Cheile Bicazului și Lacul Roșu, pe drumul de întoarcere</li></ul><!-- /wp:list -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[Voroneț, Sucevița, Moldovița și drumul prin Bucovina, în două sau trei zile.]]></excerpt:encoded>
-  <wp:post_id>19</wp:post_id>
-  <wp:post_date>2026-09-01 20:48:41</wp:post_date>
-  <wp:post_date_gmt>2026-09-01 17:48:41</wp:post_date_gmt>
-  <wp:post_modified>2026-09-01 20:48:41</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-01 17:48:41</wp:post_modified_gmt>
-  <wp:comment_status>closed</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>bucovina-manastiri</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>40</wp:menu_order>
-  <wp:post_type>tur</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_thumbnail_id</wp:meta_key>
-    <wp:meta_value><![CDATA[8]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_durata</wp:meta_key>
-    <wp:meta_value><![CDATA[2-3 zile]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_plecare</wp:meta_key>
-    <wp:meta_value><![CDATA[București]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_pret</wp:meta_key>
-    <wp:meta_value><![CDATA[de la 2.400 lei / mașină]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_persoane</wp:meta_key>
-    <wp:meta_value><![CDATA[1-7]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title><![CDATA[București, turul orașului]]></title>
-  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/bucuresti-tur-oras/</link>
-  <pubDate>Tue, 01 Sep 2026 17:48:41 +0000</pubDate>
-  <dc:creator/>
-  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/tururi/bucuresti-tur-oras/</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:paragraph --><p>Turul acesta se face bine dacă aveți o escală lungă la Otopeni sau o după-amiază liberă. Vă luăm de la hotel ori direct din aeroport, cu bagajele în portbagaj.</p><!-- /wp:paragraph -->
-<!-- wp:heading {"level":2} --><h2 class="wp-block-heading">Ce vizităm</h2><!-- /wp:heading -->
-<!-- wp:list --><ul class="wp-block-list"><li>Palatul Parlamentului, pe dinafară sau cu vizită înăuntru</li><li>Centrul Vechi și Hanul lui Manuc</li><li>Ateneul Român și Calea Victoriei</li><li>Muzeul Satului, dacă vă interesează arhitectura tradițională</li></ul><!-- /wp:list -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[Patru ore prin oraș, între escale lungi sau înainte de zborul de seară.]]></excerpt:encoded>
-  <wp:post_id>20</wp:post_id>
-  <wp:post_date>2026-09-01 20:48:41</wp:post_date>
-  <wp:post_date_gmt>2026-09-01 17:48:41</wp:post_date_gmt>
-  <wp:post_modified>2026-09-01 20:48:41</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-01 17:48:41</wp:post_modified_gmt>
-  <wp:comment_status>closed</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>bucuresti-tur-oras</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>50</wp:menu_order>
-  <wp:post_type>tur</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_thumbnail_id</wp:meta_key>
-    <wp:meta_value><![CDATA[7]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_durata</wp:meta_key>
-    <wp:meta_value><![CDATA[4 ore]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_plecare</wp:meta_key>
-    <wp:meta_value><![CDATA[Hotel sau aeroport]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_pret</wp:meta_key>
-    <wp:meta_value><![CDATA[de la 350 lei / mașină]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>carpathia_persoane</wp:meta_key>
-    <wp:meta_value><![CDATA[1-7]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -1058,7 +753,7 @@
 </item>
 <item>
   <title><![CDATA[Transfer aeroport Otopeni și Băneasa]]></title>
-  <link>https://rtr-tech-solutions.github.io/blackcar-demo/transfer-aeroport/</link>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/?page_id=30</link>
   <pubDate>Tue, 01 Sep 2026 17:49:59 +0000</pubDate>
   <dc:creator/>
   <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/transfer-aeroport/</guid>
@@ -1081,12 +776,12 @@
   <wp:post_id>30</wp:post_id>
   <wp:post_date>2026-09-01 20:49:59</wp:post_date>
   <wp:post_date_gmt>2026-09-01 17:49:59</wp:post_date_gmt>
-  <wp:post_modified>2026-09-01 20:49:59</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-01 17:49:59</wp:post_modified_gmt>
+  <wp:post_modified>2026-09-03 12:35:33</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 09:35:33</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>transfer-aeroport</wp:post_name>
-  <wp:status>publish</wp:status>
+  <wp:status>draft</wp:status>
   <wp:post_parent>0</wp:post_parent>
   <wp:menu_order>0</wp:menu_order>
   <wp:post_type>page</wp:post_type>
@@ -1095,7 +790,7 @@
 </item>
 <item>
   <title><![CDATA[Flota]]></title>
-  <link>https://rtr-tech-solutions.github.io/blackcar-demo/flota/</link>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/?page_id=31</link>
   <pubDate>Tue, 01 Sep 2026 17:49:59 +0000</pubDate>
   <dc:creator/>
   <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/flota/</guid>
@@ -1168,12 +863,12 @@
   <wp:post_id>31</wp:post_id>
   <wp:post_date>2026-09-01 20:49:59</wp:post_date>
   <wp:post_date_gmt>2026-09-01 17:49:59</wp:post_date_gmt>
-  <wp:post_modified>2026-09-03 02:24:54</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-02 23:24:54</wp:post_modified_gmt>
+  <wp:post_modified>2026-09-03 12:35:33</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 09:35:33</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>flota</wp:post_name>
-  <wp:status>publish</wp:status>
+  <wp:status>draft</wp:status>
   <wp:post_parent>0</wp:post_parent>
   <wp:menu_order>0</wp:menu_order>
   <wp:post_type>page</wp:post_type>
@@ -1182,7 +877,7 @@
 </item>
 <item>
   <title><![CDATA[Contact]]></title>
-  <link>https://rtr-tech-solutions.github.io/blackcar-demo/contact/</link>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/?page_id=32</link>
   <pubDate>Tue, 01 Sep 2026 17:49:59 +0000</pubDate>
   <dc:creator/>
   <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/contact/</guid>
@@ -1203,12 +898,12 @@
   <wp:post_id>32</wp:post_id>
   <wp:post_date>2026-09-01 20:49:59</wp:post_date>
   <wp:post_date_gmt>2026-09-01 17:49:59</wp:post_date_gmt>
-  <wp:post_modified>2026-09-01 20:49:59</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-01 17:49:59</wp:post_modified_gmt>
+  <wp:post_modified>2026-09-03 12:35:34</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 09:35:34</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>contact</wp:post_name>
-  <wp:status>publish</wp:status>
+  <wp:status>draft</wp:status>
   <wp:post_parent>0</wp:post_parent>
   <wp:menu_order>0</wp:menu_order>
   <wp:post_type>page</wp:post_type>
@@ -1277,7 +972,7 @@
 </item>
 <item>
   <title><![CDATA[Lacul Vidraru, pe Transfăgărășan]]></title>
-  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/transfagarasan/lacul-vidraru-pe-transfagarasan/</link>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/lacul-vidraru-pe-transfagarasan/</link>
   <pubDate>Wed, 02 Sep 2026 22:58:06 +0000</pubDate>
   <dc:creator/>
   <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/vidraru.jpg</guid>
@@ -1293,7 +988,7 @@
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>lacul-vidraru-pe-transfagarasan</wp:post_name>
   <wp:status>inherit</wp:status>
-  <wp:post_parent>5</wp:post_parent>
+  <wp:post_parent>0</wp:post_parent>
   <wp:menu_order>0</wp:menu_order>
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
@@ -1314,7 +1009,7 @@
 </item>
 <item>
   <title><![CDATA[Brașov, Tâmpa]]></title>
-  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/bran-peles-brasov/brasov-tampa/</link>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/brasov-tampa/</link>
   <pubDate>Wed, 02 Sep 2026 22:58:06 +0000</pubDate>
   <dc:creator/>
   <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/brasov-tampa-turn.jpg</guid>
@@ -1330,7 +1025,7 @@
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>brasov-tampa</wp:post_name>
   <wp:status>inherit</wp:status>
-  <wp:post_parent>16</wp:post_parent>
+  <wp:post_parent>0</wp:post_parent>
   <wp:menu_order>0</wp:menu_order>
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
@@ -1351,7 +1046,7 @@
 </item>
 <item>
   <title><![CDATA[Constanța, nava de pe faleză]]></title>
-  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/delta-dunarii/constanta-nava-de-pe-faleza/</link>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/constanta-nava-de-pe-faleza/</link>
   <pubDate>Wed, 02 Sep 2026 22:58:07 +0000</pubDate>
   <dc:creator/>
   <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/constanta.jpg</guid>
@@ -1367,7 +1062,7 @@
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>constanta-nava-de-pe-faleza</wp:post_name>
   <wp:status>inherit</wp:status>
-  <wp:post_parent>9</wp:post_parent>
+  <wp:post_parent>0</wp:post_parent>
   <wp:menu_order>0</wp:menu_order>
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
@@ -1498,80 +1193,377 @@
   </wp:postmeta>
 </item>
 <item>
-  <title><![CDATA[Curse pentru firme]]></title>
-  <link>https://rtr-tech-solutions.github.io/blackcar-demo/firme/</link>
-  <pubDate>Wed, 02 Sep 2026 23:25:25 +0000</pubDate>
+  <title><![CDATA[Castelul Peleș, Sinaia]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/castelul-peles/</link>
+  <pubDate>Thu, 03 Sep 2026 09:28:46 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/firme/</guid>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/tururi/castelul-peles/</guid>
   <description/>
-  <content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lucrăm lunar cu firme care aduc parteneri și delegați în București. Aceleași mașini, aceiași șoferi și o singură factură la sfârșit de lună, în loc de zeci de bonuri de taxi strânse de prin buzunare.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Ce primiți în plus față de o cursă obișnuită</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list">
-<!-- wp:list-item --><li><strong>Factură lunară</strong>, cu toate cursele detaliate: dată, traseu, pasager, sumă. Se atașează direct la decont.</li><!-- /wp:list-item -->
-<!-- wp:list-item --><li><strong>Plata la termen</strong>, prin ordin de plată, nu cash la fiecare cursă.</li><!-- /wp:list-item -->
-<!-- wp:list-item --><li><strong>Rezervare fără să sunați</strong>: ne trimiteți zborul pe e-mail sau pe WhatsApp și confirmăm în scris.</li><!-- /wp:list-item -->
-<!-- wp:list-item --><li><strong>Plăcuță cu numele firmei</strong> la sosiri, dacă preluăm un partener care nu ne cunoaște.</li><!-- /wp:list-item -->
-<!-- wp:list-item --><li><strong>Tarife fixe pe rutele dumneavoastră uzuale</strong>, stabilite o dată și valabile tot anul.</li><!-- /wp:list-item -->
-</ul>
-<!-- /wp:list -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Cum se face contractul</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Ne spuneți aproximativ câte curse aveți pe lună și pe ce rute. Vă trimitem o listă de tarife fixe și un contract-cadru de o pagină. Nu cerem un număr minim de curse și nu percepem abonament: plătiți doar cursele efectuate.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Cazurile pe care le acoperim des</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Preluări de la Otopeni pentru parteneri veniți din străinătate, transport între sediu și fabrică, delegați duși la Ploiești sau Brașov dimineața și aduși înapoi seara, evenimente cu mai multe mașini în același interval.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Cereți lista de tarife</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Scrieți-ne rutele pe care le folosiți cel mai des și vă răspundem cu prețurile fixe pentru fiecare, în aceeași zi.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
-<div class="wp-block-buttons">
-<!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="[contact camp=whatsapp_link]" target="_blank" rel="noopener">Scrie pe WhatsApp</a></div>
-<!-- /wp:button -->
-<!-- wp:button {"className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="mailto:contact@blackcar.ro?subject=Cerere%20tarife%20firme">Trimite un e-mail</a></div>
-<!-- /wp:button -->
-</div>
-<!-- /wp:buttons -->
+  <content:encoded><![CDATA[<!-- wp:paragraph --><p>Plecăm dimineața de la hotelul dumneavoastră și urcăm pe Valea Prahovei. La Sinaia vedem castelul, mănăstirea de alături și centrul stațiunii, cu timp de mâncat undeva pe drum.</p><!-- /wp:paragraph -->
+<!-- wp:heading --><h2 class="wp-block-heading">Ce vizităm</h2><!-- /wp:heading -->
+<!-- wp:list --><ul class="wp-block-list"><!-- wp:list-item --><li>Castelul Peleș, cu vizita ghidată la parter sau la ambele etaje</li><!-- /wp:list-item --><!-- wp:list-item --><li>Castelul Pelișor, dacă rămâne timp</li><!-- /wp:list-item --><!-- wp:list-item --><li>Mănăstirea Sinaia</li><!-- /wp:list-item --><!-- wp:list-item --><li>Centrul stațiunii și cazinoul</li><!-- /wp:list-item --></ul><!-- /wp:list -->
+<!-- wp:heading --><h2 class="wp-block-heading">De știut</h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Castelul e închis lunea și marțea. Vara și în weekend se stă la coadă la bilete, așa că plecăm devreme. Biletele de intrare nu sunt incluse.</p><!-- /wp:paragraph -->
 ]]></content:encoded>
-  <excerpt:encoded><![CDATA[Contract-cadru, tarife fixe pe rutele dumneavoastră și o singură factură la sfârșit de lună, cu toate cursele detaliate.]]></excerpt:encoded>
-  <wp:post_id>47</wp:post_id>
-  <wp:post_date>2026-09-03 02:25:25</wp:post_date>
-  <wp:post_date_gmt>2026-09-02 23:25:25</wp:post_date_gmt>
-  <wp:post_modified>2026-09-03 02:29:27</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-02 23:29:27</wp:post_modified_gmt>
+  <excerpt:encoded><![CDATA[Reședința de vară a regilor, plus o oprire în centrul Sinaiei și la mănăstire.]]></excerpt:encoded>
+  <wp:post_id>49</wp:post_id>
+  <wp:post_date>2026-09-03 12:28:46</wp:post_date>
+  <wp:post_date_gmt>2026-09-03 09:28:46</wp:post_date_gmt>
+  <wp:post_modified>2026-09-03 12:28:46</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 09:28:46</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>firme</wp:post_name>
+  <wp:post_name>castelul-peles</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>page</wp:post_type>
+  <wp:menu_order>1</wp:menu_order>
+  <wp:post_type>tur</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_durata</wp:meta_key>
+    <wp:meta_value><![CDATA[8-9 ore]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_plecare</wp:meta_key>
+    <wp:meta_value><![CDATA[București]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_persoane</wp:meta_key>
+    <wp:meta_value><![CDATA[1-6]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[12]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Castelul Cantacuzino, Bușteni]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/castelul-cantacuzino/</link>
+  <pubDate>Thu, 03 Sep 2026 09:28:48 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/tururi/castelul-cantacuzino/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph --><p>Un castel mai mic decât Peleșul, dar cu una dintre cele mai frumoase priveliști din Bușteni. Se poate combina cu o oprire la cascada Urlătoarea.</p><!-- /wp:paragraph -->
+<!-- wp:heading --><h2 class="wp-block-heading">Ce vizităm</h2><!-- /wp:heading -->
+<!-- wp:list --><ul class="wp-block-list"><!-- wp:list-item --><li>Castelul Cantacuzino și parcul din jur</li><!-- /wp:list-item --><!-- wp:list-item --><li>Terasa cu vedere spre Crucea Caraiman</li><!-- /wp:list-item --><!-- wp:list-item --><li>Cascada Urlătoarea, dacă vremea permite</li><!-- /wp:list-item --><!-- wp:list-item --><li>Centrul Bușteniului</li><!-- /wp:list-item --></ul><!-- /wp:list -->
+<!-- wp:heading --><h2 class="wp-block-heading">De știut</h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Drumul până la cascadă e pe potecă, cam patruzeci de minute dus. Spuneți-ne dacă mergeți greu și rămânem doar la castel.</p><!-- /wp:paragraph -->
+]]></content:encoded>
+  <excerpt:encoded><![CDATA[Castelul de la poalele Bucegilor, cu terasa care dă spre Caraiman.]]></excerpt:encoded>
+  <wp:post_id>50</wp:post_id>
+  <wp:post_date>2026-09-03 12:28:48</wp:post_date>
+  <wp:post_date_gmt>2026-09-03 09:28:48</wp:post_date_gmt>
+  <wp:post_modified>2026-09-03 12:28:48</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 09:28:48</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>castelul-cantacuzino</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>2</wp:menu_order>
+  <wp:post_type>tur</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_durata</wp:meta_key>
+    <wp:meta_value><![CDATA[8 ore]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_plecare</wp:meta_key>
+    <wp:meta_value><![CDATA[București]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_persoane</wp:meta_key>
+    <wp:meta_value><![CDATA[1-6]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[54]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Castelul Bran]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/castelul-bran/</link>
+  <pubDate>Thu, 03 Sep 2026 09:28:50 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/tururi/castelul-bran/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph --><p>Cel mai cunoscut castel din România, la o oră și jumătate de Brașov. Mergem pe Valea Prahovei și ne întoarcem seara, cu opriri unde cereți.</p><!-- /wp:paragraph -->
+<!-- wp:heading --><h2 class="wp-block-heading">Ce vizităm</h2><!-- /wp:heading -->
+<!-- wp:list --><ul class="wp-block-list"><!-- wp:list-item --><li>Castelul Bran și târgul de suveniruri de la poale</li><!-- /wp:list-item --><!-- wp:list-item --><li>Cetatea Râșnov, pe drumul de întoarcere</li><!-- /wp:list-item --><!-- wp:list-item --><li>Centrul vechi al Brașovului, dacă rămâne timp</li><!-- /wp:list-item --></ul><!-- /wp:list -->
+<!-- wp:heading --><h2 class="wp-block-heading">De știut</h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>În weekend și în sezon se intră greu în castel după ora unsprezece. Plecăm la șapte dimineața ca să prindem primele intrări.</p><!-- /wp:paragraph -->
+]]></content:encoded>
+  <excerpt:encoded><![CDATA[Castelul Bran și, dacă vreți, cetatea Râșnovului pe drumul de întoarcere.]]></excerpt:encoded>
+  <wp:post_id>51</wp:post_id>
+  <wp:post_date>2026-09-03 12:28:50</wp:post_date>
+  <wp:post_date_gmt>2026-09-03 09:28:50</wp:post_date_gmt>
+  <wp:post_modified>2026-09-03 12:28:50</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 09:28:50</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>castelul-bran</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>3</wp:menu_order>
+  <wp:post_type>tur</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_durata</wp:meta_key>
+    <wp:meta_value><![CDATA[9-10 ore]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_plecare</wp:meta_key>
+    <wp:meta_value><![CDATA[București]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_persoane</wp:meta_key>
+    <wp:meta_value><![CDATA[1-6]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[57]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Salina Slănic Prahova]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/salina-slanic/</link>
+  <pubDate>Thu, 03 Sep 2026 09:28:51 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/tururi/salina-slanic/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph --><p>O sală uriașă săpată în sare, cu aer curat și paisprezece grade tot anul. E excursia potrivită când afară sunt patruzeci de grade sau când plouă.</p><!-- /wp:paragraph -->
+<!-- wp:heading --><h2 class="wp-block-heading">Ce vizităm</h2><!-- /wp:heading -->
+<!-- wp:list --><ul class="wp-block-list"><!-- wp:list-item --><li>Mina Unirea, coborâre cu liftul</li><!-- /wp:list-item --><!-- wp:list-item --><li>Muntele de Sare și Lacul Baia Baciului</li><!-- /wp:list-item --><!-- wp:list-item --><li>Oprire la o cramă sau la un restaurant din zonă</li><!-- /wp:list-item --></ul><!-- /wp:list -->
+<!-- wp:heading --><h2 class="wp-block-heading">De știut</h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>În salină sunt paisprezece grade, deci luați o bluză chiar și vara. Coborârea se face cu liftul, nu pe scări.</p><!-- /wp:paragraph -->
+]]></content:encoded>
+  <excerpt:encoded><![CDATA[Mina Unirea, la vreo sută de metri sub pământ, bună și pe caniculă.]]></excerpt:encoded>
+  <wp:post_id>52</wp:post_id>
+  <wp:post_date>2026-09-03 12:28:51</wp:post_date>
+  <wp:post_date_gmt>2026-09-03 09:28:51</wp:post_date_gmt>
+  <wp:post_modified>2026-09-03 12:28:51</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 09:28:51</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>salina-slanic</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>4</wp:menu_order>
+  <wp:post_type>tur</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_durata</wp:meta_key>
+    <wp:meta_value><![CDATA[7-8 ore]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_plecare</wp:meta_key>
+    <wp:meta_value><![CDATA[București]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_persoane</wp:meta_key>
+    <wp:meta_value><![CDATA[1-6]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[55]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Barajul Paltinu]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/barajul-paltinu/</link>
+  <pubDate>Thu, 03 Sep 2026 09:28:52 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/tururi/barajul-paltinu/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph --><p>Un drum liniștit, la mai puțin de două ore de București, pe care nu-l știe multă lume. Barajul, lacul și satele de pe Valea Doftanei.</p><!-- /wp:paragraph -->
+<!-- wp:heading --><h2 class="wp-block-heading">Ce vizităm</h2><!-- /wp:heading -->
+<!-- wp:list --><ul class="wp-block-list"><!-- wp:list-item --><li>Barajul Paltinu și lacul de acumulare</li><!-- /wp:list-item --><!-- wp:list-item --><li>Valea Doftanei, cu opriri de fotografiat</li><!-- /wp:list-item --><!-- wp:list-item --><li>Prânz la o pensiune din Trăisteni sau Teșila</li><!-- /wp:list-item --></ul><!-- /wp:list -->
+<!-- wp:heading --><h2 class="wp-block-heading">De știut</h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Iarna drumul poate fi închis după ninsori mari. Verificăm cu o zi înainte și vă spunem dacă schimbăm traseul.</p><!-- /wp:paragraph -->
+]]></content:encoded>
+  <excerpt:encoded><![CDATA[Barajul de pe Doftana și drumul prin Valea Doftanei, fără aglomerație.]]></excerpt:encoded>
+  <wp:post_id>53</wp:post_id>
+  <wp:post_date>2026-09-03 12:28:52</wp:post_date>
+  <wp:post_date_gmt>2026-09-03 09:28:52</wp:post_date_gmt>
+  <wp:post_modified>2026-09-03 12:28:52</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 09:28:52</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>barajul-paltinu</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>5</wp:menu_order>
+  <wp:post_type>tur</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_durata</wp:meta_key>
+    <wp:meta_value><![CDATA[7 ore]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_plecare</wp:meta_key>
+    <wp:meta_value><![CDATA[București]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_persoane</wp:meta_key>
+    <wp:meta_value><![CDATA[1-6]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[56]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Castelul Cantacuzino, Bușteni]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/castelul-cantacuzino/castelul-cantacuzino-busteni/</link>
+  <pubDate>Thu, 03 Sep 2026 09:33:42 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-cantacuzino.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[Wikimedia Commons, Nenea hartia, CC BY-SA 4.0]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>54</wp:post_id>
+  <wp:post_date>2026-09-03 12:33:42</wp:post_date>
+  <wp:post_date_gmt>2026-09-03 09:33:42</wp:post_date_gmt>
+  <wp:post_modified>2026-09-03 12:33:42</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 09:33:42</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>castelul-cantacuzino-busteni</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>50</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-cantacuzino.jpg</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[2026/09/tur-cantacuzino.jpg]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:788;s:4:"file";s:27:"2026/09/tur-cantacuzino.jpg";s:8:"filesize";i:296053;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:27:"tur-cantacuzino-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12234;}s:5:"large";a:5:{s:4:"file";s:28:"tur-cantacuzino-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:125341;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"tur-cantacuzino-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5689;}s:12:"medium_large";a:5:{s:4:"file";s:27:"tur-cantacuzino-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70202;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Castelul Cantacuzino din Bușteni, văzut dinspre parc]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Salina Slănic Prahova, mina Unirea]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/salina-slanic/salina-slanic-prahova-mina-unirea/</link>
+  <pubDate>Thu, 03 Sep 2026 09:33:43 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-salina-slanic.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[Wikimedia Commons, User:Beradrian, CC BY-SA 3.0]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>55</wp:post_id>
+  <wp:post_date>2026-09-03 12:33:43</wp:post_date>
+  <wp:post_date_gmt>2026-09-03 09:33:43</wp:post_date_gmt>
+  <wp:post_modified>2026-09-03 12:33:43</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 09:33:43</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>salina-slanic-prahova-mina-unirea</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>52</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-salina-slanic.jpg</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[2026/09/tur-salina-slanic.jpg]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:1050;s:4:"file";s:29:"2026/09/tur-salina-slanic.jpg";s:8:"filesize";i:186442;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:29:"tur-salina-slanic-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10110;}s:5:"large";a:5:{s:4:"file";s:30:"tur-salina-slanic-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90343;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"tur-salina-slanic-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4316;}s:12:"medium_large";a:5:{s:4:"file";s:29:"tur-salina-slanic-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53205;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Sala principală a minei Unirea din Salina Slănic Prahova]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Barajul Paltinu]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/barajul-paltinu/barajul-paltinu-2/</link>
+  <pubDate>Thu, 03 Sep 2026 09:33:44 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-paltinu.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[Wikimedia Commons, Nenea hartia, CC BY-SA 4.0]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>56</wp:post_id>
+  <wp:post_date>2026-09-03 12:33:44</wp:post_date>
+  <wp:post_date_gmt>2026-09-03 09:33:44</wp:post_date_gmt>
+  <wp:post_modified>2026-09-03 12:33:44</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 09:33:44</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>barajul-paltinu-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>53</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-paltinu.jpg</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[2026/09/tur-paltinu.jpg]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:788;s:4:"file";s:23:"2026/09/tur-paltinu.jpg";s:8:"filesize";i:394851;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:23:"tur-paltinu-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14287;}s:5:"large";a:5:{s:4:"file";s:24:"tur-paltinu-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:168845;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"tur-paltinu-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6203;}s:12:"medium_large";a:5:{s:4:"file";s:23:"tur-paltinu-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93211;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Barajul Paltinu de pe râul Doftana, văzut din vale]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Castelul Bran]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/tururi/castelul-bran/castelul-bran-2/</link>
+  <pubDate>Thu, 03 Sep 2026 09:35:33 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-bran.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[Wikimedia Commons, Angelbo, CC BY-SA 3.0]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>57</wp:post_id>
+  <wp:post_date>2026-09-03 12:35:33</wp:post_date>
+  <wp:post_date_gmt>2026-09-03 09:35:33</wp:post_date_gmt>
+  <wp:post_modified>2026-09-03 12:35:33</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-03 09:35:33</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>castelul-bran-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>51</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-bran.jpg</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[2026/09/tur-bran.jpg]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:1065;s:4:"file";s:20:"2026/09/tur-bran.jpg";s:8:"filesize";i:158741;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:20:"tur-bran-300x228.jpg";s:5:"width";i:300;s:6:"height";i:228;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10102;}s:5:"large";a:5:{s:4:"file";s:21:"tur-bran-1024x779.jpg";s:5:"width";i:1024;s:6:"height";i:779;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73410;}s:9:"thumbnail";a:5:{s:4:"file";s:20:"tur-bran-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4221;}s:12:"medium_large";a:5:{s:4:"file";s:20:"tur-bran-768x584.jpg";s:5:"width";i:768;s:6:"height";i:584;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45752;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Castelul Bran văzut dinspre drum]]></wp:meta_value>
+  </wp:postmeta>
 </item>
   </channel>
 </rss>

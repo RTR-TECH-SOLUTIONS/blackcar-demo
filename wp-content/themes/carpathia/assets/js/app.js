@@ -29,6 +29,8 @@
 		var date = (data.get('data') || '').toString().trim();
 		var time = (data.get('ora') || '').toString().trim();
 		var people = (data.get('persoane') || '').toString().trim();
+		var flight = (data.get('zbor') || '').toString().trim();
+		var phone_contact = (data.get('telefon') || '').toString().trim();
 
 		var readableDate = date;
 		if (date) {
@@ -45,6 +47,8 @@
 			'Ora: ' + (time || '(de completat)'),
 			'Persoane: ' + (people || '1')
 		];
+		if (flight) lines.splice(5, 0, 'Număr zbor: ' + flight);
+		if (phone_contact) lines.push('Telefon: ' + phone_contact);
 
 		var mesaj = lines.join('\n');
 		var phone = form.getAttribute('data-whatsapp') || '';
