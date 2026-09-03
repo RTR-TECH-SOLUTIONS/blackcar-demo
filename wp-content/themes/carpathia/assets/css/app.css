@@ -6,14 +6,11 @@
 	--ink: var(--wp--preset--color--ink, #0A0B0C);
 	--ink-2: var(--wp--preset--color--ink-2, #141618);
 	--ink-3: var(--wp--preset--color--ink-3, #2A2E33);
-	--gold: var(--wp--preset--color--gold, #C08F3A);
-	/* Auriul de buton cade sub 4.5:1 pe hârtie, deci textul mic pe fundal
+	--gold: var(--wp--preset--color--gold, #B07C22);
+	/* Auriul de buton cade la 3.4:1 pe hârtie, deci textul mic pe fundal
 	   deschis folosește varianta închisă (5.2:1). */
 	--gold-ink: var(--wp--preset--color--gold-ink, #8A5F1C);
-	--gold-soft: var(--wp--preset--color--gold-soft, #D9BC81);
-	/* Alama de brand cade sub 4.5:1 pe alb, deci textul mic pe fundal deschis
-	   folosește varianta închisă (5.0:1). */
-	--gold-ink: #8A6A2C;
+	--gold-soft: var(--wp--preset--color--gold-soft, #E4C083);
 	--cream: var(--wp--preset--color--cream, #FAF5EC);
 	--sand: var(--wp--preset--color--sand, #F1E7D5);
 	--forest: var(--wp--preset--color--forest, #2E4A38);
@@ -79,7 +76,11 @@ body { overflow-x: clip; }
 	font-weight: 500;
 	letter-spacing: .01em;
 	color: #fff;
+	/* Pe ecrane inguste numele nu are voie sa se rupa in doua rinduri,
+	   altfel imparte antetul si strange butonul de oferta. */
+	white-space: nowrap;
 }
+@media (max-width: 400px) { .brand__name { font-size: 1.2rem; } }
 @media (min-width: 900px) { .brand__name { font-size: 1.5rem; } }
 .brand--footer .brand__name { font-size: 1.5rem; }
 
