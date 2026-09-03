@@ -46,7 +46,7 @@ internet și poate dura un minut.
 Setări → Citire:
 - Pagina ta principală afișează: **O pagină statică**
 - Pagina principală: **Acasă**
-- Pagina articolelor: **Ghid de destinații**
+- Pagina articolelor: **Blog**
 
 **5. Verifică**
 
