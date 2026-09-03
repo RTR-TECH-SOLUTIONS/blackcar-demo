@@ -30,9 +30,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <style id="wp-block-heading-inline-css">
 h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
 </style>
-<style id="wp-block-columns-inline-css">
-.wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
-</style>
 <style id="wp-block-post-featured-image-inline-css">
 .wp-block-post-featured-image{margin-left:0;margin-right:0}.wp-block-post-featured-image a{display:block;height:100%}.wp-block-post-featured-image :where(img){box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom;width:100%}.wp-block-post-featured-image.alignfull img,.wp-block-post-featured-image.alignwide img{width:100%}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim{background-color:#000;inset:0;position:absolute}.wp-block-post-featured-image{position:relative}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-gradient{background-color:transparent}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-0{opacity:0}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-10{opacity:.1}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-20{opacity:.2}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-30{opacity:.3}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-40{opacity:.4}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-50{opacity:.5}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-60{opacity:.6}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-70{opacity:.7}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-80{opacity:.8}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-90{opacity:.9}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-100{opacity:1}.wp-block-post-featured-image:where(.alignleft,.alignright){width:100%}
 </style>
@@ -47,6 +44,9 @@ h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-backg
 </style>
 <style id="wp-block-post-terms-inline-css">
 .wp-block-post-terms{box-sizing:border-box}.wp-block-post-terms .wp-block-post-terms__separator{white-space:pre-wrap}
+</style>
+<style id="wp-block-columns-inline-css">
+.wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
 </style>
 <style id="wp-block-list-inline-css">
 ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:1.25em 2.375em}
@@ -63,14 +63,14 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 :root :where(.wp-block-button.is-style-outline--3 .wp-block-button__link){background: transparent none;border-color: currentColor;border-width: 2px;border-style: solid;color: currentColor;padding-top: 0.667em;padding-right: 1.33em;padding-bottom: 0.667em;padding-left: 1.33em;}
 </style>
 <style id="core-block-supports-inline-css">
-.wp-container-core-group-is-layout-30344cfd{gap:1.5rem;}.wp-container-core-group-is-layout-70196fb6{justify-content:space-between;}.wp-container-core-navigation-is-layout-f5f06976{gap:1.6rem;justify-content:flex-end;}.wp-container-core-group-is-layout-bedea772{flex-wrap:nowrap;gap:1.75rem;}.wp-container-core-group-is-layout-24b46ddb{flex-wrap:nowrap;justify-content:space-between;}.wp-container-core-buttons-is-layout-b36695fa{gap:0.75rem;}.wp-container-core-buttons-is-layout-97534242{justify-content:flex-start;}.wp-container-core-columns-is-layout-4226499b{flex-wrap:nowrap;gap:2.5rem 4rem;}.wp-container-core-post-template-is-layout-0d5c60d9{grid-template-columns:repeat(3, minmax(0, 1fr));}.wp-container-core-buttons-is-layout-c95d9e5d{justify-content:flex-start;}.wp-container-core-columns-is-layout-78d62eda{flex-wrap:nowrap;gap:2rem 4rem;}.wp-container-core-buttons-is-layout-fa5e4718{justify-content:flex-start;}.wp-container-core-columns-is-layout-aaeea2c9{flex-wrap:nowrap;gap:2.5rem 3rem;}.wp-container-core-group-is-layout-5c94d236{gap:1rem;justify-content:space-between;}
+.wp-container-core-group-is-layout-30344cfd{gap:1.5rem;}.wp-container-core-group-is-layout-70196fb6{justify-content:space-between;}.wp-container-core-navigation-is-layout-f5f06976{gap:1.6rem;justify-content:flex-end;}.wp-container-core-group-is-layout-bedea772{flex-wrap:nowrap;gap:1.75rem;}.wp-container-core-group-is-layout-24b46ddb{flex-wrap:nowrap;justify-content:space-between;}.wp-container-core-buttons-is-layout-b36695fa{gap:0.75rem;}.wp-container-core-post-template-is-layout-0d5c60d9{grid-template-columns:repeat(3, minmax(0, 1fr));}.wp-container-core-buttons-is-layout-c95d9e5d{justify-content:flex-start;}.wp-container-core-columns-is-layout-78d62eda{flex-wrap:nowrap;gap:2rem 4rem;}.wp-container-core-buttons-is-layout-fa5e4718{justify-content:flex-start;}.wp-container-core-columns-is-layout-aaeea2c9{flex-wrap:nowrap;gap:2.5rem 3rem;}.wp-container-core-group-is-layout-5c94d236{gap:1rem;justify-content:space-between;}
 </style>
 <style id="wp-block-template-skip-link-inline-css">
 /*! This file is auto-generated */
 .skip-link.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute!important;width:1px;word-wrap:normal!important;word-break:normal!important}.skip-link.screen-reader-text:focus{background-color:#eee;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}
 </style>
-<link rel='stylesheet' id='carpathia-style-css' href="./wp-content/themes/carpathia/style.css?ver=1788427666" media='all' />
-<link rel='stylesheet' id='carpathia-app-css' href="./wp-content/themes/carpathia/assets/css/app.css?ver=1788427620" media='all' />
+<link rel='stylesheet' id='carpathia-style-css' href="./wp-content/themes/carpathia/style.css?ver=1788430735" media='all' />
+<link rel='stylesheet' id='carpathia-app-css' href="./wp-content/themes/carpathia/assets/css/app.css?ver=1788430578" media='all' />
 <script data-wp-strategy="defer" defer id="carpathia-app-js" src="./wp-content/themes/carpathia/assets/js/app.js?ver=1788427803"></script>
 <script id="wp-importmap" type="importmap">
 {"imports":{"@wordpress/interactivity":"./wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=efaa5193bbad9c60ffd1"}}
@@ -115,7 +115,7 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 	
 	<div class="wp-block-group alignwide is-content-justification-space-between is-nowrap is-layout-flex wp-container-core-group-is-layout-24b46ddb wp-block-group-is-layout-flex">
 		
-		<a class="brand" href="./"><span class="brand__name">Blackcar</span><span class="brand__tag">Transferuri private &middot; București</span></a>		
+		<a class="brand" href="./"><span class="brand__name">Blackcar</span></a>		
 
 		
 		<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-bedea772 wp-block-group-is-layout-flex">
@@ -144,7 +144,7 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 							<div class="wp-block-navigation__responsive-container-content" 
 				data-wp-watch="callbacks.focusFirstElement"
 			 id="modal-1-content">
-								<ul class="wp-block-navigation__container has-text-color has-base-color is-responsive items-justified-right wp-block-navigation"><li class="wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="./#transferuri"><span class="wp-block-navigation-item__label">Transferuri</span></a></li><li class="wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="./#tururi"><span class="wp-block-navigation-item__label">Tururi</span></a></li><li class="wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="./#masini"><span class="wp-block-navigation-item__label">Mașinile</span></a></li><li class="wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="./ghid/"><span class="wp-block-navigation-item__label">Ghid de destinații</span></a></li><li class="wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="./#contact"><span class="wp-block-navigation-item__label">Contact</span></a></li></ul>
+								<ul class="wp-block-navigation__container has-text-color has-base-color is-responsive items-justified-right wp-block-navigation"><li class="wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="./#transferuri"><span class="wp-block-navigation-item__label">Transferuri</span></a></li><li class="wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="./#tururi"><span class="wp-block-navigation-item__label">Tururi</span></a></li><li class="wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="./#masini"><span class="wp-block-navigation-item__label">Mașinile</span></a></li><li class="wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="./blog/"><span class="wp-block-navigation-item__label">Blog</span></a></li><li class="wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="./#contact"><span class="wp-block-navigation-item__label">Contact</span></a></li></ul>
 								
 							</div>
 						</div>
@@ -327,7 +327,7 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 			<div class="card__body">
 				<h3 class="card__title"><a href="#cerere">Transfer aeroport</a></h3>
 				<p class="card__text">De la și către Henri Coandă și Băneasa. Ne spuneți numărul zborului, îl urmărim și venim la ora la care aterizați efectiv. La sosiri vă așteptăm în zona de ieșire, cu plăcuță.</p>
-				<div class="card__meta"><span><strong>De la 130 lei</strong> spre București</span></div>
+				<div class="card__meta"><span><strong>Henri Coandă și Băneasa</strong>, la sosire și la plecare</span></div>
 			</div>
 		</article>
 
@@ -348,135 +348,66 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 
 
 	
-<div class="wp-block-group alignfull cta-band has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)">
+<div class="wp-block-group alignfull section-dark fleet-section has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" id="masini" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)">
 
 	
 	<div class="wp-block-group alignwide section-head has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="margin-bottom:var(--wp--preset--spacing--40)">
 		
-		<h2 class="wp-block-heading">Cât costă de la Otopeni</h2>
+		<h2 class="wp-block-heading">Mașinile</h2>
 		
 		
-		<p class="wp-block-paragraph">Prețurile de mai jos includ TVA, combustibilul, parcarea la aeroport și așteptarea. Nu se schimbă noaptea și nici în trafic.</p>
-		
-	</div>
-	
-
-	
-	<div class="rates alignwide">
-		<div class="rates__scroll">
-			<table>
-				<caption>Tarife orientative pentru plecarea din Aeroportul Henri Coandă. Pentru alte rute, trimiteți adresa și primiți prețul exact.</caption>
-				<thead>
-					<tr>
-						<th scope="col">Destinație</th>
-						<th scope="col">Sedan, 1-3 persoane</th>
-						<th scope="col">Van, 4-7 persoane</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr><th scope="row">București, zona centrală</th><td class="price">130 lei</td><td class="price">180 lei</td></tr>
-					<tr><th scope="row">București, restul sectoarelor</th><td class="price">140-170 lei</td><td class="price">190-220 lei</td></tr>
-					<tr><th scope="row">Ploiești</th><td class="price">280 lei</td><td class="price">360 lei</td></tr>
-					<tr><th scope="row">Sinaia</th><td class="price">450 lei</td><td class="price">570 lei</td></tr>
-					<tr><th scope="row">Brașov</th><td class="price">550 lei</td><td class="price">690 lei</td></tr>
-					<tr><th scope="row">Constanța</th><td class="price">780 lei</td><td class="price">950 lei</td></tr>
-					<tr><th scope="row">Alte localități</th><td class="price">3,5 lei/km</td><td class="price">4,5 lei/km</td></tr>
-				</tbody>
-			</table>
-		</div>
-	</div>
-	
-
-	
-	<div class="estimator alignwide" data-estimator>
-		<p class="estimator__title">Calculați rapid</p>
-		<div class="estimator__row">
-			<label class="estimator__field">
-				<span>De la Otopeni către</span>
-				<select data-estimator-ruta>
-					<option data-sedan="130 lei" data-van="180 lei">București, zona centrală</option>
-					<option data-sedan="140-170 lei" data-van="190-220 lei">București, restul sectoarelor</option>
-					<option data-sedan="280 lei" data-van="360 lei">Ploiești</option>
-					<option data-sedan="450 lei" data-van="570 lei">Sinaia</option>
-					<option data-sedan="550 lei" data-van="690 lei">Brașov</option>
-					<option data-sedan="780 lei" data-van="950 lei">Constanța</option>
-					<option data-sedan="3,5 lei/km" data-van="4,5 lei/km">Altă localitate</option>
-				</select>
-			</label>
-
-			<label class="estimator__field">
-				<span>Mașină</span>
-				<select data-estimator-masina>
-					<option value="sedan">Sedan, 1-3 persoane</option>
-					<option value="van">Van, 4-7 persoane</option>
-				</select>
-			</label>
-
-			<p class="estimator__out">
-				<span>Preț</span>
-				<strong data-estimator-rezultat></strong>
-			</p>
-		</div>
-		<p class="estimator__note">Preț orientativ, fix pentru rutele din listă. Pentru adresa exactă vă confirmăm suma în scris înainte de cursă.</p>
-	</div>
-	
-
-	
-	<div class="wp-block-buttons alignwide is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-97534242 wp-block-buttons-is-layout-flex" style="margin-top:var(--wp--preset--spacing--30)">
-		
-		<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="#cerere">Cere prețul pentru cursa ta</a></div>
+		<p class="wp-block-paragraph">Astea sunt mașinile noastre, fotografiate așa cum arată. Nu lucrăm cu subcontractori și vă spunem din start ce model vine.</p>
 		
 	</div>
 	
-</div>
-
 
 	
-<div class="wp-block-group alignfull has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" id="masini" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)">
+	<ul class="fleet-gallery alignwide">
+		<li class="fleet-shot fleet-shot--wide">
+			<img src="./wp-content/themes/carpathia/assets/images/auto-vclass-aeroport.jpg" width="1200" height="900" loading="lazy" decoding="async" alt="Mercedes-Benz V-Class în parcarea Aeroportului Otopeni, cu un avion pe pistă în fundal">
+			<p class="fleet-shot__caption"><strong>Mercedes-Benz V-Class</strong> la Otopeni, înainte de o preluare</p>
+		</li>
+		<li class="fleet-shot">
+			<img src="./wp-content/themes/carpathia/assets/images/auto-eclass-fata.jpg" width="1200" height="900" loading="lazy" decoding="async" alt="Mercedes-Benz E-Class văzut din față">
+			<p class="fleet-shot__caption"><strong>Mercedes-Benz E-Class</strong>, clasa business</p>
+		</li>
+		<li class="fleet-shot">
+			<img src="./wp-content/themes/carpathia/assets/images/auto-eclass-spate.jpg" width="1200" height="900" loading="lazy" decoding="async" alt="Mercedes-Benz E-Class văzut din spate">
+			<p class="fleet-shot__caption">Portbagaj de sedan, pentru bagaj obișnuit</p>
+		</li>
+		<li class="fleet-shot">
+			<img src="./wp-content/themes/carpathia/assets/images/auto-vclass-terminal.jpg" width="1200" height="900" loading="lazy" decoding="async" alt="Mercedes-Benz V-Class în fața terminalului de la Otopeni">
+			<p class="fleet-shot__caption">Vanul, în fața terminalului de sosiri</p>
+		</li>
+		<li class="fleet-shot">
+			<img src="./wp-content/themes/carpathia/assets/images/auto-interior.jpg" width="1200" height="900" loading="lazy" decoding="async" alt="Bancheta din spate a vanului, tapițerie din piele">
+			<p class="fleet-shot__caption">Bancheta din spate, cu scaune individuale</p>
+		</li>
+		<li class="fleet-shot">
+			<img src="./wp-content/themes/carpathia/assets/images/auto-bagaje.jpg" width="1200" height="900" loading="lazy" decoding="async" alt="Spațiul de bagaje al vanului, cu banchetele rabatate">
+			<p class="fleet-shot__caption">Spațiul de bagaje, cu banchetele rabatate</p>
+		</li>
+	</ul>
 	
-	<div class="wp-block-columns alignwide are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-4226499b wp-block-columns-is-layout-flex">
 
-		
-		<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:46%">
-			
-			<img src="./wp-content/themes/carpathia/assets/images/flota.jpg" width="1400" height="875" loading="lazy" decoding="async" alt="Mercedes-Benz V-Class al Blackcar, în parcarea Aeroportului Otopeni" style="width:100%;height:auto;border-radius:12px;display:block">
-			
+	
+	<div class="fleet-classes alignwide">
+		<div class="fleet-class">
+			<p class="fleet-class__name">Business</p>
+			<p class="fleet-class__model">Mercedes-Benz E-Class</p>
+			<ul class="fleet__specs">
+				<li><span>Pasageri</span><span>până la 3</span></li>
+				<li><span>Bagaje mari</span><span>3</span></li>
+			</ul>
 		</div>
-		
-
-		
-		<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-			
-			<h2 class="wp-block-heading" style="margin-bottom:0.7rem">Mașinile</h2>
-			
-
-			
-			<p class="has-muted-color has-text-color wp-block-paragraph" style="margin-bottom:1.8rem">Două clase, atât. Business pentru preluări și transferuri, van când sunteți mai mulți sau când aveți bagaje mari. Spunem din start ce mașină vine, nu „un autoturism&#8221;.</p>
-			
-
-			
-			<div class="fleet-specs">
-				<div class="fleet__item" style="background:transparent;border:0;padding:0;margin-bottom:1.6rem">
-					<p class="fleet__name">Business</p>
-					<p class="fleet__models">Mercedes-Benz S-Class</p>
-					<ul class="fleet__specs">
-						<li><span>Pasageri</span><span>până la 4</span></li>
-						<li><span>Bagaje mari</span><span>3</span></li>
-					</ul>
-				</div>
-				<div class="fleet__item" style="background:transparent;border:0;padding:0">
-					<p class="fleet__name">Van</p>
-					<p class="fleet__models">Mercedes-Benz V-Class</p>
-					<ul class="fleet__specs">
-						<li><span>Pasageri</span><span>până la 6</span></li>
-						<li><span>Bagaje mari</span><span>7, sau bagaje voluminoase</span></li>
-					</ul>
-				</div>
-			</div>
-			
+		<div class="fleet-class">
+			<p class="fleet-class__name">Van</p>
+			<p class="fleet-class__model">Mercedes-Benz V-Class</p>
+			<ul class="fleet__specs">
+				<li><span>Pasageri</span><span>până la 6</span></li>
+				<li><span>Bagaje mari</span><span>7, sau bagaje voluminoase</span></li>
+			</ul>
 		</div>
-		
-
 	</div>
 	
 </div>
@@ -602,31 +533,31 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 	
 	<div class="wp-block-group alignwide section-head has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="margin-bottom:var(--wp--preset--spacing--40)">
 		
-		<h2 class="wp-block-heading">Ghid de destinații</h2>
+		<h2 class="wp-block-heading">Blog</h2>
 		
 		
-		<p class="wp-block-paragraph">Locurile în care mergem des, scrise de șoferii care le străbat săptămânal: cât se face până acolo, când e aglomerat și ce merită văzut în drum.</p>
+		<p class="wp-block-paragraph">Poze și însemnări din drumurile pe care le facem cu clienții noștri. Ce am văzut, unde am oprit și cum a fost vremea în ziua aia.</p>
 		
 	</div>
 	
 
 	
 	<div class="wp-block-query alignwide is-layout-flow wp-block-query-is-layout-flow">
-		<ul class="guide-grid wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-22 post type-post status-publish format-standard has-post-thumbnail hentry category-sfaturi">
-			<figure class="wp-block-post-featured-image"><a href="./bucuresti-brasov-cat-dureaza/" target="_self" ><img width="1600" height="1067" src="./wp-content/uploads/2026/09/brasov-tampa.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Cât se face de la București la Brașov și când e cel mai aglomerat" style="border-radius:10px;aspect-ratio:3/2;width:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="./wp-content/uploads/2026/09/brasov-tampa.jpg 1600w, ./wp-content/uploads/2026/09/brasov-tampa-300x200.jpg 300w, ./wp-content/uploads/2026/09/brasov-tampa-1024x683.jpg 1024w, ./wp-content/uploads/2026/09/brasov-tampa-768x512.jpg 768w, ./wp-content/uploads/2026/09/brasov-tampa-1536x1024.jpg 1536w" sizes="auto, (max-width: 1600px) 100vw, 1600px" /></a></figure>
-			<div class="taxonomy-category guide-cat wp-block-post-terms"><a href="./category/sfaturi/" rel="tag">Sfaturi de drum</a></div>
-			<h3 class="guide-title wp-block-post-title"><a href="./bucuresti-brasov-cat-dureaza/" target="_self" >Cât se face de la București la Brașov și când e cel mai aglomerat</a></h3>
-			<div class="guide-excerpt wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Două ore și jumătate într-o marți dimineața, patru într-o duminică seara. Diferența o face Valea Prahovei. </p></div>
-		</li><li class="wp-block-post post-23 post type-post status-publish format-standard has-post-thumbnail hentry category-muntenia">
-			<figure class="wp-block-post-featured-image"><a href="./castelul-peles-program-vizitare/" target="_self" ><img width="1400" height="933" src="./wp-content/uploads/2026/09/blog-castelul-peles.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Castelul Peleș: programul de vizitare și ce e bine să știți înainte" style="border-radius:10px;aspect-ratio:3/2;width:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="./wp-content/uploads/2026/09/blog-castelul-peles.jpg 1400w, ./wp-content/uploads/2026/09/blog-castelul-peles-300x200.jpg 300w, ./wp-content/uploads/2026/09/blog-castelul-peles-1024x682.jpg 1024w, ./wp-content/uploads/2026/09/blog-castelul-peles-768x512.jpg 768w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></a></figure>
+		<ul class="guide-grid wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-67 post type-post status-publish format-standard has-post-thumbnail hentry category-muntenia">
+			<figure class="wp-block-post-featured-image"><a href="./litoralul-in-afara-sezonului/" target="_self" ><img width="1400" height="934" src="./wp-content/uploads/2026/09/blog-litoral.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Litoralul, în afara sezonului" style="border-radius:10px;aspect-ratio:3/2;width:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="./wp-content/uploads/2026/09/blog-litoral.jpg 1400w, ./wp-content/uploads/2026/09/blog-litoral-300x200.jpg 300w, ./wp-content/uploads/2026/09/blog-litoral-1024x683.jpg 1024w, ./wp-content/uploads/2026/09/blog-litoral-768x512.jpg 768w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></a></figure>
 			<div class="taxonomy-category guide-cat wp-block-post-terms"><a href="./category/muntenia/" rel="tag">Muntenia</a></div>
-			<h3 class="guide-title wp-block-post-title"><a href="./castelul-peles-program-vizitare/" target="_self" >Castelul Peleș: programul de vizitare și ce e bine să știți înainte</a></h3>
-			<div class="guide-excerpt wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Este închis lunea și marțea, iar în noiembrie se închide pentru revizie. Detalii care strică ziua dacă nu le știți. </p></div>
-		</li><li class="wp-block-post post-24 post type-post status-publish format-standard has-post-thumbnail hentry category-transilvania">
-			<figure class="wp-block-post-featured-image"><a href="./salina-turda-vizita/" target="_self" ><img width="1400" height="933" src="./wp-content/uploads/2026/09/blog-salina-turda.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Salina Turda: cât durează vizita și ce să luați cu voi" style="border-radius:10px;aspect-ratio:3/2;width:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="./wp-content/uploads/2026/09/blog-salina-turda.jpg 1400w, ./wp-content/uploads/2026/09/blog-salina-turda-300x200.jpg 300w, ./wp-content/uploads/2026/09/blog-salina-turda-1024x682.jpg 1024w, ./wp-content/uploads/2026/09/blog-salina-turda-768x512.jpg 768w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></a></figure>
+			<h3 class="guide-title wp-block-post-title"><a href="./litoralul-in-afara-sezonului/" target="_self" >Litoralul, în afara sezonului</a></h3>
+			<div class="guide-excerpt wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">În septembrie marea e caldă, plajele goale și drumul liber. </p></div>
+		</li><li class="wp-block-post post-65 post type-post status-publish format-standard has-post-thumbnail hentry category-sfaturi">
+			<figure class="wp-block-post-featured-image"><a href="./cascada-de-pe-drum/" target="_self" ><img width="1400" height="933" src="./wp-content/uploads/2026/09/blog-cascada.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Cascada pe care o arătăm tuturor" style="border-radius:10px;aspect-ratio:3/2;width:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="./wp-content/uploads/2026/09/blog-cascada.jpg 1400w, ./wp-content/uploads/2026/09/blog-cascada-300x200.jpg 300w, ./wp-content/uploads/2026/09/blog-cascada-1024x682.jpg 1024w, ./wp-content/uploads/2026/09/blog-cascada-768x512.jpg 768w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></a></figure>
+			<div class="taxonomy-category guide-cat wp-block-post-terms"><a href="./category/sfaturi/" rel="tag">Sfaturi de drum</a></div>
+			<h3 class="guide-title wp-block-post-title"><a href="./cascada-de-pe-drum/" target="_self" >Cascada pe care o arătăm tuturor</a></h3>
+			<div class="guide-excerpt wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">E la un sfert de oră de șosea și aproape nimeni nu știe de ea. </p></div>
+		</li><li class="wp-block-post post-63 post type-post status-publish format-standard has-post-thumbnail hentry category-transilvania">
+			<figure class="wp-block-post-featured-image"><a href="./ciucasul-vremea/" target="_self" ><img width="1400" height="933" src="./wp-content/uploads/2026/09/blog-ciucas.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ciucașul, când vremea ține cu tine" style="border-radius:10px;aspect-ratio:3/2;width:100%;object-fit:cover;" decoding="async" loading="lazy" srcset="./wp-content/uploads/2026/09/blog-ciucas.jpg 1400w, ./wp-content/uploads/2026/09/blog-ciucas-300x200.jpg 300w, ./wp-content/uploads/2026/09/blog-ciucas-1024x682.jpg 1024w, ./wp-content/uploads/2026/09/blog-ciucas-768x512.jpg 768w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></a></figure>
 			<div class="taxonomy-category guide-cat wp-block-post-terms"><a href="./category/transilvania/" rel="tag">Transilvania</a></div>
-			<h3 class="guide-title wp-block-post-title"><a href="./salina-turda-vizita/" target="_self" >Salina Turda: cât durează vizita și ce să luați cu voi</a></h3>
-			<div class="guide-excerpt wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Sunt 12 grade constant, tot anul. Oamenii coboară în tricou și ies după o oră tremurând. </p></div>
+			<h3 class="guide-title wp-block-post-title"><a href="./ciucasul-vremea/" target="_self" >Ciucașul, când vremea ține cu tine</a></h3>
+			<div class="guide-excerpt wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Una dintre cele mai frumoase zile pe care le-am prins anul ăsta pe munte. </p></div>
 		</li></ul>
 	</div>
 	
@@ -634,7 +565,7 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 	
 	<div class="wp-block-buttons alignwide is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-c95d9e5d wp-block-buttons-is-layout-flex" style="margin-top:var(--wp--preset--spacing--40)">
 		
-		<div class="wp-block-button is-style-outline is-style-outline--3"><a class="wp-block-button__link wp-element-button" href="./ghid/">Toate destinațiile</a></div>
+		<div class="wp-block-button is-style-outline is-style-outline--3"><a class="wp-block-button__link wp-element-button" href="./blog/">Toate articolele</a></div>
 		
 	</div>
 	
@@ -779,7 +710,7 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 		
 		<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:32%">
 			
-			<a class="brand brand--footer" href="./"><span class="brand__name">Blackcar</span><span class="brand__tag">Transferuri private &middot; București</span></a>			
+			<a class="brand brand--footer" href="./"><span class="brand__name">Blackcar</span></a>			
 
 			
 			<p class="wp-block-paragraph" style="margin-top:0.9rem;font-size:clamp(0.875rem, 0.875rem + ((1vw - 0.2rem) * 0.112), 0.938rem);">Transferuri aeroport și tururi private în România, cu șoferi proprii. Prețuri fixe, confirmate înainte de cursă.</p>
@@ -816,7 +747,7 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 
 			
 			<ul class="wp-block-list is-style-plain" style="padding-left:0;font-size:clamp(0.875rem, 0.875rem + ((1vw - 0.2rem) * 0.112), 0.938rem);">
-				<li><a href="./ghid/">Ghid de destinații</a></li>
+				<li><a href="./blog/">Blog</a></li>
 				<li><a href="./#tururi">Bran și Peleș</a></li>
 				<li><a href="./#tururi">Transfăgărășan</a></li>
 				<li><a href="./#tururi">Sibiu și Sighișoara</a></li>
