@@ -6,7 +6,10 @@
 	--ink: var(--wp--preset--color--ink, #0A0B0C);
 	--ink-2: var(--wp--preset--color--ink-2, #141618);
 	--ink-3: var(--wp--preset--color--ink-3, #2A2E33);
-	--gold: var(--wp--preset--color--gold, #B8924E);
+	--gold: var(--wp--preset--color--gold, #C08F3A);
+	/* Auriul de buton cade sub 4.5:1 pe hârtie, deci textul mic pe fundal
+	   deschis folosește varianta închisă (5.2:1). */
+	--gold-ink: var(--wp--preset--color--gold-ink, #8A5F1C);
 	--gold-soft: var(--wp--preset--color--gold-soft, #D9BC81);
 	/* Alama de brand cade sub 4.5:1 pe alb, deci textul mic pe fundal deschis
 	   folosește varianta închisă (5.0:1). */
@@ -467,7 +470,7 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 	color: var(--ink);
 }
 .card__title a { color: inherit; text-decoration: none; }
-.card__title a:hover { color: var(--gold); }
+.card__title a:hover { color: var(--gold-ink); }
 .card__text { color: var(--muted); font-size: 0.9375rem; margin: 0; line-height: 1.6; }
 .card__meta {
 	display: flex;
@@ -490,7 +493,7 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 	align-self: flex-start;
 	transition: color var(--t);
 }
-.card__link:hover { color: var(--gold); }
+.card__link:hover { color: var(--gold-ink); }
 
 /* ---------- Flotă ---------- */
 
@@ -974,7 +977,7 @@ a.guide-more:hover { color: var(--gold-ink); border-color: var(--gold-ink); }
 	transition: color var(--t);
 }
 .faq__item summary::-webkit-details-marker { display: none; }
-.faq__item summary:hover { color: var(--gold); }
+.faq__item summary:hover { color: var(--gold-ink); }
 .faq__item summary::after {
 	content: "";
 	position: absolute;
@@ -1006,7 +1009,7 @@ a.guide-more:hover { color: var(--gold-ink); border-color: var(--gold-ink); }
 	font-weight: 600;
 	letter-spacing: .1em;
 	text-transform: uppercase;
-	color: var(--gold);
+	color: var(--gold-ink);
 }
 .contact-item__value {
 	margin: 0;
