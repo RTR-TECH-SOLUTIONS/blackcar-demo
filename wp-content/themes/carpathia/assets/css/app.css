@@ -1,4 +1,4 @@
-/* Cursa Ta – stiluri proprii peste tokenii din theme.json */
+/* Transfer Otopeni – stiluri proprii peste tokenii din theme.json */
 
 :root {
 	--header-h: 64px;
@@ -49,9 +49,14 @@ body { overflow-x: clip; }
 .site-topbar a:hover { color: var(--gold-soft); }
 
 @media (max-width: 640px) {
-	.topbar-email { display: none; }
+	/* Pe telefon rămâne un singur număr în bara de sus, restul datelor sunt
+	   oricum la Contact și în subsol. */
+	.topbar-email,
+	.topbar-tel-2 { display: none; }
 	.site-topbar .wp-block-group { min-height: 0; }
 }
+/* Al doilea număr, în lista de contact, stă sub primul, nu lipit de el. */
+.contact-item__value + .contact-item__value { margin-top: .45rem; }
 
 .site-header {
 	position: sticky;
@@ -80,7 +85,14 @@ body { overflow-x: clip; }
 	   altfel imparte antetul si strange butonul de oferta. */
 	white-space: nowrap;
 }
-@media (max-width: 400px) { .brand__name { font-size: 1.2rem; } }
+/* Numele firmei e lung, deci pe ecrane inguste antetul are nevoie de
+   proportii mai mici, altfel butonul de oferta iese in afara ecranului. */
+@media (max-width: 560px) {
+	.brand__name { font-size: 1.1rem; }
+	.site-header .alignwide > .wp-block-group.is-layout-flex { gap: 0.85rem; }
+	.header-cta .wp-block-button__link { padding: 0.6rem 0.85rem; font-size: 0.8125rem; }
+}
+@media (max-width: 400px) { .brand__name { font-size: 1rem; } }
 @media (min-width: 900px) { .brand__name { font-size: 1.5rem; } }
 .brand--footer .brand__name { font-size: 1.5rem; }
 
@@ -181,7 +193,7 @@ body { overflow-x: clip; }
 	inset: 0;
 	z-index: -1;
 	background:
-		linear-gradient(to right, rgba(6, 7, 8, .82) 0%, rgba(6, 7, 8, .62) 38%, rgba(6, 7, 8, .18) 72%, rgba(6, 7, 8, .26) 100%),
+		linear-gradient(to right, rgba(6, 7, 8, .30) 0%, rgba(6, 7, 8, .44) 30%, rgba(6, 7, 8, .72) 62%, rgba(6, 7, 8, .88) 100%),
 		linear-gradient(to bottom, rgba(6, 7, 8, .40) 0%, rgba(6, 7, 8, .04) 42%, rgba(6, 7, 8, .52) 100%);
 }
 /* pe mobil imaginea umple tot cadrul, deci textul are nevoie de mai mult voal */
@@ -192,8 +204,50 @@ body { overflow-x: clip; }
 	}
 }
 .hero :where(h1, h2, h3, p) { color: #fff; }
-.hero .hero__content > :where(p, h1, ul, .wp-block-buttons) { max-width: 36rem; }
-.hero__actions { margin-top: 2rem; }
+
+/* Tot textul stă în panoul din dreapta, peste partea închisă a fotografiei. */
+.hero .hero__content > *,
+.hero .hero__panel > * { margin-block: 0; }
+.hero__title { margin: 0; }
+.hero__title { max-width: 20ch; }
+/* Marginile trebuie să bată regula de resetare de mai sus, de aici selectorul lung. */
+.hero .hero__panel > .hero__aside { margin-top: 1.9rem; }
+.hero .hero__panel > .hero__cta { margin-top: 3.4rem; }
+.hero__cta {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 1rem 1.6rem;
+}
+.hero__cta-note {
+	max-width: 32rem;
+	margin: 1.4rem 0 0;
+	font-size: 0.9375rem;
+	line-height: 1.55;
+	color: #B8B4AC;
+}
+.hero__actions { margin: 0; }
+.hero__phone .wp-block-button__link { font-size: 1.0625rem; padding: 0.95rem 1.5rem; }
+
+@media (min-width: 900px) {
+	/* Panoul e împins la dreapta în interiorul containerului „wide", ca marginea
+	   lui din dreapta să cadă exact sub butonul din antet. */
+	.hero__panel {
+		max-width: 42rem;
+		margin-inline-start: auto;
+		text-align: right;
+	}
+	/* Rândurile pornesc din dreapta, deci și blocurile înguste și semnele
+	   grafice (linia de la etichetă, rombul din listă) se întorc pe dreapta. */
+	.hero .hero__panel :where(.hero__title, .hero__lead, .hero__cta-note) {
+		margin-inline-start: auto;
+		margin-inline-end: 0;
+	}
+	.hero__eyebrow { flex-direction: row-reverse; }
+	.hero__points li { flex-direction: row-reverse; }
+	.hero__cta,
+	.hero .hero__actions { justify-content: flex-end; }
+}
 .hero .wp-block-button.is-style-outline .wp-block-button__link {
 	background: transparent;
 	color: #fff;
@@ -212,7 +266,9 @@ body { overflow-x: clip; }
 .hero__lead {
 	color: #CBC8C1;
 	max-width: 46ch;
-	font-size: 1.0625rem;
+	margin: 0;
+	font-size: 1.1875rem;
+	line-height: 1.6;
 }
 
 .hero__eyebrow {
@@ -235,10 +291,10 @@ body { overflow-x: clip; }
 .hero__points {
 	list-style: none;
 	padding: 0;
-	margin: 1.6rem 0 0;
+	margin: 1.4rem 0 0;
 	display: grid;
 	gap: .55rem;
-	font-size: 0.9375rem;
+	font-size: 1.0625rem;
 	color: #D6D3CC;
 }
 .hero__points li {
@@ -700,7 +756,7 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 @media (min-width: 800px) { .steps { grid-template-columns: repeat(3, 1fr); gap: 2.5rem; } }
 .step { counter-increment: step; }
 .step::before {
-	content: counter(step, decimal-leading-zero);
+	content: counter(step);
 	font-family: var(--wp--preset--font-family--heading);
 	font-size: 2.25rem;
 	color: var(--gold);
@@ -1004,6 +1060,8 @@ a.guide-more:hover { color: var(--gold-ink); border-color: var(--gold-ink); }
 }
 @media (min-width: 700px) { .contact-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (min-width: 1000px) { .contact-grid { grid-template-columns: repeat(4, 1fr); gap: 2.5rem; } }
+/* Cu doar două date de contact, coloanele rămân late, nu înghesuite într-un colț. */
+@media (min-width: 700px) { .contact-grid--2 { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 3rem; } }
 .contact-item__label {
 	margin: 0 0 .5rem;
 	font-size: 0.75rem;
@@ -1022,6 +1080,12 @@ a.guide-more:hover { color: var(--gold-ink); border-color: var(--gold-ink); }
 .contact-item__value a { color: inherit; text-decoration: none; border-bottom: 1px solid var(--gold); padding-bottom: 2px; }
 .contact-item__value a:hover { color: var(--terracotta); border-color: var(--terracotta); }
 .contact-item__note { margin: .7rem 0 0; font-size: 0.875rem; color: var(--muted); }
+
+/* Cardurile de tur sunt mici, deci pe telefon intră două pe rând.
+   Grila vine din layout-ul WP, de aceea are nevoie de !important. */
+@media (max-width: 700px) {
+	.tours-grid { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
+}
 
 /* ---------- Bandă CTA ---------- */
 
@@ -1086,6 +1150,20 @@ a.guide-more:hover { color: var(--gold-ink); border-color: var(--gold-ink); }
 	font-size: 1.1875rem;
 	line-height: 1.6;
 	color: var(--ink);
+}
+
+/* Pozele adăugate în articol: aceleași colțuri ca restul site-ului. Legendele
+   din galerie rămân cum le pune WordPress (peste poză); doar cele de la o poză
+   singură stau dedesubt, ca la un articol de revistă. */
+.entry-content :where(.wp-block-image, .wp-block-gallery) { margin-block: 2.6rem; }
+.entry-content :where(.wp-block-image, .wp-block-gallery) img { border-radius: 10px; }
+.entry-content .wp-block-gallery { gap: 1rem; }
+.entry-content .wp-block-post-content > .wp-block-image > figcaption {
+	margin: .7rem 0 0;
+	font-size: 0.875rem;
+	line-height: 1.5;
+	color: var(--muted);
+	text-align: left;
 }
 
 .article-hero__eyebrow { font-size: 0.9375rem; margin: 0 0 1.1rem; }

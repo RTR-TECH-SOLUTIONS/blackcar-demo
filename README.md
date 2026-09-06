@@ -1,4 +1,4 @@
-# Cursa Ta — demo de prezentare
+# Transfer Otopeni — demo de prezentare
 
 Export static al site-ului de prezentare (transferuri aeroport, tururi
 private și ghid de destinații), construit de RTR Tech Solutions.

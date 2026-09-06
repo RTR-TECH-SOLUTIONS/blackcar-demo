@@ -1,4 +1,4 @@
-# Cursa Ta — instalare pe găzduirea clientului
+# Transfer Otopeni — instalare pe găzduirea clientului
 
 Site-ul e o temă WordPress bloc, scrisă la comandă. Nu are nevoie de niciun
 plugin și nu folosește page builder. Merge pe orice găzduire cu WordPress.
@@ -54,7 +54,7 @@ separat, cu pagină proprie fiecare.
 
 **5. Verifică**
 
-- Setări → General: titlu `Cursa Ta`, descriere
+- Setări → General: titlu `Transfer Otopeni`, descriere
   `Transferuri aeroport și tururi private în România`, fus orar `Europe/București`
 - deschide `/` (prezentarea), `/blog/`, `/tururi/`, un tur și un articol
 
@@ -65,13 +65,30 @@ De acolo se propagă în bara de sus, în butoanele „Sună", în linkul de Wha
 și în subsol.
 
 ```php
-'telefon'      => '0726 260 471',
+'telefon'      => '+40 726 260 471',
 'telefon_link' => '+40726260471',
 'whatsapp'     => '40726260471',
-'email'        => 'contact@cursata.ro',
-'program'      => 'Zilnic, de la 06:00 până la 23:00',
+'email'        => 'contact@transferotopeni.ro',
+'program'      => '24 din 24, 7 zile din 7',
 'adresa'       => 'București',
+'facebook'     => 'https://www.facebook.com/profile.php?id=100063703564985',
 ```
+
+## Cum se adaugă un articol cu poze
+
+Articole → Adaugă articol. Editorul pornește cu structura gata pusă:
+
+1. titlul, de exemplu „O zi la Bran, cu o familie din Franța"
+2. o frază despre drum
+3. un rând de poze: se apasă **Încarcă** în blocul Galerie și se aleg pozele
+   din telefon sau din calculator (se pot selecta mai multe deodată)
+4. încă o frază, despre unde s-a oprit și cum a fost ziua
+5. dreapta: **Categorii** (Transilvania, Muntenia, Bucovina, București,
+   Sfaturi de drum) și, dacă se vrea o anumită poză în lista de articole,
+   **Stabilește imaginea reprezentativă**
+
+Dacă imaginea reprezentativă nu e aleasă, site-ul o pune singur pe prima poză
+din articol, ca articolul să nu apară fără fotografie în listă.
 
 ## Ce poate edita clientul singur din panou
 
@@ -84,13 +101,8 @@ De acolo se propagă în bara de sus, în butoanele „Sună", în linkul de Wha
 
 Lucrurile de mai jos sunt de demo și trebuie înlocuite cu datele reale:
 
-- numele firmei, care acum e provizoriu („Cursa Ta"), plus adresa de e-mail
-  care vine din el
-- programul de lucru, acum pus de noi ca exemplu
-- cele trei recenzii, care acum sunt scrise de noi, nu preluate de pe Google
 - articolele de blog și pozele lor, de înlocuit cu pozele lui din tururi
-- patru poze de tururi (Cantacuzino, Salina Slănic, Paltinu, Bran) sunt de pe
-  Wikimedia, cu licență care cere credit: fie se pune creditul, fie se
-  înlocuiesc cu poze proprii
+- trei poze de tururi (Bran, Peleș, Paltinu) sunt de pe Wikimedia, cu licență
+  care cere credit: fie se pune creditul, fie se înlocuiesc cu poze proprii
 - banner de cookie-uri și verificarea juridică a paginilor Termeni,
   Confidențialitate și Politica de cookies
