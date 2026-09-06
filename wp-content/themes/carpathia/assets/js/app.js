@@ -1,5 +1,5 @@
 /**
- * Cursa Ta – interacțiuni minime.
+ * Transfer Otopeni – interacțiuni minime.
  * Formularul de ofertă nu trimite date nicăieri: compune un mesaj WhatsApp,
  * pentru că așa lucrează efectiv firmele de transfer.
  */
@@ -17,7 +17,6 @@
 			.toISOString()
 			.slice(0, 10);
 		dateInput.min = iso;
-		if (!dateInput.value) dateInput.value = iso;
 	}
 
 	form.addEventListener('submit', function (event) {
@@ -47,7 +46,7 @@
 			'Ora: ' + (time || '(de completat)'),
 			'Persoane: ' + (people || '1')
 		];
-		if (flight) lines.splice(5, 0, 'Număr zbor: ' + flight);
+		if (flight) lines.splice(6, 0, 'Număr zbor: ' + flight);
 		if (phone_contact) lines.push('Telefon: ' + phone_contact);
 
 		var mesaj = lines.join('\n');
