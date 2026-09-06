@@ -75,26 +75,27 @@ body { overflow-x: clip; }
 	transition: opacity var(--t);
 }
 .brand:hover { opacity: .82; }
-.brand__name {
-	font-family: var(--wp--preset--font-family--heading);
-	font-size: 1.35rem;
-	font-weight: 500;
-	letter-spacing: .01em;
-	color: #fff;
-	/* Pe ecrane inguste numele nu are voie sa se rupa in doua rinduri,
-	   altfel imparte antetul si strange butonul de oferta. */
-	white-space: nowrap;
+.brand__logo {
+	display: block;
+	height: 26px;
+	width: auto;
 }
-/* Numele firmei e lung, deci pe ecrane inguste antetul are nevoie de
-   proportii mai mici, altfel butonul de oferta iese in afara ecranului. */
+/* Logo-ul e lat, deci pe ecrane înguste coboară în înălțime. Sub 520px
+   butonul de ofertă iese din antet: același îndemn e imediat sub el, în hero,
+   plus butonul de WhatsApp care stă tot timpul pe ecran. */
 @media (max-width: 560px) {
-	.brand__name { font-size: 1.1rem; }
+	.brand__logo { height: 19px; }
 	.site-header .alignwide > .wp-block-group.is-layout-flex { gap: 0.85rem; }
 	.header-cta .wp-block-button__link { padding: 0.6rem 0.85rem; font-size: 0.8125rem; }
 }
-@media (max-width: 400px) { .brand__name { font-size: 1rem; } }
-@media (min-width: 900px) { .brand__name { font-size: 1.5rem; } }
-.brand--footer .brand__name { font-size: 1.5rem; }
+@media (max-width: 520px) {
+	.site-header .header-cta.wp-block-buttons { display: none; }
+}
+@media (max-width: 380px) {
+	.brand__logo { height: 17px; }
+}
+@media (min-width: 900px) { .brand__logo { height: 30px; } }
+.brand--footer .brand__logo { height: 30px; }
 
 /* Navigația */
 .site-header .wp-block-navigation {
@@ -339,7 +340,7 @@ body { overflow-x: clip; }
 	.quote-form__row--2 { grid-template-columns: 1fr 1fr; }
 	.quote-form__row--3 { grid-template-columns: 1fr 1fr 1fr; }
 }
-.quote-field { display: grid; gap: .3rem; }
+.quote-field { display: grid; gap: .3rem; min-width: 0; }
 .quote-field label {
 	font-size: 0.75rem;
 	font-weight: 600;
@@ -348,6 +349,8 @@ body { overflow-x: clip; }
 }
 .quote-field :where(input, select) {
 	box-sizing: border-box;
+	width: 100%;
+	min-width: 0;
 	font: inherit;
 	font-size: 0.9375rem;
 	color: var(--ink);
@@ -433,6 +436,9 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 	align-items: start;
 	gap: 1rem;
 }
+/* Pe o singură coloană, coloana trebuie să poată fi mai îngustă decât lățimea
+   proprie a câmpului de dată, altfel formularul iese din ecranele mici. */
+.quote-form { grid-template-columns: minmax(0, 1fr); }
 .quote-form--band .quote-field :where(input, select) { height: 46px; }
 @media (min-width: 640px) {
 	.quote-form--band { grid-template-columns: 1fr 1fr; }
