@@ -54,7 +54,7 @@ separat, cu pagină proprie fiecare.
 
 **5. Verifică**
 
-- Setări → General: titlu `Transfer Otopeni`, descriere
+- Setări → General: titlu `Transfer Otopeni.ro`, descriere
   `Transferuri aeroport și tururi private în România`, fus orar `Europe/București`
 - deschide `/` (prezentarea), `/blog/`, `/tururi/`, un tur și un articol
 
@@ -67,9 +67,10 @@ De acolo se propagă în bara de sus, în butoanele „Sună", în linkul de Wha
 ```php
 'telefon'      => '+40 726 260 471',
 'telefon_link' => '+40726260471',
+'telefon_2'    => '+40 746 464 826',
 'whatsapp'     => '40726260471',
 'email'        => 'contact@transferotopeni.ro',
-'program'      => '24 din 24, 7 zile din 7',
+'program'      => '24h din 24h, 7 zile din 7',
 'adresa'       => 'București',
 'facebook'     => 'https://www.facebook.com/profile.php?id=100063703564985',
 ```
