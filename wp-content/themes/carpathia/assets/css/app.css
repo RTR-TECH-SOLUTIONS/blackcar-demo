@@ -606,9 +606,11 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 .fleet-shot--wide img { aspect-ratio: 4 / 3; }
 /* Vanul negru închide galeria pe toată lățimea: cu șapte fotografii, așa
    grila rămâne plină și la trei coloane, și la două. Mașina umple cadrul,
-   deci poza păstrează proporția ei, ca să nu se taie roțile sau plafonul. */
+   deci poza păstrează proporția ei, ca să nu se taie roțile sau plafonul.
+   Proporția e scrisă explicit: la pozele lazy WordPress pune sizes="auto",
+   iar browserul le ignoră atunci proporția naturală. */
 .fleet-shot--banner { grid-column: 1 / -1; }
-.fleet-shot--banner img { aspect-ratio: auto; }
+.fleet-shot--banner img { aspect-ratio: 2000 / 1096; }
 
 .fleet-classes {
 	margin-top: 3rem;
@@ -1104,6 +1106,29 @@ a.guide-more:hover { color: var(--gold-ink); border-color: var(--gold-ink); }
 	.tours-grid { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
 }
 
+/* ---------- Vedete ---------- */
+
+.vedete-grid {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: grid;
+	gap: 1.25rem;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+@media (min-width: 760px) { .vedete-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (min-width: 1000px) { .vedete-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1.5rem; } }
+/* Pozele sunt făcute cu telefonul, deci pe înălțime: cadrul le păstrează forma. */
+.vedete-grid img {
+	display: block;
+	width: 100%;
+	height: auto;
+	aspect-ratio: 3 / 4;
+	object-fit: cover;
+	border-radius: 10px;
+	background: var(--sand);
+}
+
 /* ---------- Bandă CTA ---------- */
 
 .cta-band { background: var(--sand); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
@@ -1122,7 +1147,13 @@ a.guide-more:hover { color: var(--gold-ink); border-color: var(--gold-ink); }
 	padding: 0;
 }
 
-.site-footer .footer-bottom { border-top: 1px solid rgba(255, 255, 255, .09); font-size: 0.8125rem; color: #82807B; }
+/* Cele două aeroporturi stau grupate sub eticheta „Transferuri aeroport". */
+.site-footer .footer-group > ul {
+	list-style: none;
+	margin: 0;
+	padding-left: .85rem;
+}
+.site-footer .footer-bottom { border-top: 1px solid rgba(255, 255, 255, .09); font-size: 0.8125rem; color: #918F89; }
 .footer-legal img { height: 42px; width: auto; border-radius: 4px; }
 
 /* ---------- WhatsApp flotant ---------- */

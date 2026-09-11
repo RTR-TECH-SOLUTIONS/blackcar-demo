@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress/7.1" created="2026-09-11 20:12" -->
+<!-- generator="WordPress/7.1" created="2026-09-11 22:22" -->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Transfer Otopeni.ro</title>
 <link>https://rtr-tech-solutions.github.io/blackcar-demo</link>
 <description>Transferuri aeroport și tururi private în România</description>
-<pubDate>Fri, 11 Sep 2026 20:12:28 +0000</pubDate>
+<pubDate>Fri, 11 Sep 2026 22:22:34 +0000</pubDate>
 <language>ro-RO</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>https://rtr-tech-solutions.github.io/blackcar-demo</wp:base_site_url>
@@ -193,14 +193,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-sibiu-sighisoara.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-sibiu-sighisoara.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/tur-sibiu-sighisoara.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/tur-sibiu-sighisoara.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:32:"2026/09/tur-sibiu-sighisoara.jpg";s:8:"filesize";i:281330;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"tur-sibiu-sighisoara-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16980;}s:5:"large";a:5:{s:4:"file";s:33:"tur-sibiu-sighisoara-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:150136;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"tur-sibiu-sighisoara-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7174;}s:12:"medium_large";a:5:{s:4:"file";s:32:"tur-sibiu-sighisoara-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88584;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:33:"2026/09/tur-sibiu-sighisoara.webp";s:8:"filesize";i:197096;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:33:"tur-sibiu-sighisoara-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11242;}s:5:"large";a:5:{s:4:"file";s:34:"tur-sibiu-sighisoara-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:93852;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"tur-sibiu-sighisoara-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4544;}s:12:"medium_large";a:5:{s:4:"file";s:33:"tur-sibiu-sighisoara-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:56212;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:24:"tur-sibiu-sighisoara.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -230,14 +230,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-bucuresti.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-bucuresti.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/tur-bucuresti.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/tur-bucuresti.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:25:"2026/09/tur-bucuresti.jpg";s:8:"filesize";i:201774;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:25:"tur-bucuresti-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14854;}s:5:"large";a:5:{s:4:"file";s:26:"tur-bucuresti-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:116872;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"tur-bucuresti-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6933;}s:12:"medium_large";a:5:{s:4:"file";s:25:"tur-bucuresti-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72178;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:26:"2026/09/tur-bucuresti.webp";s:8:"filesize";i:111018;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:26:"tur-bucuresti-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:8780;}s:5:"large";a:5:{s:4:"file";s:27:"tur-bucuresti-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:59866;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"tur-bucuresti-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4100;}s:12:"medium_large";a:5:{s:4:"file";s:26:"tur-bucuresti-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:38790;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:17:"tur-bucuresti.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -267,14 +267,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-bucovina.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-bucovina.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/tur-bucovina.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/tur-bucovina.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:24:"2026/09/tur-bucovina.jpg";s:8:"filesize";i:165105;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:24:"tur-bucovina-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18421;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"tur-bucovina-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7922;}s:12:"medium_large";a:5:{s:4:"file";s:24:"tur-bucovina-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98222;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:25:"2026/09/tur-bucovina.webp";s:8:"filesize";i:115122;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:25:"tur-bucovina-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:13248;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"tur-bucovina-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5584;}s:12:"medium_large";a:5:{s:4:"file";s:25:"tur-bucovina-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:63348;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:16:"tur-bucovina.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -304,14 +304,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-castelul-corvinilor.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-castelul-corvinilor.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/blog-castelul-corvinilor.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/blog-castelul-corvinilor.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:36:"2026/09/blog-castelul-corvinilor.jpg";s:8:"filesize";i:320387;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:36:"blog-castelul-corvinilor-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13993;}s:5:"large";a:5:{s:4:"file";s:37:"blog-castelul-corvinilor-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:158054;}s:9:"thumbnail";a:5:{s:4:"file";s:36:"blog-castelul-corvinilor-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6232;}s:12:"medium_large";a:5:{s:4:"file";s:36:"blog-castelul-corvinilor-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86988;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:37:"2026/09/blog-castelul-corvinilor.webp";s:8:"filesize";i:243266;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:37:"blog-castelul-corvinilor-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:8910;}s:5:"large";a:5:{s:4:"file";s:38:"blog-castelul-corvinilor-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:105358;}s:9:"thumbnail";a:5:{s:4:"file";s:37:"blog-castelul-corvinilor-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3888;}s:12:"medium_large";a:5:{s:4:"file";s:37:"blog-castelul-corvinilor-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:57862;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:28:"blog-castelul-corvinilor.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -341,14 +341,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-salina-turda.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-salina-turda.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/blog-salina-turda.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/blog-salina-turda.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:29:"2026/09/blog-salina-turda.jpg";s:8:"filesize";i:298750;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:29:"blog-salina-turda-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17994;}s:5:"large";a:5:{s:4:"file";s:30:"blog-salina-turda-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:162407;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"blog-salina-turda-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8701;}s:12:"medium_large";a:5:{s:4:"file";s:29:"blog-salina-turda-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96873;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:30:"2026/09/blog-salina-turda.webp";s:8:"filesize";i:216274;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:30:"blog-salina-turda-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11916;}s:5:"large";a:5:{s:4:"file";s:31:"blog-salina-turda-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:104068;}s:9:"thumbnail";a:5:{s:4:"file";s:30:"blog-salina-turda-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5926;}s:12:"medium_large";a:5:{s:4:"file";s:30:"blog-salina-turda-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:62170;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:21:"blog-salina-turda.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -378,14 +378,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-castelul-peles.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-castelul-peles.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/blog-castelul-peles.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/blog-castelul-peles.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:31:"2026/09/blog-castelul-peles.jpg";s:8:"filesize";i:271966;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:31:"blog-castelul-peles-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17489;}s:5:"large";a:5:{s:4:"file";s:32:"blog-castelul-peles-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:150052;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"blog-castelul-peles-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7611;}s:12:"medium_large";a:5:{s:4:"file";s:31:"blog-castelul-peles-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90353;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:32:"2026/09/blog-castelul-peles.webp";s:8:"filesize";i:178134;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"blog-castelul-peles-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11560;}s:5:"large";a:5:{s:4:"file";s:33:"blog-castelul-peles-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:90242;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"blog-castelul-peles-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5088;}s:12:"medium_large";a:5:{s:4:"file";s:32:"blog-castelul-peles-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:56654;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:23:"blog-castelul-peles.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -415,14 +415,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-sighisoara.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-sighisoara.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/blog-sighisoara.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/blog-sighisoara.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:27:"2026/09/blog-sighisoara.jpg";s:8:"filesize";i:314991;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:27:"blog-sighisoara-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17072;}s:5:"large";a:5:{s:4:"file";s:28:"blog-sighisoara-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:163717;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"blog-sighisoara-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7136;}s:12:"medium_large";a:5:{s:4:"file";s:27:"blog-sighisoara-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95268;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:28:"2026/09/blog-sighisoara.webp";s:8:"filesize";i:230870;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:28:"blog-sighisoara-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11462;}s:5:"large";a:5:{s:4:"file";s:29:"blog-sighisoara-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:106992;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"blog-sighisoara-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4786;}s:12:"medium_large";a:5:{s:4:"file";s:28:"blog-sighisoara-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:63032;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:19:"blog-sighisoara.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -452,14 +452,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-bucuresti.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-bucuresti.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/blog-bucuresti.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/blog-bucuresti.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:26:"2026/09/blog-bucuresti.jpg";s:8:"filesize";i:286348;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:26:"blog-bucuresti-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13932;}s:5:"large";a:5:{s:4:"file";s:27:"blog-bucuresti-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:145852;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"blog-bucuresti-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5999;}s:12:"medium_large";a:5:{s:4:"file";s:26:"blog-bucuresti-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83696;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:27:"2026/09/blog-bucuresti.webp";s:8:"filesize";i:210454;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:27:"blog-bucuresti-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:8898;}s:5:"large";a:5:{s:4:"file";s:28:"blog-bucuresti-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:92716;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"blog-bucuresti-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3620;}s:12:"medium_large";a:5:{s:4:"file";s:27:"blog-bucuresti-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:54488;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:18:"blog-bucuresti.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -591,6 +591,14 @@
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_titlu</wp:meta_key>
+    <wp:meta_value><![CDATA[Transfer aeroport Otopeni 24/7 și tururi private din București]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_descriere</wp:meta_key>
+    <wp:meta_value><![CDATA[Transfer privat de la și către aeroportul Otopeni, oriunde doriți, 24h din 24h. Urmărim zborul, iar 60 de minute de așteptare sunt incluse în preț.]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title><![CDATA[Blog]]></title>
@@ -615,6 +623,14 @@
   <wp:post_type>page</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_titlu</wp:meta_key>
+    <wp:meta_value><![CDATA[Impresii din drumețiile cu clienții | Transfer Otopeni.ro]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_descriere</wp:meta_key>
+    <wp:meta_value><![CDATA[Pe unde am fost cu clienții noștri, ce am văzut și obiectivele vizitate: castele, munte, litoral și orașe din România, cu poze din fiecare drum.]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title><![CDATA[Transfer aeroport Otopeni și Băneasa]]></title>
@@ -846,14 +862,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/vidraru.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/vidraru.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/vidraru.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/vidraru.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:19:"2026/09/vidraru.jpg";s:8:"filesize";i:188346;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:19:"vidraru-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11554;}s:5:"large";a:5:{s:4:"file";s:20:"vidraru-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88223;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"vidraru-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4787;}s:12:"medium_large";a:5:{s:4:"file";s:19:"vidraru-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53818;}s:9:"1536x1536";a:5:{s:4:"file";s:21:"vidraru-1536x1023.jpg";s:5:"width";i:1536;s:6:"height";i:1023;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:167925;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:20:"2026/09/vidraru.webp";s:8:"filesize";i:84638;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:20:"vidraru-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6030;}s:5:"large";a:5:{s:4:"file";s:21:"vidraru-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:40122;}s:9:"thumbnail";a:5:{s:4:"file";s:20:"vidraru-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2342;}s:12:"medium_large";a:5:{s:4:"file";s:20:"vidraru-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:25818;}s:9:"1536x1536";a:5:{s:4:"file";s:22:"vidraru-1536x1023.webp";s:5:"width";i:1536;s:6:"height";i:1023;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:69122;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:11:"vidraru.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -883,14 +899,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/brasov-tampa-turn.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/brasov-tampa-turn.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/brasov-tampa-turn.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/brasov-tampa-turn.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1067;s:4:"file";s:29:"2026/09/brasov-tampa-turn.jpg";s:8:"filesize";i:303875;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:29:"brasov-tampa-turn-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12730;}s:5:"large";a:5:{s:4:"file";s:30:"brasov-tampa-turn-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:129714;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"brasov-tampa-turn-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5198;}s:12:"medium_large";a:5:{s:4:"file";s:29:"brasov-tampa-turn-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:75672;}s:9:"1536x1536";a:5:{s:4:"file";s:31:"brasov-tampa-turn-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:255189;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1600;s:6:"height";i:1067;s:4:"file";s:30:"2026/09/brasov-tampa-turn.webp";s:8:"filesize";i:199580;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:30:"brasov-tampa-turn-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:8056;}s:5:"large";a:5:{s:4:"file";s:31:"brasov-tampa-turn-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:81008;}s:9:"thumbnail";a:5:{s:4:"file";s:30:"brasov-tampa-turn-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3176;}s:12:"medium_large";a:5:{s:4:"file";s:30:"brasov-tampa-turn-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:47734;}s:9:"1536x1536";a:5:{s:4:"file";s:32:"brasov-tampa-turn-1536x1024.webp";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:152138;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:21:"brasov-tampa-turn.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -920,14 +936,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/constanta.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/constanta.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/constanta.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/constanta.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1067;s:4:"file";s:21:"2026/09/constanta.jpg";s:8:"filesize";i:283776;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:21:"constanta-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17002;}s:5:"large";a:5:{s:4:"file";s:22:"constanta-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:136898;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"constanta-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7551;}s:12:"medium_large";a:5:{s:4:"file";s:21:"constanta-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85901;}s:9:"1536x1536";a:5:{s:4:"file";s:23:"constanta-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:250551;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1600;s:6:"height";i:1067;s:4:"file";s:22:"2026/09/constanta.webp";s:8:"filesize";i:150136;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:22:"constanta-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11258;}s:5:"large";a:5:{s:4:"file";s:23:"constanta-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:75528;}s:9:"thumbnail";a:5:{s:4:"file";s:22:"constanta-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5018;}s:12:"medium_large";a:5:{s:4:"file";s:22:"constanta-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:50654;}s:9:"1536x1536";a:5:{s:4:"file";s:24:"constanta-1536x1024.webp";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:124170;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:13:"constanta.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -957,14 +973,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/brasov-tampa.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/brasov-tampa.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/brasov-tampa.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/brasov-tampa.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1067;s:4:"file";s:24:"2026/09/brasov-tampa.jpg";s:8:"filesize";i:262603;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:24:"brasov-tampa-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10943;}s:5:"large";a:5:{s:4:"file";s:25:"brasov-tampa-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:113542;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"brasov-tampa-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4607;}s:12:"medium_large";a:5:{s:4:"file";s:24:"brasov-tampa-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65944;}s:9:"1536x1536";a:5:{s:4:"file";s:26:"brasov-tampa-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:222089;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1600;s:6:"height";i:1067;s:4:"file";s:25:"2026/09/brasov-tampa.webp";s:8:"filesize";i:171254;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:25:"brasov-tampa-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6722;}s:5:"large";a:5:{s:4:"file";s:26:"brasov-tampa-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:70302;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"brasov-tampa-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2724;}s:12:"medium_large";a:5:{s:4:"file";s:25:"brasov-tampa-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:40562;}s:9:"1536x1536";a:5:{s:4:"file";s:27:"brasov-tampa-1536x1024.webp";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:130966;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:16:"brasov-tampa.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -994,14 +1010,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/interior-banchete.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/interior-banchete.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/interior-banchete.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/interior-banchete.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:1050;s:4:"file";s:29:"2026/09/interior-banchete.jpg";s:8:"filesize";i:230872;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:29:"interior-banchete-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17888;}s:5:"large";a:5:{s:4:"file";s:30:"interior-banchete-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:135556;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"interior-banchete-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7057;}s:12:"medium_large";a:5:{s:4:"file";s:29:"interior-banchete-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84894;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:1050;s:4:"file";s:30:"2026/09/interior-banchete.webp";s:8:"filesize";i:118962;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:30:"interior-banchete-300x225.webp";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10592;}s:5:"large";a:5:{s:4:"file";s:31:"interior-banchete-1024x768.webp";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:69478;}s:9:"thumbnail";a:5:{s:4:"file";s:30:"interior-banchete-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4396;}s:12:"medium_large";a:5:{s:4:"file";s:30:"interior-banchete-768x576.webp";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:46660;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:21:"interior-banchete.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1031,14 +1047,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/interior-bagaje.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/interior-bagaje.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/interior-bagaje.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/interior-bagaje.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:934;s:4:"file";s:27:"2026/09/interior-bagaje.jpg";s:8:"filesize";i:243327;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:27:"interior-bagaje-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16261;}s:5:"large";a:5:{s:4:"file";s:28:"interior-bagaje-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:134425;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"interior-bagaje-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6768;}s:12:"medium_large";a:5:{s:4:"file";s:27:"interior-bagaje-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82202;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:934;s:4:"file";s:28:"2026/09/interior-bagaje.webp";s:8:"filesize";i:143790;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:28:"interior-bagaje-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10014;}s:5:"large";a:5:{s:4:"file";s:29:"interior-bagaje-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:76042;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"interior-bagaje-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4180;}s:12:"medium_large";a:5:{s:4:"file";s:28:"interior-bagaje-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:48264;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:19:"interior-bagaje.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1089,6 +1105,14 @@
     <wp:meta_key>_thumbnail_id</wp:meta_key>
     <wp:meta_value><![CDATA[12]]></wp:meta_value>
   </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_titlu</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie Castelul Peleș din București | Transfer Otopeni.ro]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_descriere</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie privată de o zi din București la Castelul Peleș, cu Pelișorul și Mănăstirea Sinaia. Plecare de la hotel, cu șofer și mașină doar pentru dumneavoastră.]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title><![CDATA[Castelul Cantacuzino]]></title>
@@ -1138,6 +1162,14 @@
     <wp:meta_key>_wp_old_slug</wp:meta_key>
     <wp:meta_value><![CDATA[castelul-cantacuzino__trashed]]></wp:meta_value>
   </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_titlu</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie Castelul Cantacuzino, Bușteni | Transfer Otopeni.ro]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_descriere</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie de o zi din București la Castelul Cantacuzino din Bușteni, cu terasa spre Caraiman și, dacă vremea permite, cascada Urlătoarea.]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title><![CDATA[Castelul Bran]]></title>
@@ -1183,6 +1215,14 @@
     <wp:meta_key>_thumbnail_id</wp:meta_key>
     <wp:meta_value><![CDATA[57]]></wp:meta_value>
   </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_titlu</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie Castelul Bran din București | Transfer Otopeni.ro]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_descriere</wp:meta_key>
+    <wp:meta_value><![CDATA[Tur privat de o zi din București la Castelul Bran, cu oprire la Cetatea Râșnov și în centrul Brașovului. Plecăm devreme, ca să prindem primele intrări.]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title><![CDATA[Salina Slănic Prahova]]></title>
@@ -1227,6 +1267,14 @@
   <wp:postmeta>
     <wp:meta_key>_thumbnail_id</wp:meta_key>
     <wp:meta_value><![CDATA[55]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_titlu</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie la Salina Slănic Prahova | Transfer Otopeni.ro]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_descriere</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie de o zi din București la Salina Slănic Prahova, în Mina Unirea, cu Muntele de Sare și Lacul Baia Baciului. Bună și vara, și pe ploaie.]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -1277,6 +1325,14 @@
     <wp:meta_key>_wp_old_slug</wp:meta_key>
     <wp:meta_value><![CDATA[barajul-paltinu]]></wp:meta_value>
   </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_titlu</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie la Barajul Paltinu | Transfer Otopeni.ro]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_descriere</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie liniștită din București la Barajul Paltinu și pe Valea Doftanei, la mai puțin de două ore de drum, cu prânz la o pensiune din zonă.]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title><![CDATA[Castelul Cantacuzino, Bușteni]]></title>
@@ -1301,14 +1357,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-cantacuzino.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-cantacuzino.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/tur-cantacuzino.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/tur-cantacuzino.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:788;s:4:"file";s:27:"2026/09/tur-cantacuzino.jpg";s:8:"filesize";i:296053;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:27:"tur-cantacuzino-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12234;}s:5:"large";a:5:{s:4:"file";s:28:"tur-cantacuzino-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:125341;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"tur-cantacuzino-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5689;}s:12:"medium_large";a:5:{s:4:"file";s:27:"tur-cantacuzino-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70202;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:788;s:4:"file";s:28:"2026/09/tur-cantacuzino.webp";s:8:"filesize";i:201650;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:28:"tur-cantacuzino-300x169.webp";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7218;}s:5:"large";a:5:{s:4:"file";s:29:"tur-cantacuzino-1024x576.webp";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:82524;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"tur-cantacuzino-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3228;}s:12:"medium_large";a:5:{s:4:"file";s:28:"tur-cantacuzino-768x432.webp";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:45740;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:19:"tur-cantacuzino.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1338,14 +1394,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-salina-slanic.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-salina-slanic.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/tur-salina-slanic.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/tur-salina-slanic.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:1050;s:4:"file";s:29:"2026/09/tur-salina-slanic.jpg";s:8:"filesize";i:186442;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:29:"tur-salina-slanic-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10110;}s:5:"large";a:5:{s:4:"file";s:30:"tur-salina-slanic-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90343;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"tur-salina-slanic-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4316;}s:12:"medium_large";a:5:{s:4:"file";s:29:"tur-salina-slanic-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53205;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:1050;s:4:"file";s:30:"2026/09/tur-salina-slanic.webp";s:8:"filesize";i:64624;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:30:"tur-salina-slanic-300x225.webp";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4142;}s:5:"large";a:5:{s:4:"file";s:31:"tur-salina-slanic-1024x768.webp";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:32160;}s:9:"thumbnail";a:5:{s:4:"file";s:30:"tur-salina-slanic-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1850;}s:12:"medium_large";a:5:{s:4:"file";s:30:"tur-salina-slanic-768x576.webp";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:20454;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:21:"tur-salina-slanic.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1375,14 +1431,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-paltinu.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-paltinu.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/tur-paltinu.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/tur-paltinu.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:788;s:4:"file";s:23:"2026/09/tur-paltinu.jpg";s:8:"filesize";i:394851;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:23:"tur-paltinu-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14287;}s:5:"large";a:5:{s:4:"file";s:24:"tur-paltinu-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:168845;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"tur-paltinu-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6203;}s:12:"medium_large";a:5:{s:4:"file";s:23:"tur-paltinu-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93211;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:788;s:4:"file";s:24:"2026/09/tur-paltinu.webp";s:8:"filesize";i:283920;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:24:"tur-paltinu-300x169.webp";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9752;}s:5:"large";a:5:{s:4:"file";s:25:"tur-paltinu-1024x576.webp";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:119384;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"tur-paltinu-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3962;}s:12:"medium_large";a:5:{s:4:"file";s:24:"tur-paltinu-768x432.webp";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:65334;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:15:"tur-paltinu.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1412,14 +1468,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-bran.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-bran.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/tur-bran.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/tur-bran.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:1065;s:4:"file";s:20:"2026/09/tur-bran.jpg";s:8:"filesize";i:158741;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:20:"tur-bran-300x228.jpg";s:5:"width";i:300;s:6:"height";i:228;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10102;}s:5:"large";a:5:{s:4:"file";s:21:"tur-bran-1024x779.jpg";s:5:"width";i:1024;s:6:"height";i:779;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73410;}s:9:"thumbnail";a:5:{s:4:"file";s:20:"tur-bran-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4221;}s:12:"medium_large";a:5:{s:4:"file";s:20:"tur-bran-768x584.jpg";s:5:"width";i:768;s:6:"height";i:584;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45752;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:1065;s:4:"file";s:21:"2026/09/tur-bran.webp";s:8:"filesize";i:46750;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:21:"tur-bran-300x228.webp";s:5:"width";i:300;s:6:"height";i:228;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4836;}s:5:"large";a:5:{s:4:"file";s:22:"tur-bran-1024x779.webp";s:5:"width";i:1024;s:6:"height";i:779;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:28826;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"tur-bran-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1870;}s:12:"medium_large";a:5:{s:4:"file";s:21:"tur-bran-768x584.webp";s:5:"width";i:768;s:6:"height";i:584;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:19734;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:12:"tur-bran.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1480,18 +1536,18 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-rasnov.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-rasnov.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/blog-rasnov.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/blog-rasnov.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:23:"2026/09/blog-rasnov.jpg";s:8:"filesize";i:120580;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:23:"blog-rasnov-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10946;}s:5:"large";a:5:{s:4:"file";s:24:"blog-rasnov-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71336;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"blog-rasnov-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5069;}s:12:"medium_large";a:5:{s:4:"file";s:23:"blog-rasnov-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47141;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:24:"2026/09/blog-rasnov.webp";s:8:"filesize";i:45848;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:24:"blog-rasnov-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5756;}s:5:"large";a:5:{s:4:"file";s:25:"blog-rasnov-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:29492;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"blog-rasnov-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2738;}s:12:"medium_large";a:5:{s:4:"file";s:24:"blog-rasnov-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:21122;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:15:"blog-rasnov.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[O zi la Râșnov, cu familia din Belgia]]></wp:meta_value>
+    <wp:meta_value><![CDATA[Cetatea Râșnov pe deal, cu inscripția Râșnov pe versantul împădurit]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -1548,18 +1604,18 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-ciucas.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-ciucas.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/blog-ciucas.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/blog-ciucas.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:23:"2026/09/blog-ciucas.jpg";s:8:"filesize";i:168710;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:23:"blog-ciucas-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12480;}s:5:"large";a:5:{s:4:"file";s:24:"blog-ciucas-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96611;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"blog-ciucas-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6028;}s:12:"medium_large";a:5:{s:4:"file";s:23:"blog-ciucas-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61241;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:24:"2026/09/blog-ciucas.webp";s:8:"filesize";i:66492;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:24:"blog-ciucas-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6888;}s:5:"large";a:5:{s:4:"file";s:25:"blog-ciucas-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:41036;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"blog-ciucas-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3452;}s:12:"medium_large";a:5:{s:4:"file";s:24:"blog-ciucas-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:28236;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:15:"blog-ciucas.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Ciucașul, când vremea ține cu tine]]></wp:meta_value>
+    <wp:meta_value><![CDATA[Vârfurile stâncoase din masivul Ciucaș, deasupra pajiștilor verzi]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -1616,18 +1672,18 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-cascada.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-cascada.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/blog-cascada.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/blog-cascada.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:24:"2026/09/blog-cascada.jpg";s:8:"filesize";i:352105;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:24:"blog-cascada-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22454;}s:5:"large";a:5:{s:4:"file";s:25:"blog-cascada-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:189054;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"blog-cascada-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9100;}s:12:"medium_large";a:5:{s:4:"file";s:24:"blog-cascada-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:117422;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:933;s:4:"file";s:25:"2026/09/blog-cascada.webp";s:8:"filesize";i:226090;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:25:"blog-cascada-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:17588;}s:5:"large";a:5:{s:4:"file";s:26:"blog-cascada-1024x682.webp";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:128942;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"blog-cascada-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6954;}s:12:"medium_large";a:5:{s:4:"file";s:25:"blog-cascada-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:86588;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:16:"blog-cascada.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-    <wp:meta_value><![CDATA[Cascada pe care o arătăm tuturor]]></wp:meta_value>
+    <wp:meta_value><![CDATA[Cascadă care curge peste stânci stratificate, în pădure]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -1653,14 +1709,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-litoral.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-litoral.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/blog-litoral.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/blog-litoral.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:934;s:4:"file";s:24:"2026/09/blog-litoral.jpg";s:8:"filesize";i:275136;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:24:"blog-litoral-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16185;}s:5:"large";a:5:{s:4:"file";s:25:"blog-litoral-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:144104;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"blog-litoral-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6895;}s:12:"medium_large";a:5:{s:4:"file";s:24:"blog-litoral-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:87611;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1400;s:6:"height";i:934;s:4:"file";s:25:"2026/09/blog-litoral.webp";s:8:"filesize";i:159782;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:25:"blog-litoral-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10822;}s:5:"large";a:5:{s:4:"file";s:26:"blog-litoral-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:85976;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"blog-litoral-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4494;}s:12:"medium_large";a:5:{s:4:"file";s:25:"blog-litoral-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:55494;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:16:"blog-litoral.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1710,6 +1766,14 @@
     <wp:meta_key>carpathia_persoane</wp:meta_key>
     <wp:meta_value><![CDATA[1-7]]></wp:meta_value>
   </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_titlu</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie Brașov din București | Transfer Otopeni.ro]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_descriere</wp:meta_key>
+    <wp:meta_value><![CDATA[O zi la Brașov cu plecare din București: Piața Sfatului, Biserica Neagră, Tâmpa cu telecabina și Strada Sforii, cu șofer privat.]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title><![CDATA[Crucea Caraiman, văzută de la Bușteni]]></title>
@@ -1734,14 +1798,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-caraiman.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-caraiman.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/blog-caraiman.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/blog-caraiman.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1512;s:6:"height";i:1008;s:4:"file";s:25:"2026/09/blog-caraiman.jpg";s:8:"filesize";i:125349;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:25:"blog-caraiman-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13619;}s:5:"large";a:5:{s:4:"file";s:26:"blog-caraiman-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88009;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"blog-caraiman-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6300;}s:12:"medium_large";a:5:{s:4:"file";s:25:"blog-caraiman-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57504;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1512;s:6:"height";i:1008;s:4:"file";s:26:"2026/09/blog-caraiman.webp";s:8:"filesize";i:61584;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:26:"blog-caraiman-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:8116;}s:5:"large";a:5:{s:4:"file";s:27:"blog-caraiman-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:37166;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"blog-caraiman-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3778;}s:12:"medium_large";a:5:{s:4:"file";s:26:"blog-caraiman-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:26526;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:17:"blog-caraiman.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1771,14 +1835,18 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/bran-drum.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/bran-drum.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/bran-drum.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/bran-drum.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1530;s:6:"height";i:2040;s:4:"file";s:21:"2026/09/bran-drum.jpg";s:8:"filesize";i:321394;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:21:"bran-drum-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15683;}s:5:"large";a:5:{s:4:"file";s:22:"bran-drum-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:132750;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"bran-drum-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6589;}s:12:"medium_large";a:5:{s:4:"file";s:22:"bran-drum-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:132750;}s:9:"1536x1536";a:5:{s:4:"file";s:23:"bran-drum-1152x1536.jpg";s:5:"width";i:1152;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:252307;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1530;s:6:"height";i:2040;s:4:"file";s:22:"2026/09/bran-drum.webp";s:8:"filesize";i:203836;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:22:"bran-drum-225x300.webp";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9508;}s:5:"large";a:5:{s:4:"file";s:23:"bran-drum-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:76092;}s:9:"thumbnail";a:5:{s:4:"file";s:22:"bran-drum-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4028;}s:12:"medium_large";a:5:{s:4:"file";s:23:"bran-drum-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:76092;}s:9:"1536x1536";a:5:{s:4:"file";s:24:"bran-drum-1152x1536.webp";s:5:"width";i:1152;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:131280;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:13:"bran-drum.jpg";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Clădiri vechi cu turnuri ascuțite la marginea drumului din Bran, sub dealul împădurit]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -1804,14 +1872,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/bran-curte.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/bran-curte.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/bran-curte.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/bran-curte.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1530;s:6:"height";i:2040;s:4:"file";s:22:"2026/09/bran-curte.jpg";s:8:"filesize";i:334422;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:22:"bran-curte-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17501;}s:5:"large";a:5:{s:4:"file";s:23:"bran-curte-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143203;}s:9:"thumbnail";a:5:{s:4:"file";s:22:"bran-curte-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6392;}s:12:"medium_large";a:5:{s:4:"file";s:23:"bran-curte-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143203;}s:9:"1536x1536";a:5:{s:4:"file";s:24:"bran-curte-1152x1536.jpg";s:5:"width";i:1152;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:269350;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1530;s:6:"height";i:2040;s:4:"file";s:23:"2026/09/bran-curte.webp";s:8:"filesize";i:194962;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:23:"bran-curte-225x300.webp";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10954;}s:5:"large";a:5:{s:4:"file";s:24:"bran-curte-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:74700;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"bran-curte-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4170;}s:12:"medium_large";a:5:{s:4:"file";s:24:"bran-curte-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:74700;}s:9:"1536x1536";a:5:{s:4:"file";s:25:"bran-curte-1152x1536.webp";s:5:"width";i:1152;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:125754;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:14:"bran-curte.jpg";}]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -1837,14 +1905,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/sat-de-munte.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/sat-de-munte.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/sat-de-munte.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/sat-de-munte.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1599;s:6:"height";i:899;s:4:"file";s:24:"2026/09/sat-de-munte.jpg";s:8:"filesize";i:150257;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:24:"sat-de-munte-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11361;}s:5:"large";a:5:{s:4:"file";s:25:"sat-de-munte-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90508;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"sat-de-munte-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5696;}s:12:"medium_large";a:5:{s:4:"file";s:24:"sat-de-munte-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56226;}s:9:"1536x1536";a:5:{s:4:"file";s:25:"sat-de-munte-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:167665;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1599;s:6:"height";i:899;s:4:"file";s:25:"2026/09/sat-de-munte.webp";s:8:"filesize";i:90634;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:25:"sat-de-munte-300x169.webp";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6428;}s:5:"large";a:5:{s:4:"file";s:26:"sat-de-munte-1024x576.webp";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:44156;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"sat-de-munte-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3256;}s:12:"medium_large";a:5:{s:4:"file";s:25:"sat-de-munte-768x432.webp";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:29264;}s:9:"1536x1536";a:5:{s:4:"file";s:26:"sat-de-munte-1536x864.webp";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:75390;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:16:"sat-de-munte.jpg";}]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -1855,14 +1923,15 @@
   <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/bran-dupa-amiaza-de-octombrie/</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:paragraph --><p>Am dus o familie la Bran într-o după-amiază de octombrie, când se golește curtea și se poate merge fără coadă. Plecarea a fost la unu de la hotel, întoarcerea pe la opt seara.</p><!-- /wp:paragraph -->
-<!-- wp:gallery {"columns":3,"linkTo":"none","className":"alignwide"} --><figure class="wp-block-gallery alignwide has-nested-images columns-3 is-cropped"><!-- wp:image {"id":84,"sizeSlug":"large","linkDestination":"none"} --><figure class="wp-block-image size-large"><img src="https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/bran-drum-768x1024.jpg" alt="Drumul principal prin Bran, pe la ora patru." class="wp-image-84"/><figcaption class="wp-element-caption">Drumul principal prin Bran, pe la ora patru.</figcaption></figure><!-- /wp:image --><!-- wp:image {"id":85,"sizeSlug":"large","linkDestination":"none"} --><figure class="wp-block-image size-large"><img src="https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/bran-curte-768x1024.jpg" alt="Curtea interioară, după ce a plecat grupul mare." class="wp-image-85"/><figcaption class="wp-element-caption">Curtea interioară, după ce a plecat grupul mare.</figcaption></figure><!-- /wp:image --><!-- wp:image {"id":86,"sizeSlug":"large","linkDestination":"none"} --><figure class="wp-block-image size-large"><img src="https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/sat-de-munte-1024x576.jpg" alt="Satul de sub munte, pe drumul de întoarcere." class="wp-image-86"/><figcaption class="wp-element-caption">Satul de sub munte, pe drumul de întoarcere.</figcaption></figure><!-- /wp:image --></figure><!-- /wp:gallery -->
-<!-- wp:paragraph --><p>Am oprit și în sat, la tarabele de pe drum, apoi am luat-o pe drumul vechi înapoi spre Prahova. Toamna se face mai încet, dar merită pentru cum arată pădurea pe partea cealaltă.</p><!-- /wp:paragraph -->]]></content:encoded>
+<!-- wp:gallery {"columns":3,"linkTo":"none","className":"alignwide"} --><figure class="wp-block-gallery alignwide has-nested-images columns-3 is-cropped"><!-- wp:image {"id":84,"sizeSlug":"large","linkDestination":"none"} --><figure class="wp-block-image size-large"><img src="https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/bran-drum-768x1024.webp" alt="Drumul principal prin Bran, pe la ora patru." class="wp-image-84"/><figcaption class="wp-element-caption">Drumul principal prin Bran, pe la ora patru.</figcaption></figure><!-- /wp:image --><!-- wp:image {"id":85,"sizeSlug":"large","linkDestination":"none"} --><figure class="wp-block-image size-large"><img src="https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/bran-curte-768x1024.webp" alt="Curtea interioară, după ce a plecat grupul mare." class="wp-image-85"/><figcaption class="wp-element-caption">Curtea interioară, după ce a plecat grupul mare.</figcaption></figure><!-- /wp:image --><!-- wp:image {"id":86,"sizeSlug":"large","linkDestination":"none"} --><figure class="wp-block-image size-large"><img src="https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/sat-de-munte-1024x576.webp" alt="Satul de sub munte, pe drumul de întoarcere." class="wp-image-86"/><figcaption class="wp-element-caption">Satul de sub munte, pe drumul de întoarcere.</figcaption></figure><!-- /wp:image --></figure><!-- /wp:gallery -->
+<!-- wp:paragraph --><p>Am oprit și în sat, la tarabele de pe drum, apoi am luat-o pe drumul vechi înapoi spre Prahova. Toamna se face mai încet, dar merită pentru cum arată pădurea pe partea cealaltă.</p><!-- /wp:paragraph -->
+]]></content:encoded>
   <excerpt:encoded><![CDATA[Curtea goală, tarabele din sat și drumul vechi înapoi spre Prahova.]]></excerpt:encoded>
   <wp:post_id>87</wp:post_id>
   <wp:post_date>2026-09-04 18:00:00</wp:post_date>
   <wp:post_date_gmt>2026-09-04 15:00:00</wp:post_date_gmt>
-  <wp:post_modified>2026-09-04 18:00:00</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-04 15:00:00</wp:post_modified_gmt>
+  <wp:post_modified>2026-09-12 00:08:13</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 21:08:13</wp:post_modified_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
   <wp:post_name>bran-dupa-amiaza-de-octombrie</wp:post_name>
@@ -1947,6 +2016,14 @@
     <wp:meta_key>_thumbnail_id</wp:meta_key>
     <wp:meta_value><![CDATA[100]]></wp:meta_value>
   </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_titlu</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie la Sinaia din București | Transfer Otopeni.ro]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_descriere</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie de o zi din București la Sinaia: Mănăstirea Sinaia, Cazinoul, Parcul Dimitrie Ghica și telecabina până la Cota 2000, cu șofer privat.]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title><![CDATA[Bușteni]]></title>
@@ -1965,8 +2042,8 @@
   <wp:post_id>97</wp:post_id>
   <wp:post_date>2026-09-11 22:59:41</wp:post_date>
   <wp:post_date_gmt>2026-09-11 19:59:41</wp:post_date_gmt>
-  <wp:post_modified>2026-09-11 22:59:41</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-11 19:59:41</wp:post_modified_gmt>
+  <wp:post_modified>2026-09-12 00:02:03</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 21:02:03</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>busteni</wp:post_name>
@@ -1992,6 +2069,22 @@
     <wp:meta_key>_thumbnail_id</wp:meta_key>
     <wp:meta_value><![CDATA[101]]></wp:meta_value>
   </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_titlu</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie la Bușteni și Babele | Transfer Otopeni.ro]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_descriere</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie de o zi din București la Bușteni: telecabina până la Babele și Sfinx, Mănăstirea Caraiman și cascada Urlătoarea, cu șofer privat.]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_pret</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>footnotes</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title><![CDATA[Cetatea Sighișoara]]></title>
@@ -2004,14 +2097,14 @@
 <!-- wp:heading --><h2 class="wp-block-heading">Ce vizităm</h2><!-- /wp:heading -->
 <!-- wp:list --><ul class="wp-block-list"><!-- wp:list-item --><li>Turnul cu Ceas și muzeul din el</li><!-- /wp:list-item --><!-- wp:list-item --><li>Piața Cetății, cu casele colorate din jur</li><!-- /wp:list-item --><!-- wp:list-item --><li>Scara Școlarilor și Biserica din Deal</li><!-- /wp:list-item --><!-- wp:list-item --><li>Casa Vlad Dracul, în care se spune că s-a născut Vlad Țepeș</li><!-- /wp:list-item --></ul><!-- /wp:list -->
 <!-- wp:heading --><h2 class="wp-block-heading">De știut</h2><!-- /wp:heading -->
-<!-- wp:paragraph --><p>Sunt cam cinci ore de mers pe sens, pe Valea Prahovei și prin Brașov. Dacă ziua vi se pare prea lungă, rămânem o noapte la Sighișoara și ne întoarcem a doua zi.</p><!-- /wp:paragraph -->
+<!-- wp:paragraph --><p>Pentru că drumul poate dura mai mult de 5 ore pe sens, se recomandă rămânerea o noapte undeva pe drum sau chiar acolo, cu întoarcerea a doua zi.</p><!-- /wp:paragraph -->
 ]]></content:encoded>
   <excerpt:encoded><![CDATA[Cetatea medievală în care se locuiește și azi, cu Turnul cu Ceas.]]></excerpt:encoded>
   <wp:post_id>98</wp:post_id>
   <wp:post_date>2026-09-11 22:59:41</wp:post_date>
   <wp:post_date_gmt>2026-09-11 19:59:41</wp:post_date_gmt>
-  <wp:post_modified>2026-09-11 22:59:41</wp:post_modified>
-  <wp:post_modified_gmt>2026-09-11 19:59:41</wp:post_modified_gmt>
+  <wp:post_modified>2026-09-11 23:47:20</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 20:47:20</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>cetatea-sighisoara</wp:post_name>
@@ -2031,11 +2124,19 @@
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>carpathia_durata</wp:meta_key>
-    <wp:meta_value><![CDATA[14-15 ore]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2 zile (recomandat)]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_thumbnail_id</wp:meta_key>
     <wp:meta_value><![CDATA[13]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_titlu</wp:meta_key>
+    <wp:meta_value><![CDATA[Excursie la Sighișoara din București | Transfer Otopeni.ro]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>carpathia_seo_descriere</wp:meta_key>
+    <wp:meta_value><![CDATA[Tur privat din București la Cetatea Sighișoara, în patrimoniul UNESCO: Turnul cu Ceas, Scara Școlarilor și Casa Vlad Dracul. Recomandat în două zile.]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -2061,14 +2162,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-sinaia.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-sinaia.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/tur-sinaia.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/tur-sinaia.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:22:"2026/09/tur-sinaia.jpg";s:8:"filesize";i:384122;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:22:"tur-sinaia-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21513;}s:5:"large";a:5:{s:4:"file";s:23:"tur-sinaia-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:158229;}s:9:"thumbnail";a:5:{s:4:"file";s:22:"tur-sinaia-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8115;}s:12:"medium_large";a:5:{s:4:"file";s:22:"tur-sinaia-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:99953;}s:9:"1536x1536";a:5:{s:4:"file";s:24:"tur-sinaia-1536x1152.jpg";s:5:"width";i:1536;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:294765;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:23:"2026/09/tur-sinaia.webp";s:8:"filesize";i:199190;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:23:"tur-sinaia-300x225.webp";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14442;}s:5:"large";a:5:{s:4:"file";s:24:"tur-sinaia-1024x768.webp";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:92930;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"tur-sinaia-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5416;}s:12:"medium_large";a:5:{s:4:"file";s:23:"tur-sinaia-768x576.webp";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:62746;}s:9:"1536x1536";a:5:{s:4:"file";s:25:"tur-sinaia-1536x1152.webp";s:5:"width";i:1536;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:157558;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:14:"tur-sinaia.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -2098,14 +2199,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-busteni.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/tur-busteni.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/tur-busteni.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/tur-busteni.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:23:"2026/09/tur-busteni.jpg";s:8:"filesize";i:431277;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:23:"tur-busteni-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18662;}s:5:"large";a:5:{s:4:"file";s:24:"tur-busteni-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:165090;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"tur-busteni-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7032;}s:12:"medium_large";a:5:{s:4:"file";s:23:"tur-busteni-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:99499;}s:9:"1536x1536";a:5:{s:4:"file";s:25:"tur-busteni-1536x1152.jpg";s:5:"width";i:1536;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:326643;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:24:"2026/09/tur-busteni.webp";s:8:"filesize";i:255132;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:24:"tur-busteni-300x225.webp";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:12510;}s:5:"large";a:5:{s:4:"file";s:25:"tur-busteni-1024x768.webp";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:106000;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"tur-busteni-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4682;}s:12:"medium_large";a:5:{s:4:"file";s:24:"tur-busteni-768x576.webp";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:65406;}s:9:"1536x1536";a:5:{s:4:"file";s:26:"tur-busteni-1536x1152.webp";s:5:"width";i:1536;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:191194;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:15:"tur-busteni.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -2135,14 +2236,14 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-nibiru.jpg</wp:attachment_url>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/blog-nibiru.webp</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[2026/09/blog-nibiru.jpg]]></wp:meta_value>
+    <wp:meta_value><![CDATA[2026/09/blog-nibiru.webp]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-    <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1199;s:4:"file";s:23:"2026/09/blog-nibiru.jpg";s:8:"filesize";i:603353;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:23:"blog-nibiru-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29891;}s:5:"large";a:5:{s:4:"file";s:24:"blog-nibiru-1024x767.jpg";s:5:"width";i:1024;s:6:"height";i:767;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:274470;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"blog-nibiru-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10697;}s:12:"medium_large";a:5:{s:4:"file";s:23:"blog-nibiru-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:166077;}s:9:"1536x1536";a:5:{s:4:"file";s:25:"blog-nibiru-1536x1151.jpg";s:5:"width";i:1536;s:6:"height";i:1151;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:534333;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1600;s:6:"height";i:1199;s:4:"file";s:24:"2026/09/blog-nibiru.webp";s:8:"filesize";i:468504;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:24:"blog-nibiru-300x225.webp";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:23544;}s:5:"large";a:5:{s:4:"file";s:25:"blog-nibiru-1024x767.webp";s:5:"width";i:1024;s:6:"height";i:767;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:203234;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"blog-nibiru-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:8528;}s:12:"medium_large";a:5:{s:4:"file";s:24:"blog-nibiru-768x576.webp";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:126442;}s:9:"1536x1536";a:5:{s:4:"file";s:26:"blog-nibiru-1536x1151.webp";s:5:"width";i:1536;s:6:"height";i:1151;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:365676;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:15:"blog-nibiru.jpg";}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -2179,6 +2280,591 @@
   <wp:postmeta>
     <wp:meta_key>_thumbnail_id</wp:meta_key>
     <wp:meta_value><![CDATA[102]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Boney M. Experience]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/boney-m-experience/</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:06 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/boney-m-experience/</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>109</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:06</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:06</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:06</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:06</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>boney-m-experience</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>1</wp:menu_order>
+  <wp:post_type>vedeta</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[110]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Boney M. Experience]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/?attachment_id=110</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:06 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/20.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>110</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:06</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:06</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:06</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:06</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>boney-m-experience-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>109</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/20.webp</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[2026/09/20.webp]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:15:"2026/09/20.webp";s:8:"filesize";i:125278;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:15:"20-300x225.webp";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10284;}s:5:"large";a:5:{s:4:"file";s:16:"20-1024x768.webp";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:64748;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"20-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4364;}s:12:"medium_large";a:5:{s:4:"file";s:15:"20-768x576.webp";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:43252;}s:9:"1536x1536";a:5:{s:4:"file";s:17:"20-1536x1152.webp";s:5:"width";i:1536;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:106034;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:6:"20.jpg";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Proprietarul firmei ține în mână un disc Boney M., lângă un grup în ținute roșii]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[La sosiri, aeroportul Otopeni]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/la-sosiri-aeroportul-otopeni/</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:07 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/la-sosiri-aeroportul-otopeni/</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>111</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:07</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:07</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:07</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:07</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>la-sosiri-aeroportul-otopeni</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>2</wp:menu_order>
+  <wp:post_type>vedeta</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[112]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[La sosiri, aeroportul Otopeni]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/?attachment_id=112</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:07 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/18.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>112</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:07</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:07</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:07</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:07</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>la-sosiri-aeroportul-otopeni-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>111</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/18.webp</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[2026/09/18.webp]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1200;s:6:"height";i:1600;s:4:"file";s:15:"2026/09/18.webp";s:8:"filesize";i:188152;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:15:"18-225x300.webp";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10780;}s:5:"large";a:5:{s:4:"file";s:16:"18-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:82684;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"18-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4850;}s:12:"medium_large";a:5:{s:4:"file";s:16:"18-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:82684;}s:9:"1536x1536";a:5:{s:4:"file";s:17:"18-1152x1536.webp";s:5:"width";i:1152;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:146882;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:6:"18.jpg";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Grup de persoane la ieșirea Sosiri din aeroportul Otopeni, cu proprietarul firmei în față]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Împreună, la festival]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/impreuna-la-festival/</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:08 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/impreuna-la-festival/</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>113</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:08</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:08</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:08</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:08</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>impreuna-la-festival</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>3</wp:menu_order>
+  <wp:post_type>vedeta</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[114]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Împreună, la festival]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/?attachment_id=114</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:08 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/19.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>114</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:08</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:08</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:08</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:08</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>impreuna-la-festival-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>113</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/19.webp</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[2026/09/19.webp]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1200;s:6:"height";i:1599;s:4:"file";s:15:"2026/09/19.webp";s:8:"filesize";i:82588;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:15:"19-225x300.webp";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7796;}s:5:"large";a:5:{s:4:"file";s:16:"19-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:43508;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"19-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3798;}s:12:"medium_large";a:5:{s:4:"file";s:16:"19-768x1023.webp";s:5:"width";i:768;s:6:"height";i:1023;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:44004;}s:9:"1536x1536";a:5:{s:4:"file";s:17:"19-1153x1536.webp";s:5:"width";i:1153;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:71544;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:6:"19.jpg";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Selfie cu mai multe persoane, la un eveniment]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Lângă scenă, la festival]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/langa-scena-la-festival/</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:09 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/langa-scena-la-festival/</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>115</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:09</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:09</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:09</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:09</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>langa-scena-la-festival</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>4</wp:menu_order>
+  <wp:post_type>vedeta</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[116]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Lângă scenă, la festival]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/?attachment_id=116</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:09 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/01.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>116</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:09</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:09</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:09</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:09</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>langa-scena-la-festival-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>115</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/01.webp</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[2026/09/01.webp]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1200;s:6:"height";i:1600;s:4:"file";s:15:"2026/09/01.webp";s:8:"filesize";i:328462;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:15:"01-225x300.webp";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:13084;}s:5:"large";a:5:{s:4:"file";s:16:"01-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:134452;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"01-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4930;}s:12:"medium_large";a:5:{s:4:"file";s:16:"01-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:134452;}s:9:"1536x1536";a:5:{s:4:"file";s:17:"01-1152x1536.webp";s:5:"width";i:1152;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:251256;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:6:"01.jpg";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Proprietarul firmei alături de un bărbat, seara, lângă o scenă de festival]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Seara, lângă scenă]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/seara-langa-scena/</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:10 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/seara-langa-scena/</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>117</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:10</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:10</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:10</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:10</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>seara-langa-scena</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>5</wp:menu_order>
+  <wp:post_type>vedeta</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[118]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Seara, lângă scenă]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/?attachment_id=118</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:11 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/21.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>118</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:11</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:11</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:11</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:11</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>seara-langa-scena-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>117</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/21.webp</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[2026/09/21.webp]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1200;s:6:"height";i:1600;s:4:"file";s:15:"2026/09/21.webp";s:8:"filesize";i:110448;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:15:"21-225x300.webp";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10764;}s:5:"large";a:5:{s:4:"file";s:16:"21-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:59012;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"21-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4784;}s:12:"medium_large";a:5:{s:4:"file";s:16:"21-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:59012;}s:9:"1536x1536";a:5:{s:4:"file";s:17:"21-1152x1536.webp";s:5:"width";i:1152;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:95438;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:6:"21.jpg";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Proprietarul firmei alături de un bărbat în costum, seara, la un festival]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Invitat, înainte de drum]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/invitat-inainte-de-drum/</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:11 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/invitat-inainte-de-drum/</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>119</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:11</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:11</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:11</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:11</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>invitat-inainte-de-drum</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>6</wp:menu_order>
+  <wp:post_type>vedeta</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[120]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Invitat, înainte de drum]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/?attachment_id=120</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:12 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/12.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>120</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:12</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:12</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:12</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:12</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>invitat-inainte-de-drum-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>119</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/12.webp</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[2026/09/12.webp]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1200;s:6:"height";i:1599;s:4:"file";s:15:"2026/09/12.webp";s:8:"filesize";i:62290;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:15:"12-225x300.webp";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7068;}s:5:"large";a:5:{s:4:"file";s:16:"12-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:33302;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"12-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3496;}s:12:"medium_large";a:5:{s:4:"file";s:16:"12-768x1023.webp";s:5:"width";i:768;s:6:"height";i:1023;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:33004;}s:9:"1536x1536";a:5:{s:4:"file";s:17:"12-1153x1536.webp";s:5:"width";i:1153;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:53400;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:6:"12.jpg";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Proprietarul firmei alături de un bărbat cu șapcă și ochelari de soare]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Înainte de eveniment]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/inainte-de-eveniment/</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:12 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/inainte-de-eveniment/</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>121</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:12</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:12</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:12</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:12</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>inainte-de-eveniment</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>7</wp:menu_order>
+  <wp:post_type>vedeta</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[122]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Înainte de eveniment]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/?attachment_id=122</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:12 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/13.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>122</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:12</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:12</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:12</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:12</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>inainte-de-eveniment-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>121</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/13.webp</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[2026/09/13.webp]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1080;s:6:"height";i:1440;s:4:"file";s:15:"2026/09/13.webp";s:8:"filesize";i:43116;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:15:"13-225x300.webp";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5862;}s:5:"large";a:5:{s:4:"file";s:16:"13-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:25664;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"13-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2870;}s:12:"medium_large";a:5:{s:4:"file";s:16:"13-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:25664;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:6:"13.jpg";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Proprietarul firmei alături de o femeie cu ochelari roșii, în interior]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[În terminal, la sosire]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/in-terminal-la-sosire/</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:13 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/in-terminal-la-sosire/</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>123</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:13</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:13</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:13</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:13</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>in-terminal-la-sosire</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>8</wp:menu_order>
+  <wp:post_type>vedeta</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[124]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[În terminal, la sosire]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/?attachment_id=124</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:13 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/17.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>124</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:13</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:13</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:13</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:13</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>in-terminal-la-sosire-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>123</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/17.webp</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[2026/09/17.webp]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1200;s:6:"height";i:1600;s:4:"file";s:15:"2026/09/17.webp";s:8:"filesize";i:123998;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:15:"17-225x300.webp";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10254;}s:5:"large";a:5:{s:4:"file";s:16:"17-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:62238;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"17-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4424;}s:12:"medium_large";a:5:{s:4:"file";s:16:"17-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:62238;}s:9:"1536x1536";a:5:{s:4:"file";s:17:"17-1152x1536.webp";s:5:"width";i:1152;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:100172;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:6:"17.jpg";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Proprietarul firmei alături de un bărbat, în terminalul unui aeroport]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Înainte de plecare]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/inainte-de-plecare/</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:14 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/vedeta/inainte-de-plecare/</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>125</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:14</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:14</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:14</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:14</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>inainte-de-plecare</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>9</wp:menu_order>
+  <wp:post_type>vedeta</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[126]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Înainte de plecare]]></title>
+  <link>https://rtr-tech-solutions.github.io/blackcar-demo/?attachment_id=126</link>
+  <pubDate>Fri, 11 Sep 2026 22:17:14 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="false">https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/09.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>126</wp:post_id>
+  <wp:post_date>2026-09-12 01:17:14</wp:post_date>
+  <wp:post_date_gmt>2026-09-11 22:17:14</wp:post_date_gmt>
+  <wp:post_modified>2026-09-12 01:17:14</wp:post_modified>
+  <wp:post_modified_gmt>2026-09-11 22:17:14</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>inainte-de-plecare-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>125</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://rtr-tech-solutions.github.io/blackcar-demo/wp-content/uploads/2026/09/09.webp</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[2026/09/09.webp]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:5:"width";i:1200;s:6:"height";i:1599;s:4:"file";s:15:"2026/09/09.webp";s:8:"filesize";i:65316;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:15:"09-225x300.webp";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6726;}s:5:"large";a:5:{s:4:"file";s:16:"09-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:33892;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"09-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3480;}s:12:"medium_large";a:5:{s:4:"file";s:16:"09-768x1023.webp";s:5:"width";i:768;s:6:"height";i:1023;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:34150;}s:9:"1536x1536";a:5:{s:4:"file";s:17:"09-1153x1536.webp";s:5:"width";i:1153;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:55944;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:14:"original_image";s:6:"09.jpg";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+    <wp:meta_value><![CDATA[Proprietarul firmei alături de două persoane, în aer liber]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>
