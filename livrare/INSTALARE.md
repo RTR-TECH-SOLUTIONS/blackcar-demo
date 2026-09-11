@@ -99,6 +99,18 @@ din articol, ca articolul să nu apară fără fotografie în listă.
   număr de persoane, afișate automat în pagină
 - imaginile reprezentative ale tururilor și articolelor
 
+## Google (SEO)
+
+Fiecare pagină, tur și articol are în bara din dreapta a editorului panoul
+**Google (SEO)**, cu titlul și descrierea care apar în rezultatele Google.
+Dacă rămân goale, se folosesc titlul paginii și rezumatul.
+
+- prima pagină, blogul și cele 9 tururi au deja titlul și descrierea completate
+- titlul mare din pagină nu se schimbă din panou, doar ce apare în Google
+- harta site-ului pentru Google e la `/wp-sitemap.xml` (pagini, tururi, articole)
+- când linkul e trimis pe WhatsApp sau Facebook apare poza turului sau a
+  articolului; la prima pagină, imaginea generală a site-ului
+
 ## De completat înainte de lansare
 
 Lucrurile de mai jos sunt de demo și trebuie înlocuite cu datele reale:
@@ -112,3 +124,13 @@ Lucrurile de mai jos sunt de demo și trebuie înlocuite cu datele reale:
   CC BY 4.0), cu creditul pus deja în legenda imaginii
 - banner de cookie-uri și verificarea juridică a paginilor Termeni,
   Confidențialitate și Politica de cookies
+
+## La lansare
+
+- Setări → Citire: bifa de la „Vizibilitate pentru motoarele de căutare"
+  trebuie să fie **debifată**, altfel Google nu indexează site-ul
+- Google Search Console: se adaugă domeniul și se trimite `/wp-sitemap.xml`
+- profil Google Business pentru firmă (zona deservită, program non-stop,
+  telefon), cu recenzii de la clienți: contează cel mai mult la căutările locale
+- pe CyberFolks (server LiteSpeed): pluginul LiteSpeed Cache, pentru ca paginile
+  să fie servite din cache
