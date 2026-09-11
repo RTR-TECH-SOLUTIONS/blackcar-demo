@@ -55,7 +55,12 @@ body { overflow-x: clip; }
 	.topbar-tel-2 { display: none; }
 	.site-topbar .wp-block-group { min-height: 0; }
 }
-/* Al doilea număr, în lista de contact, stă sub primul, nu lipit de el. */
+/* Între telefon și tabletă nu încap ambele adrese de e-mail pe un rând și bara
+   s-ar rupe în două; a doua adresă rămâne la Contact și în subsol. */
+@media (max-width: 819px) {
+	.topbar-email-2 { display: none; }
+}
+/* A doua valoare din lista de contact (număr sau e-mail) stă sub prima, nu lipită de ea. */
 .contact-item__value + .contact-item__value { margin-top: .45rem; }
 
 .site-header {
@@ -216,6 +221,9 @@ body { overflow-x: clip; }
 .hero .hero__panel > * { margin-block: 0; }
 .hero__title { margin: 0; }
 .hero__title { max-width: 20ch; }
+/* Fără un singur cuvânt rămas pe ultimul rând al frazelor din hero. */
+.hero__lead,
+.hero__points li { text-wrap: pretty; }
 /* Marginile trebuie să bată regula de resetare de mai sus, de aici selectorul lung. */
 .hero .hero__panel > .hero__aside { margin-top: 1.9rem; }
 .hero .hero__panel > .hero__cta { margin-top: 3.4rem; }
@@ -234,22 +242,6 @@ body { overflow-x: clip; }
 }
 .hero__actions { margin: 0; }
 .hero__phone .wp-block-button__link { font-size: 1.0625rem; padding: 0.95rem 1.5rem; }
-/* Butonul principal ține un rând întreg, ca cele două numere să stea împreună
-   pe rândul de sub el. Eticheta e o propoziție, deci butonul se rupe pe două
-   rânduri în loc să se întindă ca o bandă peste toată lățimea. */
-.hero__actions .wp-block-button:not(.hero__phone) { flex: 1 0 100%; }
-.hero__actions .wp-block-button:not(.hero__phone) .wp-block-button__link {
-	display: inline-block;
-	width: auto;
-	max-width: 23rem;
-	white-space: normal;
-	text-align: center;
-	text-transform: none;
-	letter-spacing: 0;
-	font-size: 1rem;
-	line-height: 1.35;
-	padding: 0.95rem 1.5rem;
-}
 
 @media (min-width: 900px) {
 	/* Panoul e împins la dreapta în interiorul containerului „wide", ca marginea
@@ -612,13 +604,11 @@ body .wp-site-blocks > .wp-block-group > * { margin-block-start: 0; }
 	background: var(--ink-2);
 }
 .fleet-shot--wide img { aspect-ratio: 4 / 3; }
-.fleet-shot__caption {
-	margin: .85rem 0 0;
-	font-size: 0.875rem;
-	color: #A79C8B;
-	line-height: 1.5;
-}
-.fleet-shot__caption strong { color: #fff; font-weight: 600; }
+/* Vanul negru închide galeria pe toată lățimea: cu șapte fotografii, așa
+   grila rămâne plină și la trei coloane, și la două. Mașina umple cadrul,
+   deci poza păstrează proporția ei, ca să nu se taie roțile sau plafonul. */
+.fleet-shot--banner { grid-column: 1 / -1; }
+.fleet-shot--banner img { aspect-ratio: auto; }
 
 .fleet-classes {
 	margin-top: 3rem;

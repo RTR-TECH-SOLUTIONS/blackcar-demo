@@ -68,6 +68,7 @@ De acolo se propagă în bara de sus, în butoanele „Sună", în linkul de Wha
 'telefon'      => '+40 726 260 471',
 'telefon_link' => '+40726260471',
 'telefon_2'    => '+40 746 464 826',
+'email_2'      => 'trip2trip@transferotopeni.ro',
 'whatsapp'     => '40726260471',
 'email'        => 'contact@transferotopeni.ro',
 'program'      => '24h din 24h, 7 zile din 7',
@@ -84,8 +85,8 @@ Articole → Adaugă articol. Editorul pornește cu structura gata pusă:
 3. un rând de poze: se apasă **Încarcă** în blocul Galerie și se aleg pozele
    din telefon sau din calculator (se pot selecta mai multe deodată)
 4. încă o frază, despre unde s-a oprit și cum a fost ziua
-5. dreapta: **Categorii** (Transilvania, Muntenia, Bucovina, București,
-   Sfaturi de drum) și, dacă se vrea o anumită poză în lista de articole,
+5. dreapta: **Categorii** (Transilvania, Muntenia, Dobrogea, Bucovina,
+   București, Sfaturi de drum) și, dacă se vrea o anumită poză în lista de articole,
    **Stabilește imaginea reprezentativă**
 
 Dacă imaginea reprezentativă nu e aleasă, site-ul o pune singur pe prima poză
@@ -105,5 +106,9 @@ Lucrurile de mai jos sunt de demo și trebuie înlocuite cu datele reale:
 - articolele de blog și pozele lor, de înlocuit cu pozele lui din tururi
 - trei poze de tururi (Bran, Peleș, Paltinu) sunt de pe Wikimedia, cu licență
   care cere credit: fie se pune creditul, fie se înlocuiesc cu poze proprii
+- vanul negru din galeria „Mașinile" e o poză de prezentare de pe Wikimedia
+  (© M 93, CC BY-SA 3.0 DE): se înlocuiește cu poza vanului negru al firmei
+- poza de la articolul despre Nibiru e de pe Wikimedia (PinkBeachPlanet,
+  CC BY 4.0), cu creditul pus deja în legenda imaginii
 - banner de cookie-uri și verificarea juridică a paginilor Termeni,
   Confidențialitate și Politica de cookies
